@@ -1,0 +1,42 @@
+[
+  {
+    "name": "אבן עזרא",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "יונתן בן עוזיאל",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "סמטת אונקלוס",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "רבנו בחיי",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "רמב\"ן",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "רש\"י",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "רשב\"ם",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "שכ איבי הנחל",
+    "symbol": 6500,
+    "houses": 0
+  }
+]

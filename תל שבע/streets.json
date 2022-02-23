@@ -1,0 +1,262 @@
+[
+  {
+    "name": "אבו בקר",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "אבן ח'לדון",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "אום ג'ביל",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "אלאמל",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "אלאס'יל",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "אלבאבור",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "אלבאניאס",
+    "symbol": 182,
+    "houses": 0
+  },
+  {
+    "name": "אלבוסתאן",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "אלביר",
+    "symbol": 187,
+    "houses": 0
+  },
+  {
+    "name": "אלברק",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "אלג'בל",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "אלדיר",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "אלואדי",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "אלזהר",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "אלח'ד'ר",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "אלח'רבה",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "אלח'רוב",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "אלטור",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "אלכרימה",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "אלמאמון",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "אלמותנבי",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "אלמזארב",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "אלרוחה",
+    "symbol": 184,
+    "houses": 0
+  },
+  {
+    "name": "טאהא חסין",
+    "symbol": 207,
+    "houses": 0
+  },
+  {
+    "name": "נוח",
+    "symbol": 185,
+    "houses": 0
+  },
+  {
+    "name": "רומאן",
+    "symbol": 183,
+    "houses": 0
+  },
+  {
+    "name": "שכ 10",
+    "symbol": 6720,
+    "houses": 0
+  },
+  {
+    "name": "שכ 20",
+    "symbol": 6727,
+    "houses": 0
+  },
+  {
+    "name": "שכ 1",
+    "symbol": 6718,
+    "houses": 0
+  },
+  {
+    "name": "שכ 11",
+    "symbol": 6721,
+    "houses": 0
+  },
+  {
+    "name": "שכ 21",
+    "symbol": 6728,
+    "houses": 0
+  },
+  {
+    "name": "שכ 2",
+    "symbol": 6719,
+    "houses": 0
+  },
+  {
+    "name": "שכ 12",
+    "symbol": 6722,
+    "houses": 0
+  },
+  {
+    "name": "שכ 3",
+    "symbol": 6703,
+    "houses": 0
+  },
+  {
+    "name": "שכ 13",
+    "symbol": 6723,
+    "houses": 0
+  },
+  {
+    "name": "שכ 4",
+    "symbol": 6712,
+    "houses": 0
+  },
+  {
+    "name": "שכ 14",
+    "symbol": 6724,
+    "houses": 0
+  },
+  {
+    "name": "שכ 5",
+    "symbol": 6710,
+    "houses": 0
+  },
+  {
+    "name": "שכ 15",
+    "symbol": 6715,
+    "houses": 0
+  },
+  {
+    "name": "שכ 45",
+    "symbol": 6716,
+    "houses": 0
+  },
+  {
+    "name": "שכ 6",
+    "symbol": 6702,
+    "houses": 0
+  },
+  {
+    "name": "שכ 16",
+    "symbol": 6726,
+    "houses": 0
+  },
+  {
+    "name": "שכ 26",
+    "symbol": 6701,
+    "houses": 0
+  },
+  {
+    "name": "שכ 36",
+    "symbol": 6706,
+    "houses": 0
+  },
+  {
+    "name": "שכ 7",
+    "symbol": 6709,
+    "houses": 0
+  },
+  {
+    "name": "שכ 37",
+    "symbol": 6713,
+    "houses": 0
+  },
+  {
+    "name": "שכ 8",
+    "symbol": 6704,
+    "houses": 0
+  },
+  {
+    "name": "שכ 28",
+    "symbol": 6707,
+    "houses": 0
+  },
+  {
+    "name": "שכ 38",
+    "symbol": 6708,
+    "houses": 0
+  },
+  {
+    "name": "שכ 9",
+    "symbol": 6717,
+    "houses": 0
+  },
+  {
+    "name": "שכ ישנה",
+    "symbol": 6711,
+    "houses": 0
+  },
+  {
+    "name": "תלה",
+    "symbol": 186,
+    "houses": 0
+  }
+]

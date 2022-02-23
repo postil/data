@@ -1,0 +1,37 @@
+[
+  {
+    "name": "הר יעלה",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "הר סנסן",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "הר עוזרר",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "מלבר",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "סמ מאלה",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "קוצ'ין",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "קרלה",
+    "symbol": 105,
+    "houses": 0
+  }
+]

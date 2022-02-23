@@ -1,0 +1,67 @@
+[
+  {
+    "name": "האגוז",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "האתרוג",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הדקל",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "ההדס",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "החרוב",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "הערבה",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "הצבר",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "השקד",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "התאנה",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 117,
+    "houses": 0
+  }
+]

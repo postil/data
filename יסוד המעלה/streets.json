@@ -1,0 +1,117 @@
+[
+  {
+    "name": "דרך השמורה",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "האגם",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "האילנות",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "האלונים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "האשכולית",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "הבוסתן",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הורדים",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "החולה",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "החלוצים",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "הירדן",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "המגדל",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "המזח",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "המייסדים",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "הפרדסים",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "הרימונים",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "השזיף",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "השקד",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "התאנה",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "התעשיה",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "ש האגם",
+    "symbol": 6500,
+    "houses": 0
+  }
+]

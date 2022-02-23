@@ -1,0 +1,457 @@
+[
+  {
+    "name": "אודם",
+    "symbol": 171,
+    "houses": 0
+  },
+  {
+    "name": "אזור תעשיה",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "ברנשטיין",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "ברקת",
+    "symbol": 172,
+    "houses": 0
+  },
+  {
+    "name": "גרניט",
+    "symbol": 173,
+    "houses": 0
+  },
+  {
+    "name": "דרך בן אריה",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "דרך הבוסתנים",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "דרך הגליל",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "דרך החלמוניות",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "דרך הטחנה",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "דרך היער",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "דרך היקב",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "דרך המרכז",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "דרך הרהט",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "דרך עתיקה",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "האגס",
+    "symbol": 168,
+    "houses": 0
+  },
+  {
+    "name": "האורנים",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "האירוס",
+    "symbol": 132,
+    "houses": 10
+  },
+  {
+    "name": "האלה",
+    "symbol": 165,
+    "houses": 0
+  },
+  {
+    "name": "האלון",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "האפרסק",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "הברוש",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "הברושים",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "הגרנות",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "הדקל",
+    "symbol": 163,
+    "houses": 0
+  },
+  {
+    "name": "הדרך הטורקית",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "הורד",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "הזיתים",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "החורש",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "החלוצים",
+    "symbol": 107,
+    "houses": 22
+  },
+  {
+    "name": "החלמית",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "החצב",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "החקלאי",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "החרוב",
+    "symbol": 166,
+    "houses": 0
+  },
+  {
+    "name": "החרצית",
+    "symbol": 167,
+    "houses": 0
+  },
+  {
+    "name": "הכלנית",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "הנדיב",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "הנורית",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "הנרקיס",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "הסלע",
+    "symbol": 174,
+    "houses": 0
+  },
+  {
+    "name": "העליה",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "הצבר",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "הראשונים",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הרדוף",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "הרחבה חקלאית",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "הרחוב העליון",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הרימונים",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "הרקפת",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "השזיף",
+    "symbol": 141,
+    "houses": 16
+  },
+  {
+    "name": "השיטה",
+    "symbol": 150,
+    "houses": 16
+  },
+  {
+    "name": "השלום",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "התורמוס",
+    "symbol": 138,
+    "houses": 33
+  },
+  {
+    "name": "התמרים",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "התפוח",
+    "symbol": 169,
+    "houses": 0
+  },
+  {
+    "name": "חן",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "יהלום",
+    "symbol": 175,
+    "houses": 0
+  },
+  {
+    "name": "מעלה בנימין",
+    "symbol": 170,
+    "houses": 0
+  },
+  {
+    "name": "מעלה גיא אוני",
+    "symbol": 115,
+    "houses": 4
+  },
+  {
+    "name": "מעלה כנען",
+    "symbol": 6514,
+    "houses": 0
+  },
+  {
+    "name": "משעול גולן",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "משעול גונן",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "משעול האקליפטוס",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "משעול התאנה",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "משעול התמר",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "ניסנבוים",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "סולד הנריאטה",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "סמ גלילי",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "ספיר",
+    "symbol": 176,
+    "houses": 0
+  },
+  {
+    "name": "פטר פביאן",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "פני גולן",
+    "symbol": 102,
+    "houses": 3
+  },
+  {
+    "name": "צור",
+    "symbol": 177,
+    "houses": 0
+  },
+  {
+    "name": "קרן היסוד",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "קרן קימת",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "ש אשטרום",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "ש הבנים",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "ש עמידר",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "ש קרן היסוד",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "ש רסקו",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "שוב דוד",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "שוהם",
+    "symbol": 178,
+    "houses": 0
+  },
+  {
+    "name": "שכ האמנים",
+    "symbol": 6510,
+    "houses": 0
+  },
+  {
+    "name": "שכ הגפנים",
+    "symbol": 6517,
+    "houses": 0
+  },
+  {
+    "name": "שכ הגרנות",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "שכ הזיתים",
+    "symbol": 6511,
+    "houses": 0
+  },
+  {
+    "name": "שכ הכרמים",
+    "symbol": 6515,
+    "houses": 0
+  },
+  {
+    "name": "שכ הראשונים",
+    "symbol": 6518,
+    "houses": 0
+  },
+  {
+    "name": "שכ פני גולן",
+    "symbol": 6516,
+    "houses": 0
+  },
+  {
+    "name": "שכון ב",
+    "symbol": 6512,
+    "houses": 0
+  },
+  {
+    "name": "שכון דרומי",
+    "symbol": 6513,
+    "houses": 0
+  },
+  {
+    "name": "שמאי עמיקם",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "תל אביב",
+    "symbol": 139,
+    "houses": 0
+  }
+]

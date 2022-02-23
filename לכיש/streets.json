@@ -1,0 +1,47 @@
+[
+  {
+    "name": "אשכול",
+    "symbol": 100,
+    "houses": 0
+  },
+  {
+    "name": "בציר",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "גפן",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "זמורה",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "כרמים",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "סמדר",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "עינב",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "שורק",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "שריג",
+    "symbol": 101,
+    "houses": 0
+  }
+]

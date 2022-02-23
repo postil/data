@@ -1,0 +1,57 @@
+[
+  {
+    "name": "דרך האקליפטוס",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "דרך הבארות",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "דרך הכרמים",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "דרך הפרחים",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "דרך הראשונים",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "החיטה",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "התאנה",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 103,
+    "houses": 0
+  }
+]

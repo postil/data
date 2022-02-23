@@ -1,0 +1,752 @@
+[
+  {
+    "name": "אביב",
+    "symbol": 189,
+    "houses": 6
+  },
+  {
+    "name": "אדוה",
+    "symbol": 161,
+    "houses": 8
+  },
+  {
+    "name": "אודם",
+    "symbol": 122,
+    "houses": 16
+  },
+  {
+    "name": "אודם-פארק התעשייה",
+    "symbol": 212,
+    "houses": 0
+  },
+  {
+    "name": "אור",
+    "symbol": 156,
+    "houses": 8
+  },
+  {
+    "name": "איריס",
+    "symbol": 129,
+    "houses": 11
+  },
+  {
+    "name": "אלון התבור",
+    "symbol": 202,
+    "houses": 12
+  },
+  {
+    "name": "אלמוג",
+    "symbol": 140,
+    "houses": 14
+  },
+  {
+    "name": "אלת המסטיק",
+    "symbol": 204,
+    "houses": 4
+  },
+  {
+    "name": "אקוודוקט",
+    "symbol": 187,
+    "houses": 0
+  },
+  {
+    "name": "ארבע העונות",
+    "symbol": 195,
+    "houses": 15
+  },
+  {
+    "name": "אשכולית",
+    "symbol": 134,
+    "houses": 9
+  },
+  {
+    "name": "בז",
+    "symbol": 176,
+    "houses": 13
+  },
+  {
+    "name": "בזלת",
+    "symbol": 230,
+    "houses": 0
+  },
+  {
+    "name": "ברק",
+    "symbol": 200,
+    "houses": 3
+  },
+  {
+    "name": "ברקן",
+    "symbol": 232,
+    "houses": 0
+  },
+  {
+    "name": "ברקת",
+    "symbol": 123,
+    "houses": 32
+  },
+  {
+    "name": "ברקת-פארק התעשייה",
+    "symbol": 213,
+    "houses": 0
+  },
+  {
+    "name": "גיא",
+    "symbol": 241,
+    "houses": 0
+  },
+  {
+    "name": "גל",
+    "symbol": 251,
+    "houses": 0
+  },
+  {
+    "name": "גני קיסריה",
+    "symbol": 6513,
+    "houses": 0
+  },
+  {
+    "name": "גרניט",
+    "symbol": 223,
+    "houses": 4
+  },
+  {
+    "name": "דוגית",
+    "symbol": 162,
+    "houses": 10
+  },
+  {
+    "name": "דוכיפת",
+    "symbol": 173,
+    "houses": 0
+  },
+  {
+    "name": "דרור",
+    "symbol": 174,
+    "houses": 13
+  },
+  {
+    "name": "דרך הים",
+    "symbol": 250,
+    "houses": 0
+  },
+  {
+    "name": "דרך פל-ים",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "דרך קיסריה",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "האגוז",
+    "symbol": 112,
+    "houses": 14
+  },
+  {
+    "name": "האגס",
+    "symbol": 111,
+    "houses": 9
+  },
+  {
+    "name": "האורג",
+    "symbol": 228,
+    "houses": 0
+  },
+  {
+    "name": "האורן",
+    "symbol": 109,
+    "houses": 11
+  },
+  {
+    "name": "האלון",
+    "symbol": 110,
+    "houses": 8
+  },
+  {
+    "name": "האשל",
+    "symbol": 201,
+    "houses": 21
+  },
+  {
+    "name": "האתרוג",
+    "symbol": 126,
+    "houses": 13
+  },
+  {
+    "name": "הברוש",
+    "symbol": 108,
+    "houses": 13
+  },
+  {
+    "name": "הגפן",
+    "symbol": 105,
+    "houses": 10
+  },
+  {
+    "name": "הגשם",
+    "symbol": 151,
+    "houses": 21
+  },
+  {
+    "name": "הדולב",
+    "symbol": 164,
+    "houses": 98
+  },
+  {
+    "name": "הדיונה",
+    "symbol": 253,
+    "houses": 0
+  },
+  {
+    "name": "הדקל",
+    "symbol": 103,
+    "houses": 13
+  },
+  {
+    "name": "הדר",
+    "symbol": 125,
+    "houses": 86
+  },
+  {
+    "name": "הורדים",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "הזוהר",
+    "symbol": 152,
+    "houses": 18
+  },
+  {
+    "name": "הזית",
+    "symbol": 104,
+    "houses": 16
+  },
+  {
+    "name": "החרוב",
+    "symbol": 114,
+    "houses": 10
+  },
+  {
+    "name": "החרש",
+    "symbol": 225,
+    "houses": 0
+  },
+  {
+    "name": "הטוחן",
+    "symbol": 210,
+    "houses": 4
+  },
+  {
+    "name": "הכוכבים",
+    "symbol": 153,
+    "houses": 70
+  },
+  {
+    "name": "הכורם",
+    "symbol": 224,
+    "houses": 0
+  },
+  {
+    "name": "הכלניות",
+    "symbol": 128,
+    "houses": 13
+  },
+  {
+    "name": "הכרמל",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "הלבנה",
+    "symbol": 158,
+    "houses": 11
+  },
+  {
+    "name": "המגדל",
+    "symbol": 107,
+    "houses": 24
+  },
+  {
+    "name": "הנופר",
+    "symbol": 227,
+    "houses": 0
+  },
+  {
+    "name": "הנץ",
+    "symbol": 182,
+    "houses": 13
+  },
+  {
+    "name": "הנקר",
+    "symbol": 169,
+    "houses": 8
+  },
+  {
+    "name": "הצדף",
+    "symbol": 252,
+    "houses": 0
+  },
+  {
+    "name": "הרדוף",
+    "symbol": 165,
+    "houses": 0
+  },
+  {
+    "name": "הרדוף הנחלים",
+    "symbol": 203,
+    "houses": 6
+  },
+  {
+    "name": "הרוקם",
+    "symbol": 226,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 113,
+    "houses": 26
+  },
+  {
+    "name": "הרקיע",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "השונית",
+    "symbol": 168,
+    "houses": 10
+  },
+  {
+    "name": "השזיף",
+    "symbol": 115,
+    "houses": 11
+  },
+  {
+    "name": "השחף",
+    "symbol": 141,
+    "houses": 9
+  },
+  {
+    "name": "השיטה",
+    "symbol": 205,
+    "houses": 4
+  },
+  {
+    "name": "השמורה",
+    "symbol": 254,
+    "houses": 0
+  },
+  {
+    "name": "השמים",
+    "symbol": 159,
+    "houses": 23
+  },
+  {
+    "name": "השמש",
+    "symbol": 155,
+    "houses": 83
+  },
+  {
+    "name": "השקד",
+    "symbol": 102,
+    "houses": 10
+  },
+  {
+    "name": "התאנה",
+    "symbol": 106,
+    "houses": 8
+  },
+  {
+    "name": "התור",
+    "symbol": 175,
+    "houses": 19
+  },
+  {
+    "name": "התמר",
+    "symbol": 101,
+    "houses": 24
+  },
+  {
+    "name": "זמיר",
+    "symbol": 180,
+    "houses": 24
+  },
+  {
+    "name": "חבצלת",
+    "symbol": 131,
+    "houses": 13
+  },
+  {
+    "name": "חבצלת החוף",
+    "symbol": 209,
+    "houses": 1
+  },
+  {
+    "name": "חולית",
+    "symbol": 255,
+    "houses": 0
+  },
+  {
+    "name": "חוף הזהב",
+    "symbol": 170,
+    "houses": 0
+  },
+  {
+    "name": "חורף",
+    "symbol": 199,
+    "houses": 6
+  },
+  {
+    "name": "חלמיש",
+    "symbol": 229,
+    "houses": 8
+  },
+  {
+    "name": "טופז",
+    "symbol": 124,
+    "houses": 42
+  },
+  {
+    "name": "טל",
+    "symbol": 240,
+    "houses": 6
+  },
+  {
+    "name": "ידיד החולות",
+    "symbol": 207,
+    "houses": 3
+  },
+  {
+    "name": "יהלום",
+    "symbol": 146,
+    "houses": 14
+  },
+  {
+    "name": "יהלום-פארק התעשייה",
+    "symbol": 214,
+    "houses": 0
+  },
+  {
+    "name": "כיכר הצמרות",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "כנרית",
+    "symbol": 177,
+    "houses": 39
+  },
+  {
+    "name": "ליבנה",
+    "symbol": 163,
+    "houses": 31
+  },
+  {
+    "name": "לימון",
+    "symbol": 120,
+    "houses": 11
+  },
+  {
+    "name": "לשם",
+    "symbol": 145,
+    "houses": 36
+  },
+  {
+    "name": "לשם-פארק התעשייה",
+    "symbol": 217,
+    "houses": 0
+  },
+  {
+    "name": "מאדים",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "מבוא הצאלון",
+    "symbol": 192,
+    "houses": 0
+  },
+  {
+    "name": "מלון דן קיסריה",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "מלון סמדר",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "מנדרינה",
+    "symbol": 136,
+    "houses": 9
+  },
+  {
+    "name": "משמרות",
+    "symbol": 231,
+    "houses": 0
+  },
+  {
+    "name": "נאות גולף",
+    "symbol": 6512,
+    "houses": 0
+  },
+  {
+    "name": "נגה",
+    "symbol": 149,
+    "houses": 28
+  },
+  {
+    "name": "נר הלילה",
+    "symbol": 206,
+    "houses": 1
+  },
+  {
+    "name": "נרקיס",
+    "symbol": 130,
+    "houses": 14
+  },
+  {
+    "name": "נשר",
+    "symbol": 183,
+    "houses": 15
+  },
+  {
+    "name": "סלעית",
+    "symbol": 171,
+    "houses": 9
+  },
+  {
+    "name": "סמ הדולב",
+    "symbol": 191,
+    "houses": 12
+  },
+  {
+    "name": "סמ הליבנה",
+    "symbol": 190,
+    "houses": 0
+  },
+  {
+    "name": "סנונית",
+    "symbol": 181,
+    "houses": 12
+  },
+  {
+    "name": "סנונית-פארק התעשייה",
+    "symbol": 211,
+    "houses": 0
+  },
+  {
+    "name": "סנפיר",
+    "symbol": 166,
+    "houses": 21
+  },
+  {
+    "name": "ספיר",
+    "symbol": 121,
+    "houses": 46
+  },
+  {
+    "name": "ספיר-פארק התעשייה",
+    "symbol": 215,
+    "houses": 0
+  },
+  {
+    "name": "סתיו",
+    "symbol": 196,
+    "houses": 6
+  },
+  {
+    "name": "עגור",
+    "symbol": 167,
+    "houses": 46
+  },
+  {
+    "name": "עיט",
+    "symbol": 184,
+    "houses": 12
+  },
+  {
+    "name": "ענבר",
+    "symbol": 178,
+    "houses": 50
+  },
+  {
+    "name": "עפרוני",
+    "symbol": 179,
+    "houses": 12
+  },
+  {
+    "name": "ערה",
+    "symbol": 221,
+    "houses": 0
+  },
+  {
+    "name": "פארק התעשייה",
+    "symbol": 6520,
+    "houses": 0
+  },
+  {
+    "name": "פומלו",
+    "symbol": 135,
+    "houses": 11
+  },
+  {
+    "name": "צופית",
+    "symbol": 172,
+    "houses": 12
+  },
+  {
+    "name": "קיסריה העתיקה",
+    "symbol": 7001,
+    "houses": 0
+  },
+  {
+    "name": "קיסריה וילות",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "קיסרית",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "קיץ",
+    "symbol": 197,
+    "houses": 6
+  },
+  {
+    "name": "רותם המדבר",
+    "symbol": 208,
+    "houses": 2
+  },
+  {
+    "name": "רמות קיסריה",
+    "symbol": 6514,
+    "houses": 0
+  },
+  {
+    "name": "רעם",
+    "symbol": 148,
+    "houses": 9
+  },
+  {
+    "name": "רקפת",
+    "symbol": 132,
+    "houses": 12
+  },
+  {
+    "name": "שביט",
+    "symbol": 154,
+    "houses": 22
+  },
+  {
+    "name": "שד רוטשילד",
+    "symbol": 186,
+    "houses": 0
+  },
+  {
+    "name": "שוהם",
+    "symbol": 133,
+    "houses": 19
+  },
+  {
+    "name": "שוהם-פארק התעשייה",
+    "symbol": 216,
+    "houses": 0
+  },
+  {
+    "name": "שחם",
+    "symbol": 222,
+    "houses": 13
+  },
+  {
+    "name": "שכ אבני חן",
+    "symbol": 6506,
+    "houses": 0
+  },
+  {
+    "name": "שכ הביכורים",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "שכ ההדרים",
+    "symbol": 6510,
+    "houses": 0
+  },
+  {
+    "name": "שכ החוף",
+    "symbol": 6507,
+    "houses": 0
+  },
+  {
+    "name": "שכ החורש",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "שכ הים",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "שכ המעוף",
+    "symbol": 6511,
+    "houses": 0
+  },
+  {
+    "name": "שכ העדי",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "שכ הפרחים",
+    "symbol": 6509,
+    "houses": 0
+  },
+  {
+    "name": "שכ הציפורים",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "שכ הצמרות",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "שכ הרקיע",
+    "symbol": 6508,
+    "houses": 0
+  },
+  {
+    "name": "שכונה בטבע",
+    "symbol": 6515,
+    "houses": 0
+  },
+  {
+    "name": "שלדג",
+    "symbol": 185,
+    "houses": 10
+  },
+  {
+    "name": "תפוז",
+    "symbol": 137,
+    "houses": 6
+  },
+  {
+    "name": "תרשיש",
+    "symbol": 147,
+    "houses": 13
+  },
+  {
+    "name": "תרשיש-פארק התעשייה",
+    "symbol": 218,
+    "houses": 0
+  }
+]

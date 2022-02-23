@@ -1,0 +1,257 @@
+[
+  {
+    "name": "א- זהרא",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "א-נדא",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "א-נור",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "א-סלאם",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "א-ראזי",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "א-רביע",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "א-שהיד מחמוד א-שארה",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "א-שוהדא",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "א-תופאח",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "אבו בכר",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "אבו סלאח",
+    "symbol": 6751,
+    "houses": 0
+  },
+  {
+    "name": "אבו עובידה",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "אבן בטוטה",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "אבן חאן",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "אבן חלדון",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "אבן רושד",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "אל -מערי",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "אל חפאיר",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "אל-אוסראא'",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "אל-אעמאריה",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "אל-ג'ומעה",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "אל-חמיס",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "אל-מוראבטון",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "אל-משרוע",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "אל-קודס",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "אלמשכוע",
+    "symbol": 6760,
+    "houses": 0
+  },
+  {
+    "name": "באב אל-חאן",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "בילאל",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "ג'ורת קשוע",
+    "symbol": 6780,
+    "houses": 0
+  },
+  {
+    "name": "דאוד ראזק",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "דאמו",
+    "symbol": 6770,
+    "houses": 0
+  },
+  {
+    "name": "דרך א-סולטאני",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "דרך אל-בסה",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "דרך אל-עאבה",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "דרך יפו",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "העיר העתיקה",
+    "symbol": 6740,
+    "houses": 0
+  },
+  {
+    "name": "חור אבו דקר",
+    "symbol": 6750,
+    "houses": 0
+  },
+  {
+    "name": "חור אלנדא",
+    "symbol": 6710,
+    "houses": 0
+  },
+  {
+    "name": "חור לס",
+    "symbol": 6781,
+    "houses": 0
+  },
+  {
+    "name": "חמזה",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "טארק עבד אל-חי",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "יום אל ארד",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "כרם אלזיתון",
+    "symbol": 6731,
+    "houses": 0
+  },
+  {
+    "name": "מקורות",
+    "symbol": 6730,
+    "houses": 0
+  },
+  {
+    "name": "מרכז העיר",
+    "symbol": 6741,
+    "houses": 0
+  },
+  {
+    "name": "עומר בן אל-חטאב",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "עלי",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "עקפה",
+    "symbol": 6771,
+    "houses": 0
+  },
+  {
+    "name": "קלקיליה",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "שכונה מזרחית",
+    "symbol": 6711,
+    "houses": 0
+  },
+  {
+    "name": "שרחביל",
+    "symbol": 145,
+    "houses": 0
+  }
+]

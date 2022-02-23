@@ -1,0 +1,97 @@
+[
+  {
+    "name": "ביס שדה אכזיב",
+    "symbol": 7001,
+    "houses": 0
+  },
+  {
+    "name": "דרך הטבק",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "דרך כליל החורש",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "משעול הברוש",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "נתיב הארז",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "נתיב הגפן",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "נתיב הדולב",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "נתיב ההרדוף",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "נתיב הזית",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "נתיב החרוב",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "נתיב היערה",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "נתיב הלוטם",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "נתיב המרגנית",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "נתיב הנרקיס",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "נתיב הסחלב",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "נתיב הערבה",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "סמ לוז",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "סמ מוז",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "שדרת האורנים",
+    "symbol": 130,
+    "houses": 0
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "name": "אולפן קיבוץ",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "בית ראשון במולדת",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך אחווה",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "דרך הבאר",
+    "symbol": 100,
+    "houses": 0
+  },
+  {
+    "name": "דרך הטווס",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "דרך הכרכום",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "דרך הכרם",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "דרך הכרמל",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "דרך הלולים",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "דרך הלימון",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "דרך הפרדס",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "דרך הקישון",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "דרך הראשונים",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "דרך השדות",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "דרך התעשייה",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "דרך חדר האוכל",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "דרך יד למגינים",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "דרך עמק זבולון",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "דרך שומר המסילה",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "כביש ההר הירוק",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "כביש השלום",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "כביש כפר חסידים",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "מעלה הוואדי",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "מעלה המצוקים",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "סמ' ההר הקירח",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "סמ' השקדיה",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "שביל האגוז",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "שביל האיזדרכת",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "שביל האנפה",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "שביל האקליפטוס",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "שביל הברושים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "שביל הגבעות",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "שביל הדוכיפת",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "שביל החיטה",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "שביל החלב",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "שביל הכלנית",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "שביל הכתר",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "שביל הנחליאלי",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "שביל הסילו",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "שביל הסכר",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "שביל הסליק",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "שביל הסנדלריה",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "שביל הסתוונית",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "שביל העפרוני",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "שביל הפיקוסים",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "שביל הצאלון",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "שביל השיקמה",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "שביל השלדג",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "שביל התאנה",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "שביל התלתן",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "שביל מגדל המים",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "שכ' גבעת המכוורת",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "שכונת בלוקונים",
+    "symbol": 6507,
+    "houses": 0
+  },
+  {
+    "name": "שכונת האיזדרכת",
+    "symbol": 6508,
+    "houses": 0
+  },
+  {
+    "name": "שכונת ההר",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "שכונת הכביש",
+    "symbol": 6510,
+    "houses": 0
+  },
+  {
+    "name": "שכונת הכרם",
+    "symbol": 6506,
+    "houses": 0
+  },
+  {
+    "name": "שכונת הכרמל",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "שכונת הלול",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "שכונת המשתלה",
+    "symbol": 6511,
+    "houses": 0
+  },
+  {
+    "name": "שכונת הנה\"ח",
+    "symbol": 6509,
+    "houses": 0
+  },
+  {
+    "name": "שכונת הסילו",
+    "symbol": 6501,
+    "houses": 0
+  }
+]

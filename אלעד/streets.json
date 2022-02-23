@@ -1,0 +1,292 @@
+[
+  {
+    "name": "אבטליון",
+    "symbol": 123,
+    "houses": 42
+  },
+  {
+    "name": "אבן גבירול",
+    "symbol": 220,
+    "houses": 31
+  },
+  {
+    "name": "אבן עזרא",
+    "symbol": 211,
+    "houses": 0
+  },
+  {
+    "name": "בעלי התוספות",
+    "symbol": 210,
+    "houses": 29
+  },
+  {
+    "name": "הב\"ח",
+    "symbol": 223,
+    "houses": 0
+  },
+  {
+    "name": "הזמיר",
+    "symbol": 126,
+    "houses": 9
+  },
+  {
+    "name": "הלל",
+    "symbol": 113,
+    "houses": 42
+  },
+  {
+    "name": "המאירי",
+    "symbol": 110,
+    "houses": 22
+  },
+  {
+    "name": "המהרש\"ל",
+    "symbol": 224,
+    "houses": 14
+  },
+  {
+    "name": "הר\"ן",
+    "symbol": 225,
+    "houses": 17
+  },
+  {
+    "name": "הרא\"ש",
+    "symbol": 104,
+    "houses": 2
+  },
+  {
+    "name": "הרי\"ף",
+    "symbol": 218,
+    "houses": 21
+  },
+  {
+    "name": "התאנה",
+    "symbol": 106,
+    "houses": 15
+  },
+  {
+    "name": "התור",
+    "symbol": 127,
+    "houses": 16
+  },
+  {
+    "name": "חוני המעגל",
+    "symbol": 103,
+    "houses": 73
+  },
+  {
+    "name": "סעדיה גאון",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "עובדיה מברטנורה",
+    "symbol": 217,
+    "houses": 14
+  },
+  {
+    "name": "ראב\"ד",
+    "symbol": 219,
+    "houses": 7
+  },
+  {
+    "name": "רבי חייא",
+    "symbol": 108,
+    "houses": 4
+  },
+  {
+    "name": "רבי טרפון",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "רבי יהודה הלוי",
+    "symbol": 213,
+    "houses": 0
+  },
+  {
+    "name": "רבי יהודה הנשיא",
+    "symbol": 105,
+    "houses": 110
+  },
+  {
+    "name": "רבי יהושע",
+    "symbol": 221,
+    "houses": 22
+  },
+  {
+    "name": "רבי יונתן בן עוזיאל",
+    "symbol": 203,
+    "houses": 0
+  },
+  {
+    "name": "רבי יוסי בן קיסמא",
+    "symbol": 204,
+    "houses": 44
+  },
+  {
+    "name": "רבי יוסף קארו",
+    "symbol": 107,
+    "houses": 11
+  },
+  {
+    "name": "רבי מאיר",
+    "symbol": 201,
+    "houses": 22
+  },
+  {
+    "name": "רבי עקיבא",
+    "symbol": 116,
+    "houses": 25
+  },
+  {
+    "name": "רבי פנחס בן יאיר",
+    "symbol": 202,
+    "houses": 31
+  },
+  {
+    "name": "רבי שמואל הנגיד",
+    "symbol": 114,
+    "houses": 2
+  },
+  {
+    "name": "רבינו בחיי",
+    "symbol": 215,
+    "houses": 7
+  },
+  {
+    "name": "רבינו גרשום",
+    "symbol": 214,
+    "houses": 0
+  },
+  {
+    "name": "רבינו חננאל",
+    "symbol": 212,
+    "houses": 0
+  },
+  {
+    "name": "רבן גמליאל",
+    "symbol": 222,
+    "houses": 1
+  },
+  {
+    "name": "רבן יוחנן בן זכאי",
+    "symbol": 111,
+    "houses": 97
+  },
+  {
+    "name": "רבנו ניסים גאון",
+    "symbol": 101,
+    "houses": 79
+  },
+  {
+    "name": "רבנו תם",
+    "symbol": 102,
+    "houses": 30
+  },
+  {
+    "name": "רד\"ק",
+    "symbol": 115,
+    "houses": 5
+  },
+  {
+    "name": "רובע A",
+    "symbol": 6509,
+    "houses": 0
+  },
+  {
+    "name": "רובע B",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "רובע C",
+    "symbol": 6508,
+    "houses": 0
+  },
+  {
+    "name": "רובע D",
+    "symbol": 6506,
+    "houses": 0
+  },
+  {
+    "name": "רובע E",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "רובע F",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "רובע G",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "רובע H",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "ריטב\"א",
+    "symbol": 122,
+    "houses": 19
+  },
+  {
+    "name": "רמ\"ה",
+    "symbol": 226,
+    "houses": 0
+  },
+  {
+    "name": "רמב\"ם",
+    "symbol": 209,
+    "houses": 22
+  },
+  {
+    "name": "רמב\"ן",
+    "symbol": 207,
+    "houses": 0
+  },
+  {
+    "name": "רש\"י",
+    "symbol": 208,
+    "houses": 19
+  },
+  {
+    "name": "רשב\"י",
+    "symbol": 206,
+    "houses": 25
+  },
+  {
+    "name": "רשב\"ם",
+    "symbol": 121,
+    "houses": 21
+  },
+  {
+    "name": "שכ מרומי אלעד",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "שמאי",
+    "symbol": 112,
+    "houses": 34
+  },
+  {
+    "name": "שמעון בן שטח",
+    "symbol": 216,
+    "houses": 35
+  },
+  {
+    "name": "שמעון הצדיק",
+    "symbol": 205,
+    "houses": 55
+  },
+  {
+    "name": "שמעיה",
+    "symbol": 125,
+    "houses": 24
+  }
+]

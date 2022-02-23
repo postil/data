@@ -1,0 +1,77 @@
+[
+  {
+    "name": "הדקל",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הורדים",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הנרקיס",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "הרחבה",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "הרקפת",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "כלנית",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "סמ אורן",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "סמ אלה",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "סמ אלון",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "סמ אקליפטוס",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "סמ ברוש",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "סמ זית",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "סמ חרוב",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "סמ צאלון",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "סמ תמר",
+    "symbol": 116,
+    "houses": 0
+  }
+]

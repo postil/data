@@ -1,0 +1,267 @@
+[
+  {
+    "name": "אגי",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "אוח",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "אפרוח",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "אשטרום",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "גדרון",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "גוזל",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "האוניברסיטה",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "הבשמים",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "הנבטים",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "הר אבנון",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "הר צרור",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "הרי אדום",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "השבלולים",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "ורדית",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "זנבן",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "חוברה",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "חוד עקב",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "יהודה עמיחי",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "יהושע כהן",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "ינשוף",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "לאה גולדברג",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "לילית",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "מדברון",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "מיכאל גל",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "מצוק הצינים",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "מרכז מיטרני",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "משעול חצב",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "נווה צין",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "נחל דרוך",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "נחל הרועה",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "נחל חוארים",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "נחל חצץ",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "נחל נוקד",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "נחל צפית",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "נחל קרקש",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "נחל שועלים",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "נחל תלול",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "סלעית",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "ע. הלל",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "עין אורחות",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "עין זיק",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "עין מור",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "עין שביב",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "עין שרב",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "עפרוני",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "צופית",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "רחל המשוררת",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "רכס חלוקים",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "רמת דבשון",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "שדה צין",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "שעיר",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "תנשמת",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "תרצה אתר",
+    "symbol": 130,
+    "houses": 0
+  }
+]

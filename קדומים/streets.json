@@ -1,0 +1,392 @@
+[
+  {
+    "name": "אזור התעשיה",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "אחלמה",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "איש ימינך",
+    "symbol": 167,
+    "houses": 0
+  },
+  {
+    "name": "אריאל",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "ברכה",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "ברקת",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "גבעות עולם",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "גבעת שלם",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "גלעד",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "גריזים",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "גת קדומים",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "דגן",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "דרך בר-און אורי",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "דרך גאולה",
+    "symbol": 170,
+    "houses": 0
+  },
+  {
+    "name": "דרך הציונות",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "דרך הראשונים",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "דרך יצחק מלצר",
+    "symbol": 168,
+    "houses": 0
+  },
+  {
+    "name": "האדרת",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "הגיתית",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "החורשה",
+    "symbol": 173,
+    "houses": 0
+  },
+  {
+    "name": "החושן",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "החיל",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "החליל",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "היובל",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "היצירה",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "הכינור",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "המייסדים",
+    "symbol": 171,
+    "houses": 0
+  },
+  {
+    "name": "הנבל",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "העוז",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "העשור",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "הפעמון",
+    "symbol": 165,
+    "houses": 0
+  },
+  {
+    "name": "הקרן",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "הר המור",
+    "symbol": 163,
+    "houses": 0
+  },
+  {
+    "name": "הררי קדם",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "השקד",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "חלקת השדה",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "חפצי בה",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "טל חרמון",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "יהלום",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "יפה נוף",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "יצהר",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "כרמי קדם",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "לשם",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "מכללת קדומים",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "מעלה אילן",
+    "symbol": 169,
+    "houses": 0
+  },
+  {
+    "name": "מעלה דוד",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "מעלה חמד",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "מעלה רש\"י",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "מעלה שניאור",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "מצפה קדומים",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "משעול הגפן",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "משעול החיטה",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "משעול הרימון",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "משעול השעורה",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "משעול התאנה",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "משעול התמר",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "נבו",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "נחלה",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "סיני",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "סמטת הניגון",
+    "symbol": 172,
+    "houses": 0
+  },
+  {
+    "name": "ספיר",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "צופיה",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "צפנת",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "קול צופייך",
+    "symbol": 166,
+    "houses": 0
+  },
+  {
+    "name": "רבבות אפרים",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "שבו",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "שוהם",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "שילה",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "שכ גבעת שלם",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "שכ גת קדומים",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "שכ כרמי קדם",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "שכ מצפה ישי",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "שכ מצפה קדומים",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "תבואות שמש",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "תירוש",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "תרצה",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "תרשיש",
+    "symbol": 101,
+    "houses": 0
+  }
+]

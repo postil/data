@@ -1,0 +1,417 @@
+[
+  {
+    "name": "דרך הים",
+    "symbol": 185,
+    "houses": 0
+  },
+  {
+    "name": "החוף",
+    "symbol": 189,
+    "houses": 0
+  },
+  {
+    "name": "מורד הנחל",
+    "symbol": 186,
+    "houses": 0
+  },
+  {
+    "name": "משל יותם",
+    "symbol": 187,
+    "houses": 0
+  },
+  {
+    "name": "משעול אדום החזה",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "משעול האגוז",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "משעול האגמית",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "משעול האגס",
+    "symbol": 163,
+    "houses": 0
+  },
+  {
+    "name": "משעול האדווה",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "משעול האורן",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "משעול האלה",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "משעול האלון",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "משעול האלמוג",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "משעול האנפה",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "משעול האפרסק",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "משעול האתרוג",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "משעול הבז",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "משעול הברוש",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "משעול הגלים",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "משעול הגפן",
+    "symbol": 169,
+    "houses": 0
+  },
+  {
+    "name": "משעול הדוכיפת",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "משעול הדולב",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "משעול הדולפין",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "משעול הדייגים",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "משעול הדרור",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "משעול הזית",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "משעול הזמיר",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "משעול החוגלה",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "משעול החוחית",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "משעול החופית",
+    "symbol": 177,
+    "houses": 0
+  },
+  {
+    "name": "משעול החסידה",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "משעול החרוב",
+    "symbol": 166,
+    "houses": 0
+  },
+  {
+    "name": "משעול הינשוף",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "משעול הירגזי",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "משעול הלגונה",
+    "symbol": 173,
+    "houses": 0
+  },
+  {
+    "name": "משעול הלימון",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "משעול המגדלור",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "משעול המזח",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "משעול המפרש",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "משעול הנחליאלי",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "משעול הנשר",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "משעול הסירה",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "משעול הסלעית",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "משעול הסנונית",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "משעול העגור",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "משעול העוגן",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "משעול העפרוני",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "משעול הערבה",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "משעול הצאלון",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "משעול הצדף",
+    "symbol": 178,
+    "houses": 0
+  },
+  {
+    "name": "משעול הצופית",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "משעול הצפצפה",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "משעול הקונכיה",
+    "symbol": 176,
+    "houses": 0
+  },
+  {
+    "name": "משעול הקכלי",
+    "symbol": 171,
+    "houses": 0
+  },
+  {
+    "name": "משעול הרימון",
+    "symbol": 170,
+    "houses": 0
+  },
+  {
+    "name": "משעול השונית",
+    "symbol": 172,
+    "houses": 0
+  },
+  {
+    "name": "משעול השזיף",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "משעול השחף",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "משעול השחרור",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "משעול השלדג",
+    "symbol": 175,
+    "houses": 0
+  },
+  {
+    "name": "משעול השליו",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "משעול השקד",
+    "symbol": 167,
+    "houses": 0
+  },
+  {
+    "name": "משעול השקנאי",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "משעול התאנה",
+    "symbol": 165,
+    "houses": 0
+  },
+  {
+    "name": "משעול התור",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "משעול התורן",
+    "symbol": 174,
+    "houses": 0
+  },
+  {
+    "name": "משעול התות",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "משעול התמר",
+    "symbol": 168,
+    "houses": 0
+  },
+  {
+    "name": "משעול התנשמת",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "משעול התפוז",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "משעול התפוח",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "משעול כוכב הים",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "משעול נחל אורן",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "משעול נחל בצת",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "משעול נחל הירקון",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "משעול נחל חילזון",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "משעול נחל עמוד",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "משעול נחל ערוגות",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "משעול נחל צין",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "משעול נחל ציפורי",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "משעול נחל רחף",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "נתיב הציפורים",
+    "symbol": 180,
+    "houses": 0
+  },
+  {
+    "name": "שדרת הקוצר",
+    "symbol": 190,
+    "houses": 0
+  }
+]

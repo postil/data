@@ -1,0 +1,47 @@
+[
+  {
+    "name": "אגמית",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "חופית",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "לבנית",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "מגלן",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "סייפן",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "סיקסק",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "סלעית",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "עיטם",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "שקנאי",
+    "symbol": 108,
+    "houses": 0
+  }
+]

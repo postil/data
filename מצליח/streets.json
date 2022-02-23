@@ -1,0 +1,47 @@
+[
+  {
+    "name": "הגפן",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הדס",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "התאנה",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "סמטת האילן",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "סמטת הדקל",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "סמטת הערבה",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "עופרה",
+    "symbol": 109,
+    "houses": 0
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "האלון",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הרחבה",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "השקד",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "סמטת החרוב",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "סמטת התאנה",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "שדרת האילנות",
+    "symbol": 103,
+    "houses": 0
+  }
+]

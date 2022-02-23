@@ -1,0 +1,47 @@
+[
+  {
+    "name": "הבוצר",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "הבוקר",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "החורש",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "היוגב",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הכורם",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "המוסק",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הנוטע",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הרועה",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "השותל",
+    "symbol": 104,
+    "houses": 0
+  }
+]

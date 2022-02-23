@@ -1,0 +1,737 @@
+[
+  {
+    "name": "אבו בקר אלצדיק",
+    "symbol": 166,
+    "houses": 0
+  },
+  {
+    "name": "אבו חאמד אלע'זאלי",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "אבו סמארה",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "אבו עביידה",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "אבן ח'לדון",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "אבן סינא",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "אחמד בן חנבל",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "איבן תאימייה",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "אל חוארזמי",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "אלאבדאע",
+    "symbol": 242,
+    "houses": 0
+  },
+  {
+    "name": "אלאהראם",
+    "symbol": 223,
+    "houses": 0
+  },
+  {
+    "name": "אלאח'אא",
+    "symbol": 184,
+    "houses": 0
+  },
+  {
+    "name": "אלאח'וה",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "אלאח'לאס",
+    "symbol": 172,
+    "houses": 0
+  },
+  {
+    "name": "אלאחסאן",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "אלאמל",
+    "symbol": 173,
+    "houses": 0
+  },
+  {
+    "name": "אלאנדלוס",
+    "symbol": 165,
+    "houses": 0
+  },
+  {
+    "name": "אלאנואר",
+    "symbol": 199,
+    "houses": 0
+  },
+  {
+    "name": "אלאסראא",
+    "symbol": 224,
+    "houses": 0
+  },
+  {
+    "name": "אלבוראק",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "אלביאדר",
+    "symbol": 220,
+    "houses": 0
+  },
+  {
+    "name": "אלבירוני",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "אלג'אמע",
+    "symbol": 229,
+    "houses": 0
+  },
+  {
+    "name": "אלג'זירה",
+    "symbol": 196,
+    "houses": 0
+  },
+  {
+    "name": "אלג'מאמה",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "אלדוחא",
+    "symbol": 254,
+    "houses": 0
+  },
+  {
+    "name": "אלהג'רה",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "אלהודא",
+    "symbol": 171,
+    "houses": 0
+  },
+  {
+    "name": "אלואחה",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "אלופאא",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "אלזהור",
+    "symbol": 227,
+    "houses": 0
+  },
+  {
+    "name": "אלזהראא",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "אלזיתון",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "אלזעתר",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "אלח'טאב",
+    "symbol": 252,
+    "houses": 0
+  },
+  {
+    "name": "אלח'ליל",
+    "symbol": 233,
+    "houses": 0
+  },
+  {
+    "name": "אלח'נסאא",
+    "symbol": 251,
+    "houses": 0
+  },
+  {
+    "name": "אלחג'",
+    "symbol": 200,
+    "houses": 0
+  },
+  {
+    "name": "אלחוסין בן עלי",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "אלחיאה",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "אלחכמה",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "אלחריה",
+    "symbol": 228,
+    "houses": 0
+  },
+  {
+    "name": "אלחרם",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "אלטואחין",
+    "symbol": 245,
+    "houses": 0
+  },
+  {
+    "name": "אלטויל",
+    "symbol": 186,
+    "houses": 0
+  },
+  {
+    "name": "אלטיבה",
+    "symbol": 206,
+    "houses": 0
+  },
+  {
+    "name": "אלירמוק",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "אלכרם",
+    "symbol": 210,
+    "houses": 0
+  },
+  {
+    "name": "אלכרמה",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "אלמג'ד",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "אלמדינה",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "אלמהדי",
+    "symbol": 190,
+    "houses": 0
+  },
+  {
+    "name": "אלמיזאן",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "אלמנארה",
+    "symbol": 225,
+    "houses": 0
+  },
+  {
+    "name": "אלמנסור",
+    "symbol": 188,
+    "houses": 0
+  },
+  {
+    "name": "אלמעתסם",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "אלמרוה",
+    "symbol": 208,
+    "houses": 0
+  },
+  {
+    "name": "אלמריך",
+    "symbol": 248,
+    "houses": 0
+  },
+  {
+    "name": "אלמתנבי",
+    "symbol": 222,
+    "houses": 0
+  },
+  {
+    "name": "אלנג'את",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "אלנור",
+    "symbol": 216,
+    "houses": 0
+  },
+  {
+    "name": "אלנח'יל",
+    "symbol": 214,
+    "houses": 0
+  },
+  {
+    "name": "אלנעים",
+    "symbol": 238,
+    "houses": 0
+  },
+  {
+    "name": "אלסביל",
+    "symbol": 219,
+    "houses": 0
+  },
+  {
+    "name": "אלסבר",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "אלסלאם",
+    "symbol": 217,
+    "houses": 0
+  },
+  {
+    "name": "אלסנאעה",
+    "symbol": 253,
+    "houses": 0
+  },
+  {
+    "name": "אלספאא",
+    "symbol": 168,
+    "houses": 0
+  },
+  {
+    "name": "אלעבאס",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "אלעטאא",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "אלעין",
+    "symbol": 241,
+    "houses": 0
+  },
+  {
+    "name": "אלעמאל",
+    "symbol": 243,
+    "houses": 0
+  },
+  {
+    "name": "אלעקאד",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "אלעקבה",
+    "symbol": 194,
+    "houses": 0
+  },
+  {
+    "name": "אלערב",
+    "symbol": 230,
+    "houses": 0
+  },
+  {
+    "name": "אלפוראת",
+    "symbol": 185,
+    "houses": 0
+  },
+  {
+    "name": "אלפרוק",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "אלפרקאן",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "אלפתח",
+    "symbol": 189,
+    "houses": 0
+  },
+  {
+    "name": "אלקאהרה",
+    "symbol": 192,
+    "houses": 0
+  },
+  {
+    "name": "אלקדסייה",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "אלקודס",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "אלקירואן",
+    "symbol": 250,
+    "houses": 0
+  },
+  {
+    "name": "אלקלעה",
+    "symbol": 240,
+    "houses": 0
+  },
+  {
+    "name": "אלקסר",
+    "symbol": 235,
+    "houses": 0
+  },
+  {
+    "name": "אלראיה",
+    "symbol": 239,
+    "houses": 0
+  },
+  {
+    "name": "אלריבאט",
+    "symbol": 195,
+    "houses": 0
+  },
+  {
+    "name": "אלריחאן",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "אלרמאן",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "אלשאם",
+    "symbol": 198,
+    "houses": 0
+  },
+  {
+    "name": "אלשאפעי",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "אלשלאלה",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "אלשריף",
+    "symbol": 234,
+    "houses": 0
+  },
+  {
+    "name": "אלת'קאפה",
+    "symbol": 236,
+    "houses": 0
+  },
+  {
+    "name": "אלתין",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "אלתעאון",
+    "symbol": 174,
+    "houses": 0
+  },
+  {
+    "name": "אלתקוא",
+    "symbol": 170,
+    "houses": 0
+  },
+  {
+    "name": "אם אלקורא",
+    "symbol": 191,
+    "houses": 0
+  },
+  {
+    "name": "בגדאד",
+    "symbol": 193,
+    "houses": 0
+  },
+  {
+    "name": "בדר",
+    "symbol": 163,
+    "houses": 0
+  },
+  {
+    "name": "ביסאן",
+    "symbol": 204,
+    "houses": 0
+  },
+  {
+    "name": "בית אלמקדס",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "ג'בל אלזיתון",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "דג'לה",
+    "symbol": 237,
+    "houses": 0
+  },
+  {
+    "name": "הארון אלרשיד",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "זמזם",
+    "symbol": 207,
+    "houses": 0
+  },
+  {
+    "name": "חטין",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "חיפה",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "חמזה",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "חסן אלבצרי",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "טארק בן זיאד",
+    "symbol": 187,
+    "houses": 0
+  },
+  {
+    "name": "טבריה",
+    "symbol": 205,
+    "houses": 0
+  },
+  {
+    "name": "יפו",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "מאלק",
+    "symbol": 211,
+    "houses": 0
+  },
+  {
+    "name": "מוזדלפה",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "מועד בן ג'בל",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "מראקש",
+    "symbol": 249,
+    "houses": 0
+  },
+  {
+    "name": "סלאח אלדין",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "סלמאן אלפארסי",
+    "symbol": 213,
+    "houses": 0
+  },
+  {
+    "name": "סעד בן אבי ווקאס",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "עבדאלה בן רוחה",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "עומר אל מוח'תאר",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "עין סארה",
+    "symbol": 221,
+    "houses": 0
+  },
+  {
+    "name": "עלי בן אבי טאלב",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "עסקלאן",
+    "symbol": 212,
+    "houses": 0
+  },
+  {
+    "name": "ערפה",
+    "symbol": 197,
+    "houses": 0
+  },
+  {
+    "name": "רג'ב",
+    "symbol": 209,
+    "houses": 0
+  },
+  {
+    "name": "שכ 1",
+    "symbol": 6702,
+    "houses": 0
+  },
+  {
+    "name": "שכ 11",
+    "symbol": 6716,
+    "houses": 0
+  },
+  {
+    "name": "שכ 2",
+    "symbol": 6711,
+    "houses": 0
+  },
+  {
+    "name": "שכ 12",
+    "symbol": 6717,
+    "houses": 0
+  },
+  {
+    "name": "שכ 3",
+    "symbol": 6703,
+    "houses": 0
+  },
+  {
+    "name": "שכ 13",
+    "symbol": 6712,
+    "houses": 0
+  },
+  {
+    "name": "שכ 4",
+    "symbol": 6704,
+    "houses": 0
+  },
+  {
+    "name": "שכ 14",
+    "symbol": 6718,
+    "houses": 0
+  },
+  {
+    "name": "שכ 5",
+    "symbol": 6705,
+    "houses": 0
+  },
+  {
+    "name": "שכ 15",
+    "symbol": 6715,
+    "houses": 0
+  },
+  {
+    "name": "שכ 6",
+    "symbol": 6706,
+    "houses": 0
+  },
+  {
+    "name": "שכ 16",
+    "symbol": 6719,
+    "houses": 0
+  },
+  {
+    "name": "שכ 7",
+    "symbol": 6707,
+    "houses": 0
+  },
+  {
+    "name": "שכ 17",
+    "symbol": 6720,
+    "houses": 0
+  },
+  {
+    "name": "שכ 8",
+    "symbol": 6713,
+    "houses": 0
+  },
+  {
+    "name": "שכ 18",
+    "symbol": 6714,
+    "houses": 0
+  },
+  {
+    "name": "שכ 9",
+    "symbol": 6709,
+    "houses": 0
+  },
+  {
+    "name": "שכ 19",
+    "symbol": 6721,
+    "houses": 0
+  },
+  {
+    "name": "שכ יסמין",
+    "symbol": 6701,
+    "houses": 0
+  },
+  {
+    "name": "שמס",
+    "symbol": 169,
+    "houses": 0
+  }
+]

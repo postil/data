@@ -1,0 +1,2397 @@
+[
+  {
+    "name": "אביטל מכבים -רעות",
+    "symbol": 3254,
+    "houses": 0
+  },
+  {
+    "name": "אבני החושן",
+    "symbol": 700,
+    "houses": 0
+  },
+  {
+    "name": "אגוז מכבים רעות",
+    "symbol": 3136,
+    "houses": 0
+  },
+  {
+    "name": "אגס",
+    "symbol": 115,
+    "houses": 4
+  },
+  {
+    "name": "אדיר מכבים-רעות",
+    "symbol": 3253,
+    "houses": 0
+  },
+  {
+    "name": "אדמונית",
+    "symbol": 168,
+    "houses": 7
+  },
+  {
+    "name": "אדר",
+    "symbol": 655,
+    "houses": 29
+  },
+  {
+    "name": "אודם",
+    "symbol": 703,
+    "houses": 0
+  },
+  {
+    "name": "אורן מכבים-רעות",
+    "symbol": 3225,
+    "houses": 0
+  },
+  {
+    "name": "אזור התעשיה",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "אחלמה",
+    "symbol": 711,
+    "houses": 0
+  },
+  {
+    "name": "איזדרכת",
+    "symbol": 108,
+    "houses": 9
+  },
+  {
+    "name": "אייר",
+    "symbol": 663,
+    "houses": 9
+  },
+  {
+    "name": "אירוסים מכבים רעות",
+    "symbol": 3175,
+    "houses": 0
+  },
+  {
+    "name": "אכסנית מכבים מ\"ר",
+    "symbol": 3201,
+    "houses": 0
+  },
+  {
+    "name": "אלה מכבים רעות",
+    "symbol": 3137,
+    "houses": 0
+  },
+  {
+    "name": "אלול",
+    "symbol": 662,
+    "houses": 2
+  },
+  {
+    "name": "אלי כהן",
+    "symbol": 631,
+    "houses": 0
+  },
+  {
+    "name": "אליהו הנביא",
+    "symbol": 401,
+    "houses": 23
+  },
+  {
+    "name": "אלישע הנביא",
+    "symbol": 402,
+    "houses": 15
+  },
+  {
+    "name": "אלמוג מכבים רעות",
+    "symbol": 3176,
+    "houses": 0
+  },
+  {
+    "name": "אלמוגן",
+    "symbol": 107,
+    "houses": 49
+  },
+  {
+    "name": "אמנון ותמר מ\"ר",
+    "symbol": 3177,
+    "houses": 0
+  },
+  {
+    "name": "אנפה מכבים רעות",
+    "symbol": 3103,
+    "houses": 0
+  },
+  {
+    "name": "אסתר המלכה",
+    "symbol": 621,
+    "houses": 62
+  },
+  {
+    "name": "אפיקי מים",
+    "symbol": 186,
+    "houses": 6
+  },
+  {
+    "name": "אפרים",
+    "symbol": 617,
+    "houses": 35
+  },
+  {
+    "name": "אפרים קציר",
+    "symbol": 761,
+    "houses": 0
+  },
+  {
+    "name": "ארבל מכבים רעות",
+    "symbol": 3252,
+    "houses": 0
+  },
+  {
+    "name": "ארז מכבים רעות",
+    "symbol": 3138,
+    "houses": 0
+  },
+  {
+    "name": "אריאל שרון",
+    "symbol": 759,
+    "houses": 0
+  },
+  {
+    "name": "אשחר",
+    "symbol": 113,
+    "houses": 4
+  },
+  {
+    "name": "אשכול מכבים רעות",
+    "symbol": 3117,
+    "houses": 0
+  },
+  {
+    "name": "אשל מכבים רעות",
+    "symbol": 3139,
+    "houses": 0
+  },
+  {
+    "name": "אשר",
+    "symbol": 611,
+    "houses": 30
+  },
+  {
+    "name": "בדולח",
+    "symbol": 710,
+    "houses": 20
+  },
+  {
+    "name": "בוסתן מכבים רעות",
+    "symbol": 3118,
+    "houses": 0
+  },
+  {
+    "name": "בנימין",
+    "symbol": 609,
+    "houses": 60
+  },
+  {
+    "name": "ברוש מכבים רעות",
+    "symbol": 3140,
+    "houses": 0
+  },
+  {
+    "name": "ברקנית מכבים רעות",
+    "symbol": 3125,
+    "houses": 0
+  },
+  {
+    "name": "ברקת מכבים רעות",
+    "symbol": 3178,
+    "houses": 0
+  },
+  {
+    "name": "בשן מכבים רעות",
+    "symbol": 3141,
+    "houses": 0
+  },
+  {
+    "name": "גבעת הלבונה מ\"ר",
+    "symbol": 3142,
+    "houses": 52
+  },
+  {
+    "name": "גד",
+    "symbol": 615,
+    "houses": 12
+  },
+  {
+    "name": "גדי מכבים רעות",
+    "symbol": 3120,
+    "houses": 0
+  },
+  {
+    "name": "גולדה מאיר",
+    "symbol": 751,
+    "houses": 0
+  },
+  {
+    "name": "גולן מכבים רעות",
+    "symbol": 3255,
+    "houses": 0
+  },
+  {
+    "name": "גינת אגוז",
+    "symbol": 189,
+    "houses": 6
+  },
+  {
+    "name": "גינת איילון",
+    "symbol": 207,
+    "houses": 0
+  },
+  {
+    "name": "גינת בית שאן",
+    "symbol": 210,
+    "houses": 0
+  },
+  {
+    "name": "גינת דותן",
+    "symbol": 174,
+    "houses": 0
+  },
+  {
+    "name": "גינת האלה",
+    "symbol": 220,
+    "houses": 0
+  },
+  {
+    "name": "גינת החולה",
+    "symbol": 175,
+    "houses": 0
+  },
+  {
+    "name": "גינת זבולון",
+    "symbol": 215,
+    "houses": 0
+  },
+  {
+    "name": "גינת יצחק רבין",
+    "symbol": 225,
+    "houses": 0
+  },
+  {
+    "name": "גינת מגדל עוז",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "גיתית מכבים רעות",
+    "symbol": 3179,
+    "houses": 0
+  },
+  {
+    "name": "גלבוע מכבים רעות",
+    "symbol": 3143,
+    "houses": 0
+  },
+  {
+    "name": "גליל מכבים רעות",
+    "symbol": 3251,
+    "houses": 0
+  },
+  {
+    "name": "גלעד מכבים רעות",
+    "symbol": 3144,
+    "houses": 0
+  },
+  {
+    "name": "גפן מכבים רעות",
+    "symbol": 3119,
+    "houses": 0
+  },
+  {
+    "name": "דבורה הנביאה",
+    "symbol": 403,
+    "houses": 8
+  },
+  {
+    "name": "דבורנית",
+    "symbol": 167,
+    "houses": 9
+  },
+  {
+    "name": "דובדבן מכבים רעות",
+    "symbol": 3145,
+    "houses": 0
+  },
+  {
+    "name": "דוד בן גוריון",
+    "symbol": 1529,
+    "houses": 0
+  },
+  {
+    "name": "דוכיפת",
+    "symbol": 718,
+    "houses": 0
+  },
+  {
+    "name": "דולב מכבים רעות",
+    "symbol": 3226,
+    "houses": 0
+  },
+  {
+    "name": "דינה",
+    "symbol": 622,
+    "houses": 0
+  },
+  {
+    "name": "דן",
+    "symbol": 601,
+    "houses": 42
+  },
+  {
+    "name": "דפנה",
+    "symbol": 169,
+    "houses": 14
+  },
+  {
+    "name": "דקל מכבים רעות",
+    "symbol": 3146,
+    "houses": 0
+  },
+  {
+    "name": "דרך אלון יגאל",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "דרך ד\"ר פלד ישראל",
+    "symbol": 3131,
+    "houses": 0
+  },
+  {
+    "name": "דרך המייסדים מ\"ר",
+    "symbol": 3220,
+    "houses": 0
+  },
+  {
+    "name": "דרך הראשונים מ\"ר",
+    "symbol": 3173,
+    "houses": 0
+  },
+  {
+    "name": "דרך פרופ' פרג יאיר",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "האופה",
+    "symbol": 1506,
+    "houses": 0
+  },
+  {
+    "name": "האורג",
+    "symbol": 1508,
+    "houses": 0
+  },
+  {
+    "name": "הבנאי",
+    "symbol": 1511,
+    "houses": 0
+  },
+  {
+    "name": "הגנן",
+    "symbol": 1507,
+    "houses": 0
+  },
+  {
+    "name": "הדודאים",
+    "symbol": 198,
+    "houses": 8
+  },
+  {
+    "name": "הדורית מכבים רעות",
+    "symbol": 3126,
+    "houses": 0
+  },
+  {
+    "name": "הדס מכבים רעות",
+    "symbol": 3147,
+    "houses": 0
+  },
+  {
+    "name": "הדרור מכבים רעות",
+    "symbol": 3110,
+    "houses": 0
+  },
+  {
+    "name": "הדרים מכבים רעות",
+    "symbol": 3148,
+    "houses": 0
+  },
+  {
+    "name": "הורד מכבים רעות",
+    "symbol": 3101,
+    "houses": 0
+  },
+  {
+    "name": "הזמיר מכבים רעות",
+    "symbol": 3102,
+    "houses": 0
+  },
+  {
+    "name": "הזריחה",
+    "symbol": 1537,
+    "houses": 0
+  },
+  {
+    "name": "הזרימה",
+    "symbol": 1539,
+    "houses": 0
+  },
+  {
+    "name": "הזריעה",
+    "symbol": 1536,
+    "houses": 0
+  },
+  {
+    "name": "החורש",
+    "symbol": 1542,
+    "houses": 17
+  },
+  {
+    "name": "החרט",
+    "symbol": 1503,
+    "houses": 0
+  },
+  {
+    "name": "היער",
+    "symbol": 1531,
+    "houses": 0
+  },
+  {
+    "name": "הכרמים",
+    "symbol": 190,
+    "houses": 6
+  },
+  {
+    "name": "הלוח העברי",
+    "symbol": 650,
+    "houses": 21
+  },
+  {
+    "name": "הלוטוס מכבים רעות",
+    "symbol": 3105,
+    "houses": 0
+  },
+  {
+    "name": "המכונאי",
+    "symbol": 1512,
+    "houses": 6
+  },
+  {
+    "name": "המעיין",
+    "symbol": 1534,
+    "houses": 4
+  },
+  {
+    "name": "הנביאים",
+    "symbol": 404,
+    "houses": 39
+  },
+  {
+    "name": "הנביטה",
+    "symbol": 1535,
+    "houses": 0
+  },
+  {
+    "name": "הנגר",
+    "symbol": 1514,
+    "houses": 3
+  },
+  {
+    "name": "הנטיעה",
+    "symbol": 1538,
+    "houses": 0
+  },
+  {
+    "name": "הניצנים",
+    "symbol": 191,
+    "houses": 6
+  },
+  {
+    "name": "הנפח",
+    "symbol": 1504,
+    "houses": 0
+  },
+  {
+    "name": "הסוחר",
+    "symbol": 1502,
+    "houses": 0
+  },
+  {
+    "name": "הסתת",
+    "symbol": 1509,
+    "houses": 4
+  },
+  {
+    "name": "הצורף",
+    "symbol": 1513,
+    "houses": 0
+  },
+  {
+    "name": "הצמיחה",
+    "symbol": 1532,
+    "houses": 0
+  },
+  {
+    "name": "הקדר",
+    "symbol": 1515,
+    "houses": 7
+  },
+  {
+    "name": "הקידמה",
+    "symbol": 1541,
+    "houses": 0
+  },
+  {
+    "name": "הר אמיר מכבים רעות",
+    "symbol": 3301,
+    "houses": 0
+  },
+  {
+    "name": "הר ארגמן מכבים רעות",
+    "symbol": 3327,
+    "houses": 0
+  },
+  {
+    "name": "הר בוקר מכבים רעות",
+    "symbol": 3302,
+    "houses": 0
+  },
+  {
+    "name": "הר גוונים מ\"ר",
+    "symbol": 3303,
+    "houses": 0
+  },
+  {
+    "name": "הר דלתון מכבים רעות",
+    "symbol": 3304,
+    "houses": 0
+  },
+  {
+    "name": "הר הילה מכבים רעות",
+    "symbol": 3305,
+    "houses": 0
+  },
+  {
+    "name": "הר ורדה מכבים רעות",
+    "symbol": 3306,
+    "houses": 0
+  },
+  {
+    "name": "הר זיו מכבים רעות",
+    "symbol": 3307,
+    "houses": 0
+  },
+  {
+    "name": "הר חזון מכבים רעות",
+    "symbol": 3308,
+    "houses": 0
+  },
+  {
+    "name": "הר טללים מכבים רעות",
+    "symbol": 3309,
+    "houses": 0
+  },
+  {
+    "name": "הר יודפת מכבים רעות",
+    "symbol": 3310,
+    "houses": 0
+  },
+  {
+    "name": "הר כנען מכבים רעות",
+    "symbol": 3311,
+    "houses": 0
+  },
+  {
+    "name": "הר להבים מכבים רעות",
+    "symbol": 3312,
+    "houses": 0
+  },
+  {
+    "name": "הר מעוז מכבים רעות",
+    "symbol": 3313,
+    "houses": 0
+  },
+  {
+    "name": "הר נטופה מכבים רעות",
+    "symbol": 3314,
+    "houses": 0
+  },
+  {
+    "name": "הר סנה מכבים רעות",
+    "symbol": 3315,
+    "houses": 0
+  },
+  {
+    "name": "הר עמינדב מ\"ר",
+    "symbol": 3316,
+    "houses": 0
+  },
+  {
+    "name": "הר פורת מכבים רעות",
+    "symbol": 3317,
+    "houses": 0
+  },
+  {
+    "name": "הר צפריר מכבים רעות",
+    "symbol": 3318,
+    "houses": 0
+  },
+  {
+    "name": "הר קדרים מכבים רעות",
+    "symbol": 3319,
+    "houses": 0
+  },
+  {
+    "name": "הר רביד מכבים רעות",
+    "symbol": 3320,
+    "houses": 0
+  },
+  {
+    "name": "הר רמון מכבים רעות",
+    "symbol": 3326,
+    "houses": 0
+  },
+  {
+    "name": "הר שאול מכבים רעות",
+    "symbol": 3322,
+    "houses": 0
+  },
+  {
+    "name": "הר שחר מכבים רעות",
+    "symbol": 3321,
+    "houses": 0
+  },
+  {
+    "name": "הר תורען מכבים רעות",
+    "symbol": 3323,
+    "houses": 0
+  },
+  {
+    "name": "הר תמנע מכבים רעות",
+    "symbol": 3324,
+    "houses": 0
+  },
+  {
+    "name": "הרדוף מכבים רעות",
+    "symbol": 3227,
+    "houses": 0
+  },
+  {
+    "name": "הרימון מכבים רעות",
+    "symbol": 3104,
+    "houses": 0
+  },
+  {
+    "name": "הרכבת",
+    "symbol": 320,
+    "houses": 0
+  },
+  {
+    "name": "השדרה המרכזית",
+    "symbol": 1500,
+    "houses": 9
+  },
+  {
+    "name": "השולמית",
+    "symbol": 183,
+    "houses": 14
+  },
+  {
+    "name": "ורדית מכבים רעות",
+    "symbol": 3116,
+    "houses": 0
+  },
+  {
+    "name": "זית מכבים רעות",
+    "symbol": 3228,
+    "houses": 0
+  },
+  {
+    "name": "זכריה הנביא",
+    "symbol": 405,
+    "houses": 3
+  },
+  {
+    "name": "זלמן שזר",
+    "symbol": 762,
+    "houses": 0
+  },
+  {
+    "name": "חבצלת השרון",
+    "symbol": 188,
+    "houses": 6
+  },
+  {
+    "name": "חבצלת מכבים רעות",
+    "symbol": 3180,
+    "houses": 0
+  },
+  {
+    "name": "חגווי הסלע",
+    "symbol": 203,
+    "houses": 8
+  },
+  {
+    "name": "חגי הנביא",
+    "symbol": 406,
+    "houses": 4
+  },
+  {
+    "name": "חגי ישראל",
+    "symbol": 665,
+    "houses": 0
+  },
+  {
+    "name": "חוחית מכבים רעות",
+    "symbol": 3127,
+    "houses": 0
+  },
+  {
+    "name": "חוט השני",
+    "symbol": 204,
+    "houses": 8
+  },
+  {
+    "name": "חטיבה שבע",
+    "symbol": 410,
+    "houses": 0
+  },
+  {
+    "name": "חטיבת אלכסנדרוני",
+    "symbol": 411,
+    "houses": 6
+  },
+  {
+    "name": "חטיבת גבעתי",
+    "symbol": 412,
+    "houses": 36
+  },
+  {
+    "name": "חטיבת גולני",
+    "symbol": 413,
+    "houses": 27
+  },
+  {
+    "name": "חטיבת הנח\"ל",
+    "symbol": 414,
+    "houses": 4
+  },
+  {
+    "name": "חטיבת הצנחנים",
+    "symbol": 415,
+    "houses": 33
+  },
+  {
+    "name": "חטיבת הראל",
+    "symbol": 417,
+    "houses": 21
+  },
+  {
+    "name": "חטיבת יפתח",
+    "symbol": 416,
+    "houses": 5
+  },
+  {
+    "name": "חיים הרצוג",
+    "symbol": 753,
+    "houses": 0
+  },
+  {
+    "name": "חיים ויצמן",
+    "symbol": 756,
+    "houses": 0
+  },
+  {
+    "name": "חיננית",
+    "symbol": 308,
+    "houses": 16
+  },
+  {
+    "name": "חלמונית",
+    "symbol": 166,
+    "houses": 5
+  },
+  {
+    "name": "חסידה",
+    "symbol": 724,
+    "houses": 0
+  },
+  {
+    "name": "חצב מכבים רעות",
+    "symbol": 3181,
+    "houses": 0
+  },
+  {
+    "name": "חרוב מכבים רעות",
+    "symbol": 3229,
+    "houses": 0
+  },
+  {
+    "name": "חרמון מכבים רעות",
+    "symbol": 3149,
+    "houses": 0
+  },
+  {
+    "name": "חרצית",
+    "symbol": 165,
+    "houses": 32
+  },
+  {
+    "name": "חשון",
+    "symbol": 652,
+    "houses": 23
+  },
+  {
+    "name": "טבלן מכבים רעות",
+    "symbol": 3124,
+    "houses": 0
+  },
+  {
+    "name": "טבק מכבים רעות",
+    "symbol": 3230,
+    "houses": 0
+  },
+  {
+    "name": "טבת",
+    "symbol": 654,
+    "houses": 6
+  },
+  {
+    "name": "טופז מכבים רעות",
+    "symbol": 3182,
+    "houses": 0
+  },
+  {
+    "name": "טיילת אבני חן",
+    "symbol": 627,
+    "houses": 0
+  },
+  {
+    "name": "טיילת הציפורים",
+    "symbol": 628,
+    "houses": 0
+  },
+  {
+    "name": "טללים מכבים רעות",
+    "symbol": 3261,
+    "houses": 0
+  },
+  {
+    "name": "יהודה",
+    "symbol": 602,
+    "houses": 147
+  },
+  {
+    "name": "יהודה המכבי",
+    "symbol": 315,
+    "houses": 0
+  },
+  {
+    "name": "יהלום",
+    "symbol": 701,
+    "houses": 66
+  },
+  {
+    "name": "יואל הנביא",
+    "symbol": 420,
+    "houses": 5
+  },
+  {
+    "name": "יובלים מכבים רעות",
+    "symbol": 3350,
+    "houses": 0
+  },
+  {
+    "name": "יונה הנביא",
+    "symbol": 421,
+    "houses": 3
+  },
+  {
+    "name": "יוסף",
+    "symbol": 606,
+    "houses": 89
+  },
+  {
+    "name": "יחזקאל הנביא",
+    "symbol": 422,
+    "houses": 12
+  },
+  {
+    "name": "יסעור מכבים רעות",
+    "symbol": 3121,
+    "houses": 0
+  },
+  {
+    "name": "יעל הגיבורה",
+    "symbol": 614,
+    "houses": 49
+  },
+  {
+    "name": "יער אלונים",
+    "symbol": 742,
+    "houses": 0
+  },
+  {
+    "name": "יער אשתאול",
+    "symbol": 739,
+    "houses": 0
+  },
+  {
+    "name": "יער בארי",
+    "symbol": 733,
+    "houses": 0
+  },
+  {
+    "name": "יער בן שמן",
+    "symbol": 732,
+    "houses": 0
+  },
+  {
+    "name": "יער ברעם",
+    "symbol": 735,
+    "houses": 0
+  },
+  {
+    "name": "יער הזורע",
+    "symbol": 741,
+    "houses": 0
+  },
+  {
+    "name": "יער חניתה",
+    "symbol": 740,
+    "houses": 0
+  },
+  {
+    "name": "יער חצרים",
+    "symbol": 736,
+    "houses": 0
+  },
+  {
+    "name": "יער חרובית",
+    "symbol": 734,
+    "houses": 0
+  },
+  {
+    "name": "יער ירושלים",
+    "symbol": 737,
+    "houses": 0
+  },
+  {
+    "name": "יער יתיר",
+    "symbol": 738,
+    "houses": 0
+  },
+  {
+    "name": "יערה מכבים רעות",
+    "symbol": 3231,
+    "houses": 0
+  },
+  {
+    "name": "יערות ישראל",
+    "symbol": 731,
+    "houses": 0
+  },
+  {
+    "name": "יפה נוף מכבים רעות",
+    "symbol": 3256,
+    "houses": 0
+  },
+  {
+    "name": "יצחק בן צבי",
+    "symbol": 760,
+    "houses": 0
+  },
+  {
+    "name": "יצחק נבון",
+    "symbol": 755,
+    "houses": 0
+  },
+  {
+    "name": "יצחק שמיר",
+    "symbol": 754,
+    "houses": 0
+  },
+  {
+    "name": "יקינטון מכבים רעות",
+    "symbol": 3183,
+    "houses": 0
+  },
+  {
+    "name": "ירח-אב",
+    "symbol": 656,
+    "houses": 0
+  },
+  {
+    "name": "ירחים",
+    "symbol": 664,
+    "houses": 12
+  },
+  {
+    "name": "ירמיהו הנביא",
+    "symbol": 423,
+    "houses": 19
+  },
+  {
+    "name": "ישעיהו הנביא",
+    "symbol": 424,
+    "houses": 33
+  },
+  {
+    "name": "ישפה",
+    "symbol": 704,
+    "houses": 33
+  },
+  {
+    "name": "יששכר",
+    "symbol": 610,
+    "houses": 53
+  },
+  {
+    "name": "כחלית ההרים",
+    "symbol": 163,
+    "houses": 14
+  },
+  {
+    "name": "ככר אבוקה",
+    "symbol": 6016,
+    "houses": 0
+  },
+  {
+    "name": "ככר האלופים",
+    "symbol": 6005,
+    "houses": 0
+  },
+  {
+    "name": "ככר הגבורה",
+    "symbol": 6006,
+    "houses": 0
+  },
+  {
+    "name": "ככר החטיבות",
+    "symbol": 6007,
+    "houses": 0
+  },
+  {
+    "name": "ככר הלווים",
+    "symbol": 6008,
+    "houses": 0
+  },
+  {
+    "name": "ככר המגינים",
+    "symbol": 6009,
+    "houses": 0
+  },
+  {
+    "name": "ככר המתנדבים",
+    "symbol": 6018,
+    "houses": 0
+  },
+  {
+    "name": "ככר הנביאים",
+    "symbol": 6010,
+    "houses": 0
+  },
+  {
+    "name": "ככר הפסגה",
+    "symbol": 6011,
+    "houses": 0
+  },
+  {
+    "name": "ככר השומרה",
+    "symbol": 6012,
+    "houses": 0
+  },
+  {
+    "name": "ככר השכנות",
+    "symbol": 6022,
+    "houses": 0
+  },
+  {
+    "name": "ככר חטיבת הנגב",
+    "symbol": 6001,
+    "houses": 13
+  },
+  {
+    "name": "ככר חטיבת הראל",
+    "symbol": 6002,
+    "houses": 0
+  },
+  {
+    "name": "ככר יקותיאלי",
+    "symbol": 6013,
+    "houses": 0
+  },
+  {
+    "name": "ככר לב רעות",
+    "symbol": 6014,
+    "houses": 0
+  },
+  {
+    "name": "ככר מלאכי הנביא",
+    "symbol": 6003,
+    "houses": 10
+  },
+  {
+    "name": "ככר משואה",
+    "symbol": 6015,
+    "houses": 0
+  },
+  {
+    "name": "ככר עמוס הנביא",
+    "symbol": 6004,
+    "houses": 14
+  },
+  {
+    "name": "ככר רבין",
+    "symbol": 6020,
+    "houses": 0
+  },
+  {
+    "name": "ככר שלהבת",
+    "symbol": 6017,
+    "houses": 0
+  },
+  {
+    "name": "ככר תנועת הנוער",
+    "symbol": 6021,
+    "houses": 0
+  },
+  {
+    "name": "כליל החורש",
+    "symbol": 105,
+    "houses": 17
+  },
+  {
+    "name": "כלנית מכבים רעות",
+    "symbol": 3232,
+    "houses": 0
+  },
+  {
+    "name": "כנרית מכבים רעות",
+    "symbol": 3115,
+    "houses": 0
+  },
+  {
+    "name": "כסלו",
+    "symbol": 653,
+    "houses": 56
+  },
+  {
+    "name": "כפתור ופרח",
+    "symbol": 717,
+    "houses": 0
+  },
+  {
+    "name": "כרכום",
+    "symbol": 177,
+    "houses": 16
+  },
+  {
+    "name": "כרמל מכבים רעות",
+    "symbol": 3150,
+    "houses": 0
+  },
+  {
+    "name": "כתם פז",
+    "symbol": 202,
+    "houses": 8
+  },
+  {
+    "name": "לאה אמנו",
+    "symbol": 619,
+    "houses": 46
+  },
+  {
+    "name": "לב העיר",
+    "symbol": 330,
+    "houses": 6
+  },
+  {
+    "name": "לבונה",
+    "symbol": 112,
+    "houses": 31
+  },
+  {
+    "name": "לביא מכבים רעות",
+    "symbol": 3122,
+    "houses": 0
+  },
+  {
+    "name": "לוי",
+    "symbol": 603,
+    "houses": 9
+  },
+  {
+    "name": "לוי אשכול",
+    "symbol": 1200,
+    "houses": 0
+  },
+  {
+    "name": "לוע הארי",
+    "symbol": 171,
+    "houses": 16
+  },
+  {
+    "name": "לילך מכבים רעות",
+    "symbol": 3258,
+    "houses": 0
+  },
+  {
+    "name": "לימון",
+    "symbol": 111,
+    "houses": 14
+  },
+  {
+    "name": "לשם",
+    "symbol": 708,
+    "houses": 0
+  },
+  {
+    "name": "מבוא רעות מ\"ר",
+    "symbol": 3262,
+    "houses": 0
+  },
+  {
+    "name": "מבצע דני",
+    "symbol": 430,
+    "houses": 4
+  },
+  {
+    "name": "מבצע דקל",
+    "symbol": 431,
+    "houses": 4
+  },
+  {
+    "name": "מבצע חורב",
+    "symbol": 432,
+    "houses": 14
+  },
+  {
+    "name": "מבצע חירם",
+    "symbol": 433,
+    "houses": 19
+  },
+  {
+    "name": "מבצע יואב",
+    "symbol": 434,
+    "houses": 18
+  },
+  {
+    "name": "מבצע יונתן",
+    "symbol": 435,
+    "houses": 13
+  },
+  {
+    "name": "מבצע לוט",
+    "symbol": 436,
+    "houses": 19
+  },
+  {
+    "name": "מבצע נחשון",
+    "symbol": 437,
+    "houses": 14
+  },
+  {
+    "name": "מבצע עובדה",
+    "symbol": 438,
+    "houses": 24
+  },
+  {
+    "name": "מבצע קדש",
+    "symbol": 439,
+    "houses": 23
+  },
+  {
+    "name": "מבצע קלשון",
+    "symbol": 440,
+    "houses": 8
+  },
+  {
+    "name": "מגדל דוד",
+    "symbol": 110,
+    "houses": 23
+  },
+  {
+    "name": "מגדל הלבנון",
+    "symbol": 148,
+    "houses": 35
+  },
+  {
+    "name": "מגדל המנורה",
+    "symbol": 715,
+    "houses": 15
+  },
+  {
+    "name": "מגדל ים",
+    "symbol": 716,
+    "houses": 33
+  },
+  {
+    "name": "מגדל עוז",
+    "symbol": 132,
+    "houses": 17
+  },
+  {
+    "name": "מודיעין",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "מיכה הנביא",
+    "symbol": 425,
+    "houses": 6
+  },
+  {
+    "name": "מירון מכבים רעות",
+    "symbol": 3151,
+    "houses": 0
+  },
+  {
+    "name": "מיתר מכבים רעות",
+    "symbol": 3184,
+    "houses": 0
+  },
+  {
+    "name": "מכבים-רעות מ\"ר",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "מנשה",
+    "symbol": 616,
+    "houses": 27
+  },
+  {
+    "name": "מנתור",
+    "symbol": 106,
+    "houses": 25
+  },
+  {
+    "name": "מעלה אבנר",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "מעלה ברוך מזרחי",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "מעלה גדעון",
+    "symbol": 310,
+    "houses": 33
+  },
+  {
+    "name": "מעלה דורון",
+    "symbol": 311,
+    "houses": 16
+  },
+  {
+    "name": "מעלה דניאל גומז",
+    "symbol": 623,
+    "houses": 0
+  },
+  {
+    "name": "מעלה המור מ\"ר",
+    "symbol": 3152,
+    "houses": 0
+  },
+  {
+    "name": "מעלה נמר",
+    "symbol": 306,
+    "houses": 11
+  },
+  {
+    "name": "מעלה עמיעז",
+    "symbol": 309,
+    "houses": 7
+  },
+  {
+    "name": "מצפה רעות מ\"ר",
+    "symbol": 3153,
+    "houses": 0
+  },
+  {
+    "name": "מרגנית מכבים רעות",
+    "symbol": 3114,
+    "houses": 0
+  },
+  {
+    "name": "מרווה",
+    "symbol": 162,
+    "houses": 4
+  },
+  {
+    "name": "מרום מכבים רעות",
+    "symbol": 3186,
+    "houses": 0
+  },
+  {
+    "name": "מרומית מכבים רעות",
+    "symbol": 3128,
+    "houses": 0
+  },
+  {
+    "name": "מרים החשמונאית",
+    "symbol": 618,
+    "houses": 52
+  },
+  {
+    "name": "משה שרת",
+    "symbol": 752,
+    "houses": 0
+  },
+  {
+    "name": "משעול אמיר בן אריה",
+    "symbol": 3337,
+    "houses": 0
+  },
+  {
+    "name": "משעול יניב בר און",
+    "symbol": 3335,
+    "houses": 0
+  },
+  {
+    "name": "משעול עוז צמח",
+    "symbol": 3338,
+    "houses": 0
+  },
+  {
+    "name": "משעול צבי זימן",
+    "symbol": 3336,
+    "houses": 0
+  },
+  {
+    "name": "מתתיהו הכהן",
+    "symbol": 300,
+    "houses": 0
+  },
+  {
+    "name": "נאות דשא",
+    "symbol": 193,
+    "houses": 3
+  },
+  {
+    "name": "נהר הירדן",
+    "symbol": 149,
+    "houses": 86
+  },
+  {
+    "name": "נוף קדומים מ\"ר",
+    "symbol": 3132,
+    "houses": 0
+  },
+  {
+    "name": "נופך",
+    "symbol": 707,
+    "houses": 23
+  },
+  {
+    "name": "נופר מכבים רעות",
+    "symbol": 3106,
+    "houses": 0
+  },
+  {
+    "name": "נורית מכבים רעות",
+    "symbol": 3187,
+    "houses": 0
+  },
+  {
+    "name": "נחל אביב מכבים רעות",
+    "symbol": 3351,
+    "houses": 0
+  },
+  {
+    "name": "נחל אלעל",
+    "symbol": 151,
+    "houses": 11
+  },
+  {
+    "name": "נחל ארנון",
+    "symbol": 304,
+    "houses": 14
+  },
+  {
+    "name": "נחל בוקק",
+    "symbol": 155,
+    "houses": 19
+  },
+  {
+    "name": "נחל בזק",
+    "symbol": 121,
+    "houses": 47
+  },
+  {
+    "name": "נחל בצת",
+    "symbol": 122,
+    "houses": 26
+  },
+  {
+    "name": "נחל ברק מכבים רעות",
+    "symbol": 3352,
+    "houses": 0
+  },
+  {
+    "name": "נחל גלים",
+    "symbol": 119,
+    "houses": 12
+  },
+  {
+    "name": "נחל געתון",
+    "symbol": 124,
+    "houses": 34
+  },
+  {
+    "name": "נחל גרופית מ\"ר",
+    "symbol": 3353,
+    "houses": 0
+  },
+  {
+    "name": "נחל דליה",
+    "symbol": 125,
+    "houses": 38
+  },
+  {
+    "name": "נחל דן מכבים רעות",
+    "symbol": 3354,
+    "houses": 0
+  },
+  {
+    "name": "נחל הבשור",
+    "symbol": 128,
+    "houses": 8
+  },
+  {
+    "name": "נחל הירמוך",
+    "symbol": 133,
+    "houses": 18
+  },
+  {
+    "name": "נחל הירקון",
+    "symbol": 123,
+    "houses": 25
+  },
+  {
+    "name": "נחל המעיינות מ\"ר",
+    "symbol": 3355,
+    "houses": 0
+  },
+  {
+    "name": "נחל זוהר",
+    "symbol": 153,
+    "houses": 51
+  },
+  {
+    "name": "נחל זויתן מ\"ר",
+    "symbol": 3356,
+    "houses": 0
+  },
+  {
+    "name": "נחל חבר",
+    "symbol": 150,
+    "houses": 29
+  },
+  {
+    "name": "נחל חרות מ\"ר",
+    "symbol": 3357,
+    "houses": 0
+  },
+  {
+    "name": "נחל טף מכבים רעות",
+    "symbol": 3358,
+    "houses": 0
+  },
+  {
+    "name": "נחל יבנאל",
+    "symbol": 146,
+    "houses": 8
+  },
+  {
+    "name": "נחל יגור",
+    "symbol": 154,
+    "houses": 29
+  },
+  {
+    "name": "נחל יעלים מ\"ר",
+    "symbol": 3359,
+    "houses": 0
+  },
+  {
+    "name": "נחל כיסופים מ\"ר",
+    "symbol": 3360,
+    "houses": 0
+  },
+  {
+    "name": "נחל לכיש מכבים רעות",
+    "symbol": 3361,
+    "houses": 0
+  },
+  {
+    "name": "נחל מירון",
+    "symbol": 129,
+    "houses": 42
+  },
+  {
+    "name": "נחל משושים מ\"ר",
+    "symbol": 3362,
+    "houses": 0
+  },
+  {
+    "name": "נחל נטוף מכבים רעות",
+    "symbol": 3363,
+    "houses": 0
+  },
+  {
+    "name": "נחל נטפים",
+    "symbol": 130,
+    "houses": 22
+  },
+  {
+    "name": "נחל נעמן",
+    "symbol": 157,
+    "houses": 12
+  },
+  {
+    "name": "נחל סער מכבים רעות",
+    "symbol": 3364,
+    "houses": 0
+  },
+  {
+    "name": "נחל עוז מכבים רעות",
+    "symbol": 3369,
+    "houses": 0
+  },
+  {
+    "name": "נחל עיון",
+    "symbol": 134,
+    "houses": 22
+  },
+  {
+    "name": "נחל עמוד",
+    "symbol": 156,
+    "houses": 43
+  },
+  {
+    "name": "נחל ענבה",
+    "symbol": 208,
+    "houses": 0
+  },
+  {
+    "name": "נחל ערוגות מ\"ר",
+    "symbol": 3365,
+    "houses": 0
+  },
+  {
+    "name": "נחל פארן",
+    "symbol": 143,
+    "houses": 11
+  },
+  {
+    "name": "נחל פולג מכבים רעות",
+    "symbol": 3366,
+    "houses": 0
+  },
+  {
+    "name": "נחל צאלים מ\"ר",
+    "symbol": 3367,
+    "houses": 0
+  },
+  {
+    "name": "נחל צופר",
+    "symbol": 158,
+    "houses": 24
+  },
+  {
+    "name": "נחל צין",
+    "symbol": 144,
+    "houses": 49
+  },
+  {
+    "name": "נחל ציפורי",
+    "symbol": 152,
+    "houses": 12
+  },
+  {
+    "name": "נחל צלמון",
+    "symbol": 159,
+    "houses": 12
+  },
+  {
+    "name": "נחל קטלב",
+    "symbol": 147,
+    "houses": 13
+  },
+  {
+    "name": "נחל קידרון",
+    "symbol": 141,
+    "houses": 8
+  },
+  {
+    "name": "נחל קישון מ\"ר",
+    "symbol": 3368,
+    "houses": 0
+  },
+  {
+    "name": "נחל שורק",
+    "symbol": 145,
+    "houses": 62
+  },
+  {
+    "name": "נחל שיקמה",
+    "symbol": 127,
+    "houses": 11
+  },
+  {
+    "name": "נחל שניר",
+    "symbol": 142,
+    "houses": 58
+  },
+  {
+    "name": "נחל תבור",
+    "symbol": 131,
+    "houses": 8
+  },
+  {
+    "name": "נחל תנינים",
+    "symbol": 126,
+    "houses": 7
+  },
+  {
+    "name": "נחליאלי",
+    "symbol": 719,
+    "houses": 0
+  },
+  {
+    "name": "ניסן",
+    "symbol": 658,
+    "houses": 0
+  },
+  {
+    "name": "ניצן מכבים רעות",
+    "symbol": 3257,
+    "houses": 0
+  },
+  {
+    "name": "נפתלי",
+    "symbol": 607,
+    "houses": 12
+  },
+  {
+    "name": "נץ החלב",
+    "symbol": 164,
+    "houses": 9
+  },
+  {
+    "name": "נקר מכבים רעות",
+    "symbol": 3129,
+    "houses": 0
+  },
+  {
+    "name": "נרקיס מכבים רעות",
+    "symbol": 3188,
+    "houses": 0
+  },
+  {
+    "name": "סביון",
+    "symbol": 178,
+    "houses": 13
+  },
+  {
+    "name": "סביונים מכבים רעות",
+    "symbol": 3189,
+    "houses": 0
+  },
+  {
+    "name": "סגן נתן כהן",
+    "symbol": 458,
+    "houses": 0
+  },
+  {
+    "name": "סחלב מכבים רעות",
+    "symbol": 3260,
+    "houses": 0
+  },
+  {
+    "name": "סיגלון",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "סיון",
+    "symbol": 659,
+    "houses": 23
+  },
+  {
+    "name": "סייפן מכבים רעות",
+    "symbol": 3112,
+    "houses": 0
+  },
+  {
+    "name": "סלעית",
+    "symbol": 720,
+    "houses": 0
+  },
+  {
+    "name": "סמדר",
+    "symbol": 194,
+    "houses": 3
+  },
+  {
+    "name": "סנה משה",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "סנונית מכבים רעות",
+    "symbol": 3123,
+    "houses": 0
+  },
+  {
+    "name": "ספיר מכבים רעות",
+    "symbol": 3190,
+    "houses": 0
+  },
+  {
+    "name": "סתוונית",
+    "symbol": 161,
+    "houses": 3
+  },
+  {
+    "name": "עגור מכבים רעות",
+    "symbol": 3111,
+    "houses": 0
+  },
+  {
+    "name": "עובדיה הנביא",
+    "symbol": 426,
+    "houses": 3
+  },
+  {
+    "name": "עופר האיילים",
+    "symbol": 206,
+    "houses": 1
+  },
+  {
+    "name": "עמק איילון",
+    "symbol": 160,
+    "houses": 52
+  },
+  {
+    "name": "עמק בית שאן",
+    "symbol": 441,
+    "houses": 48
+  },
+  {
+    "name": "עמק דותן",
+    "symbol": 100,
+    "houses": 50
+  },
+  {
+    "name": "עמק האלה",
+    "symbol": 442,
+    "houses": 105
+  },
+  {
+    "name": "עמק החולה",
+    "symbol": 140,
+    "houses": 92
+  },
+  {
+    "name": "עמק זבולון",
+    "symbol": 443,
+    "houses": 51
+  },
+  {
+    "name": "עמק חפר",
+    "symbol": 750,
+    "houses": 0
+  },
+  {
+    "name": "עמק חרוד",
+    "symbol": 660,
+    "houses": 16
+  },
+  {
+    "name": "עמק יזרעאל",
+    "symbol": 120,
+    "houses": 9
+  },
+  {
+    "name": "ענבר",
+    "symbol": 706,
+    "houses": 15
+  },
+  {
+    "name": "עפרוני",
+    "symbol": 721,
+    "houses": 0
+  },
+  {
+    "name": "עצי היער",
+    "symbol": 195,
+    "houses": 6
+  },
+  {
+    "name": "עצמון מכבים רעות",
+    "symbol": 3154,
+    "houses": 0
+  },
+  {
+    "name": "ערבה מכבים רעות",
+    "symbol": 3107,
+    "houses": 0
+  },
+  {
+    "name": "ערבי נחל מכבים רעות",
+    "symbol": 3155,
+    "houses": 0
+  },
+  {
+    "name": "ערוגות הבושם",
+    "symbol": 192,
+    "houses": 6
+  },
+  {
+    "name": "ערער",
+    "symbol": 139,
+    "houses": 8
+  },
+  {
+    "name": "עת הזמיר",
+    "symbol": 200,
+    "houses": 1
+  },
+  {
+    "name": "פז",
+    "symbol": 626,
+    "houses": 0
+  },
+  {
+    "name": "פטדה",
+    "symbol": 702,
+    "houses": 0
+  },
+  {
+    "name": "פיקוס",
+    "symbol": 138,
+    "houses": 13
+  },
+  {
+    "name": "פלח הרימון",
+    "symbol": 201,
+    "houses": 9
+  },
+  {
+    "name": "פעמונית מכבים רעות",
+    "symbol": 3233,
+    "houses": 0
+  },
+  {
+    "name": "פרי מגדים",
+    "symbol": 196,
+    "houses": 6
+  },
+  {
+    "name": "פשוש מכבים רעות",
+    "symbol": 3130,
+    "houses": 0
+  },
+  {
+    "name": "צאלה מכבים רעות",
+    "symbol": 3113,
+    "houses": 0
+  },
+  {
+    "name": "צאלון",
+    "symbol": 182,
+    "houses": 10
+  },
+  {
+    "name": "צבעוני מכבים רעות",
+    "symbol": 3259,
+    "houses": 0
+  },
+  {
+    "name": "צוקית",
+    "symbol": 723,
+    "houses": 0
+  },
+  {
+    "name": "ציפורנית",
+    "symbol": 179,
+    "houses": 10
+  },
+  {
+    "name": "צלע ההר",
+    "symbol": 1533,
+    "houses": 0
+  },
+  {
+    "name": "צרור המור",
+    "symbol": 197,
+    "houses": 8
+  },
+  {
+    "name": "קול דודי",
+    "symbol": 185,
+    "houses": 3
+  },
+  {
+    "name": "קול התור",
+    "symbol": 199,
+    "houses": 10
+  },
+  {
+    "name": "קורל מכבים רעות",
+    "symbol": 3185,
+    "houses": 0
+  },
+  {
+    "name": "קידה",
+    "symbol": 307,
+    "houses": 10
+  },
+  {
+    "name": "קיסוס מכבים רעות",
+    "symbol": 3234,
+    "houses": 0
+  },
+  {
+    "name": "קיפודן",
+    "symbol": 172,
+    "houses": 22
+  },
+  {
+    "name": "קרן מכבים רעות",
+    "symbol": 3192,
+    "houses": 0
+  },
+  {
+    "name": "קשת מכבים רעות",
+    "symbol": 3191,
+    "houses": 0
+  },
+  {
+    "name": "רא\"ל דוד אלעזר",
+    "symbol": 450,
+    "houses": 60
+  },
+  {
+    "name": "רא\"ל חיים ברלב",
+    "symbol": 451,
+    "houses": 44
+  },
+  {
+    "name": "רא\"ל חיים לסקוב",
+    "symbol": 452,
+    "houses": 18
+  },
+  {
+    "name": "רא\"ל יגאל ידין",
+    "symbol": 453,
+    "houses": 28
+  },
+  {
+    "name": "רא\"ל יעקב דורי",
+    "symbol": 454,
+    "houses": 13
+  },
+  {
+    "name": "רא\"ל מרדכי גור",
+    "symbol": 455,
+    "houses": 2
+  },
+  {
+    "name": "רא\"ל מרדכי מקלף",
+    "symbol": 456,
+    "houses": 18
+  },
+  {
+    "name": "רא\"ל משה דיין",
+    "symbol": 457,
+    "houses": 34
+  },
+  {
+    "name": "ראובן",
+    "symbol": 605,
+    "houses": 24
+  },
+  {
+    "name": "רבקה אמנו",
+    "symbol": 612,
+    "houses": 24
+  },
+  {
+    "name": "רותם מכבים רעות",
+    "symbol": 3156,
+    "houses": 0
+  },
+  {
+    "name": "רחל אמנו",
+    "symbol": 620,
+    "houses": 44
+  },
+  {
+    "name": "רכסים מכבים רעות",
+    "symbol": 3325,
+    "houses": 0
+  },
+  {
+    "name": "רס\"ן אייל גלר",
+    "symbol": 3174,
+    "houses": 0
+  },
+  {
+    "name": "רעות מ\"ר",
+    "symbol": 6510,
+    "houses": 0
+  },
+  {
+    "name": "רקפת מכבים רעות",
+    "symbol": 3193,
+    "houses": 0
+  },
+  {
+    "name": "שבו",
+    "symbol": 709,
+    "houses": 39
+  },
+  {
+    "name": "שבט",
+    "symbol": 657,
+    "houses": 48
+  },
+  {
+    "name": "שבטי ישראל",
+    "symbol": 600,
+    "houses": 30
+  },
+  {
+    "name": "שגיא מכבים רעות",
+    "symbol": 3194,
+    "houses": 0
+  },
+  {
+    "name": "שד אורנים מ\"ר",
+    "symbol": 3170,
+    "houses": 0
+  },
+  {
+    "name": "שד החמאם",
+    "symbol": 1510,
+    "houses": 0
+  },
+  {
+    "name": "שד המלאכות",
+    "symbol": 1501,
+    "houses": 5
+  },
+  {
+    "name": "שד המעלה",
+    "symbol": 1540,
+    "houses": 0
+  },
+  {
+    "name": "שד המקצועות",
+    "symbol": 1505,
+    "houses": 0
+  },
+  {
+    "name": "שד הרכס",
+    "symbol": 1530,
+    "houses": 5
+  },
+  {
+    "name": "שד התעשיות",
+    "symbol": 1516,
+    "houses": 0
+  },
+  {
+    "name": "שד יצחק רבין",
+    "symbol": 305,
+    "houses": 51
+  },
+  {
+    "name": "שד מנחם בגין",
+    "symbol": 630,
+    "houses": 0
+  },
+  {
+    "name": "שד ענבה",
+    "symbol": 730,
+    "houses": 0
+  },
+  {
+    "name": "שדרות דם המכבים",
+    "symbol": 176,
+    "houses": 0
+  },
+  {
+    "name": "שדרות החשמונאים",
+    "symbol": 303,
+    "houses": 2
+  },
+  {
+    "name": "שדרת המכבים מ\"ר",
+    "symbol": 3172,
+    "houses": 0
+  },
+  {
+    "name": "שדרת הפרחים מ\"ר",
+    "symbol": 3195,
+    "houses": 59
+  },
+  {
+    "name": "שדרת עומרים מ\"ר",
+    "symbol": 3196,
+    "houses": 29
+  },
+  {
+    "name": "שוהם מכבים רעות",
+    "symbol": 3197,
+    "houses": 0
+  },
+  {
+    "name": "שומרי החומות",
+    "symbol": 205,
+    "houses": 0
+  },
+  {
+    "name": "שושן צחור",
+    "symbol": 170,
+    "houses": 13
+  },
+  {
+    "name": "שושנת העמקים",
+    "symbol": 187,
+    "houses": 6
+  },
+  {
+    "name": "שחף",
+    "symbol": 725,
+    "houses": 0
+  },
+  {
+    "name": "שיזף מכבים רעות",
+    "symbol": 3157,
+    "houses": 0
+  },
+  {
+    "name": "שיר השירים",
+    "symbol": 184,
+    "houses": 0
+  },
+  {
+    "name": "שלדג",
+    "symbol": 722,
+    "houses": 0
+  },
+  {
+    "name": "שלומציון המלכה",
+    "symbol": 613,
+    "houses": 30
+  },
+  {
+    "name": "שמואל הנביא",
+    "symbol": 427,
+    "houses": 24
+  },
+  {
+    "name": "שמעון",
+    "symbol": 608,
+    "houses": 140
+  },
+  {
+    "name": "שמעון פרס",
+    "symbol": 758,
+    "houses": 0
+  },
+  {
+    "name": "שני",
+    "symbol": 714,
+    "houses": 0
+  },
+  {
+    "name": "שקד מכבים רעות",
+    "symbol": 3158,
+    "houses": 0
+  },
+  {
+    "name": "שקמה מכבים רעות",
+    "symbol": 3159,
+    "houses": 0
+  },
+  {
+    "name": "שרה אהרנסון",
+    "symbol": 757,
+    "houses": 0
+  },
+  {
+    "name": "שרה אמנו",
+    "symbol": 604,
+    "houses": 96
+  },
+  {
+    "name": "שש משזר",
+    "symbol": 713,
+    "houses": 53
+  },
+  {
+    "name": "תאנה מכבים רעות",
+    "symbol": 3160,
+    "houses": 0
+  },
+  {
+    "name": "תבור מכבים רעות",
+    "symbol": 3161,
+    "houses": 0
+  },
+  {
+    "name": "תומר מכבים רעות",
+    "symbol": 3162,
+    "houses": 0
+  },
+  {
+    "name": "תכלת",
+    "symbol": 712,
+    "houses": 0
+  },
+  {
+    "name": "תלתן",
+    "symbol": 173,
+    "houses": 6
+  },
+  {
+    "name": "תמוז",
+    "symbol": 661,
+    "houses": 0
+  },
+  {
+    "name": "תנ\"צ אפריים ברכה",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "תפוח",
+    "symbol": 114,
+    "houses": 12
+  },
+  {
+    "name": "תרשיש",
+    "symbol": 705,
+    "houses": 0
+  },
+  {
+    "name": "תשרי",
+    "symbol": 651,
+    "houses": 46
+  }
+]

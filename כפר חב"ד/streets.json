@@ -1,0 +1,267 @@
+[
+  {
+    "name": "אגרות קודש",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "אדמו\"ר האמצעי",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "אדמו\"ר הזקן",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "אדמו\"ר הצמח-צדק",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "אדמו\"ר הריי\"צ",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "אדמו\"ר הרש\"ב",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "אדמו\"ר מהר\"ש",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "אור התורה",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "אמרי בינה",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "באתי לגני",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "דבר מלכות",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "דידן נצח",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "דרך חיים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "דרך מצותיך",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הבעל שם טוב",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "הגאולה",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "המגיד ממעזריטש",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "הרב מרדכי ש. אשכנזי",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "הרב נחום טרבניק",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "הרב שניאור ז גורליק",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "הרבי מליובאוויטש",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "הרבנית חיה מושקא",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "הרבנית חנה",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "השליחות",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "חנוך לנער",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "כיכר מבצע חינוך",
+    "symbol": 6002,
+    "houses": 0
+  },
+  {
+    "name": "כיכר מבצע צדקה",
+    "symbol": 6005,
+    "houses": 0
+  },
+  {
+    "name": "כיכר מבצע תורה",
+    "symbol": 6003,
+    "houses": 0
+  },
+  {
+    "name": "כיכר מבצע תפילין",
+    "symbol": 6004,
+    "houses": 0
+  },
+  {
+    "name": "כיכר נרות שבת קודש",
+    "symbol": 6001,
+    "houses": 0
+  },
+  {
+    "name": "לוח היום יום",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "לימוד החסידות",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "לקוטי דיבורים",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "לקוטי שיחות",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "לקוטי תורה",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "מעלה 770",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "ס\"ו",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "ספר הזכרונות",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "ספר התניא",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "ע\"ב",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "עטרת ראש",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "עץ החיים",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "צעירי חב\"ד",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "רבי לוי יצחק",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "שיכונים חדשים",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "שכ לוי יצחק",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "שערי אורה",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "שערי תשובה",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "תוחלת",
+    "symbol": 6516,
+    "houses": 0
+  },
+  {
+    "name": "תורת חיים",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "תורת מנחם",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "תורת שלום",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "תורת שמואל",
+    "symbol": 113,
+    "houses": 0
+  }
+]

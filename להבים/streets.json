@@ -1,0 +1,657 @@
+[
+  {
+    "name": "אגמית",
+    "symbol": 201,
+    "houses": 0
+  },
+  {
+    "name": "אודם",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "איריס",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "אנפה",
+    "symbol": 202,
+    "houses": 0
+  },
+  {
+    "name": "בארית",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "בז",
+    "symbol": 203,
+    "houses": 0
+  },
+  {
+    "name": "בצנית",
+    "symbol": 204,
+    "houses": 0
+  },
+  {
+    "name": "ברבור",
+    "symbol": 205,
+    "houses": 0
+  },
+  {
+    "name": "ברכיה",
+    "symbol": 206,
+    "houses": 0
+  },
+  {
+    "name": "ברקן",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "ברקת",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "גבתון",
+    "symbol": 207,
+    "houses": 0
+  },
+  {
+    "name": "גדרון",
+    "symbol": 208,
+    "houses": 0
+  },
+  {
+    "name": "גומא",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "גפן",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "דגנית",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דוכיפת",
+    "symbol": 209,
+    "houses": 0
+  },
+  {
+    "name": "דרור",
+    "symbol": 210,
+    "houses": 0
+  },
+  {
+    "name": "דרך אבני החושן",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "הודן",
+    "symbol": 211,
+    "houses": 0
+  },
+  {
+    "name": "הרדוף",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "ורד",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "ורדית",
+    "symbol": 212,
+    "houses": 0
+  },
+  {
+    "name": "זוגן",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "זית",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "זמיר",
+    "symbol": 213,
+    "houses": 0
+  },
+  {
+    "name": "זרזיר",
+    "symbol": 214,
+    "houses": 0
+  },
+  {
+    "name": "חגלה",
+    "symbol": 215,
+    "houses": 0
+  },
+  {
+    "name": "חוחית",
+    "symbol": 216,
+    "houses": 0
+  },
+  {
+    "name": "חנקן",
+    "symbol": 217,
+    "houses": 0
+  },
+  {
+    "name": "חסידה",
+    "symbol": 218,
+    "houses": 0
+  },
+  {
+    "name": "חרצית",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "טבלן",
+    "symbol": 219,
+    "houses": 0
+  },
+  {
+    "name": "טופח",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "טסית",
+    "symbol": 220,
+    "houses": 0
+  },
+  {
+    "name": "ינשוף",
+    "symbol": 221,
+    "houses": 0
+  },
+  {
+    "name": "יסעור",
+    "symbol": 222,
+    "houses": 0
+  },
+  {
+    "name": "יערה",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "כוכבן",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "כוכית",
+    "symbol": 223,
+    "houses": 0
+  },
+  {
+    "name": "כחול זנב",
+    "symbol": 225,
+    "houses": 0
+  },
+  {
+    "name": "כחל",
+    "symbol": 224,
+    "houses": 0
+  },
+  {
+    "name": "לבנית",
+    "symbol": 226,
+    "houses": 0
+  },
+  {
+    "name": "לוטם",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "לילית",
+    "symbol": 227,
+    "houses": 0
+  },
+  {
+    "name": "מגלן",
+    "symbol": 228,
+    "houses": 0
+  },
+  {
+    "name": "מדברון",
+    "symbol": 229,
+    "houses": 0
+  },
+  {
+    "name": "מורן",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "מרומית",
+    "symbol": 230,
+    "houses": 0
+  },
+  {
+    "name": "נחל אדוריים",
+    "symbol": 193,
+    "houses": 0
+  },
+  {
+    "name": "נחל אילון",
+    "symbol": 195,
+    "houses": 0
+  },
+  {
+    "name": "נחל אפיקים",
+    "symbol": 194,
+    "houses": 0
+  },
+  {
+    "name": "נחל בוקק",
+    "symbol": 191,
+    "houses": 0
+  },
+  {
+    "name": "נחל בצת",
+    "symbol": 189,
+    "houses": 0
+  },
+  {
+    "name": "נחל ברק",
+    "symbol": 192,
+    "houses": 0
+  },
+  {
+    "name": "נחל בשור",
+    "symbol": 190,
+    "houses": 0
+  },
+  {
+    "name": "נחל גוברין",
+    "symbol": 185,
+    "houses": 0
+  },
+  {
+    "name": "נחל גלים",
+    "symbol": 186,
+    "houses": 0
+  },
+  {
+    "name": "נחל געתון",
+    "symbol": 182,
+    "houses": 0
+  },
+  {
+    "name": "נחל גרר",
+    "symbol": 181,
+    "houses": 0
+  },
+  {
+    "name": "נחל דולב",
+    "symbol": 188,
+    "houses": 0
+  },
+  {
+    "name": "נחל דישון",
+    "symbol": 187,
+    "houses": 0
+  },
+  {
+    "name": "נחל האלה",
+    "symbol": 183,
+    "houses": 0
+  },
+  {
+    "name": "נחל הד",
+    "symbol": 184,
+    "houses": 0
+  },
+  {
+    "name": "נחל זוהר",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "נחל זויתן",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "נחל זרחן",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "נחל חביבה",
+    "symbol": 163,
+    "houses": 0
+  },
+  {
+    "name": "נחל חברון",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "נחל חדרה",
+    "symbol": 165,
+    "houses": 0
+  },
+  {
+    "name": "נחל חצבה",
+    "symbol": 166,
+    "houses": 0
+  },
+  {
+    "name": "נחל חרמון",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "נחל טוב",
+    "symbol": 168,
+    "houses": 0
+  },
+  {
+    "name": "נחל טלה",
+    "symbol": 167,
+    "houses": 0
+  },
+  {
+    "name": "נחל יבוק",
+    "symbol": 172,
+    "houses": 0
+  },
+  {
+    "name": "נחל יגור",
+    "symbol": 173,
+    "houses": 0
+  },
+  {
+    "name": "נחל יהודייה",
+    "symbol": 174,
+    "houses": 0
+  },
+  {
+    "name": "נחל יסף",
+    "symbol": 175,
+    "houses": 0
+  },
+  {
+    "name": "נחל יעלים",
+    "symbol": 177,
+    "houses": 0
+  },
+  {
+    "name": "נחל ירוחם",
+    "symbol": 176,
+    "houses": 0
+  },
+  {
+    "name": "נחל ירמוך",
+    "symbol": 171,
+    "houses": 0
+  },
+  {
+    "name": "נחל ירקון",
+    "symbol": 169,
+    "houses": 0
+  },
+  {
+    "name": "נחל יתיר",
+    "symbol": 178,
+    "houses": 0
+  },
+  {
+    "name": "נחל כזיב",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "נחל כלח",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "נחל כרכום",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "נחל לכיש",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "נחל מגדים",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "נחל מחניים",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "נחליאלי",
+    "symbol": 231,
+    "houses": 0
+  },
+  {
+    "name": "נץ",
+    "symbol": 233,
+    "houses": 0
+  },
+  {
+    "name": "נרקיס",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "נשר",
+    "symbol": 232,
+    "houses": 0
+  },
+  {
+    "name": "סבכי",
+    "symbol": 234,
+    "houses": 0
+  },
+  {
+    "name": "סופית",
+    "symbol": 235,
+    "houses": 0
+  },
+  {
+    "name": "סייפן",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "סלעית",
+    "symbol": 236,
+    "houses": 0
+  },
+  {
+    "name": "סנונית",
+    "symbol": 237,
+    "houses": 0
+  },
+  {
+    "name": "ספיר",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "עגור",
+    "symbol": 238,
+    "houses": 0
+  },
+  {
+    "name": "עדעד",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "עיט",
+    "symbol": 239,
+    "houses": 0
+  },
+  {
+    "name": "עין הבשור",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "עין זיק",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "עין מור",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "עין סהרונים",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "עין עבדת",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "עין עופרים",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "עין עקב",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "עין צין",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "עין שחק",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "עפרוני",
+    "symbol": 240,
+    "houses": 0
+  },
+  {
+    "name": "פנינית",
+    "symbol": 241,
+    "houses": 0
+  },
+  {
+    "name": "פעמונית",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "פרפור",
+    "symbol": 242,
+    "houses": 0
+  },
+  {
+    "name": "פשוש",
+    "symbol": 243,
+    "houses": 0
+  },
+  {
+    "name": "צבעוני",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "צלף",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "קידה",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "רימון",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "רקפת",
+    "symbol": 244,
+    "houses": 0
+  },
+  {
+    "name": "שד תאנה",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "שד תמר",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "שדרות חיטה",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "שדרות שעורה",
+    "symbol": 180,
+    "houses": 0
+  },
+  {
+    "name": "שוהם",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "שיטה",
+    "symbol": 245,
+    "houses": 0
+  },
+  {
+    "name": "שכ המניפה",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "שכ המרכז",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "תפוח",
+    "symbol": 246,
+    "houses": 0
+  },
+  {
+    "name": "תרשיש",
+    "symbol": 140,
+    "houses": 0
+  }
+]

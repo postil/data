@@ -1,0 +1,102 @@
+[
+  {
+    "name": "דרך האופק",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "דרך הברושים",
+    "symbol": 100,
+    "houses": 0
+  },
+  {
+    "name": "דרך החרמש",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "דרך הראשונים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "דרך השדות",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "דרך התצפית",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "דרך עץ השדה",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "הצבר",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "השקד",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "התאנה",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "שביל האורווה",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "שביל הגנים",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "שביל הזיתים",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "שביל הצעירים",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "שביל הצריפים",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "שביל קומותיים",
+    "symbol": 119,
+    "houses": 0
+  }
+]

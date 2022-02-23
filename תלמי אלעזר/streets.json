@@ -1,0 +1,97 @@
+[
+  {
+    "name": "דרך השדות",
+    "symbol": 100,
+    "houses": 0
+  },
+  {
+    "name": "דרך שאול",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הבוסתן",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "ההדרים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "המחלבה",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "הנוקדים",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "הראשונים",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "השקמה",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "התבלינים",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "התורמוס",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "סמ ילדות",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "שביל הגפן",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "שביל הזית",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "שביל החיטה",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "שביל החרוב",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "שביל הכותנה",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "שביל הנרקיס",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "שביל הרימון",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "שביל השעורה",
+    "symbol": 118,
+    "houses": 0
+  }
+]

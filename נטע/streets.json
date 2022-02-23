@@ -1,0 +1,97 @@
+[
+  {
+    "name": "גוש קטיף",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הר ארגמן",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "הר רמון",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הר שחר",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "כפר דרום",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "מבוא מרשם",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "נחל בשור",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "נחל לכיש",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "נחל משמר",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "נחל נוקד",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "נחל עבדת",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "נחל עין גדי",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "נחל ערבה",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "נחל צאלים",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "נחל צופית",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "נחל רביבים",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "נחל רחף",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "נחל תמנע",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "תל קטיפא",
+    "symbol": 104,
+    "houses": 0
+  }
+]

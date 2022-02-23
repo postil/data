@@ -1,0 +1,42 @@
+[
+  {
+    "name": "אלומות",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך השדות",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "הבוסתן",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הפרחים",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "השלושה",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "ערוגות",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "רגבים",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "שיבולים",
+    "symbol": 106,
+    "houses": 0
+  }
+]

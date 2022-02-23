@@ -1,0 +1,317 @@
+[
+  {
+    "name": "אביטל",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "אבני חן",
+    "symbol": 6510,
+    "houses": 0
+  },
+  {
+    "name": "אדום",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "אודם",
+    "symbol": 310,
+    "houses": 0
+  },
+  {
+    "name": "אורן",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "אחדות",
+    "symbol": 344,
+    "houses": 0
+  },
+  {
+    "name": "אלה",
+    "symbol": 327,
+    "houses": 0
+  },
+  {
+    "name": "אלון",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "אשל",
+    "symbol": 324,
+    "houses": 0
+  },
+  {
+    "name": "אתרוג",
+    "symbol": 326,
+    "houses": 0
+  },
+  {
+    "name": "ברוש",
+    "symbol": 321,
+    "houses": 0
+  },
+  {
+    "name": "ברקת",
+    "symbol": 306,
+    "houses": 0
+  },
+  {
+    "name": "גמלא",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "גפן",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "דולב",
+    "symbol": 322,
+    "houses": 0
+  },
+  {
+    "name": "דפנה",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "דרך ארץ",
+    "symbol": 303,
+    "houses": 0
+  },
+  {
+    "name": "הגולן",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "החורש",
+    "symbol": 6511,
+    "houses": 0
+  },
+  {
+    "name": "החלומות",
+    "symbol": 350,
+    "houses": 0
+  },
+  {
+    "name": "הקהילה",
+    "symbol": 341,
+    "houses": 0
+  },
+  {
+    "name": "הר תבור",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "השראה",
+    "symbol": 352,
+    "houses": 0
+  },
+  {
+    "name": "התחדשות",
+    "symbol": 354,
+    "houses": 0
+  },
+  {
+    "name": "התמדה",
+    "symbol": 353,
+    "houses": 0
+  },
+  {
+    "name": "זית",
+    "symbol": 323,
+    "houses": 0
+  },
+  {
+    "name": "חברותא",
+    "symbol": 343,
+    "houses": 0
+  },
+  {
+    "name": "חושן",
+    "symbol": 313,
+    "houses": 0
+  },
+  {
+    "name": "טופז",
+    "symbol": 308,
+    "houses": 0
+  },
+  {
+    "name": "טורקיז",
+    "symbol": 307,
+    "houses": 0
+  },
+  {
+    "name": "יחד",
+    "symbol": 342,
+    "houses": 0
+  },
+  {
+    "name": "יסמין",
+    "symbol": 332,
+    "houses": 0
+  },
+  {
+    "name": "יקינטון",
+    "symbol": 331,
+    "houses": 0
+  },
+  {
+    "name": "כלנית",
+    "symbol": 336,
+    "houses": 0
+  },
+  {
+    "name": "לוטם",
+    "symbol": 335,
+    "houses": 0
+  },
+  {
+    "name": "לשם",
+    "symbol": 309,
+    "houses": 0
+  },
+  {
+    "name": "מרגלית",
+    "symbol": 311,
+    "houses": 0
+  },
+  {
+    "name": "נרקיס",
+    "symbol": 333,
+    "houses": 0
+  },
+  {
+    "name": "סביון",
+    "symbol": 338,
+    "houses": 0
+  },
+  {
+    "name": "סחלב",
+    "symbol": 337,
+    "houses": 0
+  },
+  {
+    "name": "ספיר",
+    "symbol": 305,
+    "houses": 0
+  },
+  {
+    "name": "ענבר",
+    "symbol": 312,
+    "houses": 0
+  },
+  {
+    "name": "ערבה",
+    "symbol": 325,
+    "houses": 0
+  },
+  {
+    "name": "ערבות",
+    "symbol": 347,
+    "houses": 0
+  },
+  {
+    "name": "צאלון",
+    "symbol": 328,
+    "houses": 0
+  },
+  {
+    "name": "צבעוני",
+    "symbol": 334,
+    "houses": 0
+  },
+  {
+    "name": "קידמה",
+    "symbol": 351,
+    "houses": 0
+  },
+  {
+    "name": "רובין",
+    "symbol": 314,
+    "houses": 0
+  },
+  {
+    "name": "רימון",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "רעות",
+    "symbol": 345,
+    "houses": 0
+  },
+  {
+    "name": "רקפת",
+    "symbol": 339,
+    "houses": 0
+  },
+  {
+    "name": "שדרות האחווה",
+    "symbol": 330,
+    "houses": 0
+  },
+  {
+    "name": "שדרות ההגשמה",
+    "symbol": 340,
+    "houses": 0
+  },
+  {
+    "name": "שוהם",
+    "symbol": 304,
+    "houses": 0
+  },
+  {
+    "name": "שותפות",
+    "symbol": 346,
+    "houses": 0
+  },
+  {
+    "name": "שכונת בצוותא",
+    "symbol": 6514,
+    "houses": 0
+  },
+  {
+    "name": "שכונת הפרחים",
+    "symbol": 6512,
+    "houses": 0
+  },
+  {
+    "name": "שכונת מעו\"ף",
+    "symbol": 6515,
+    "houses": 0
+  },
+  {
+    "name": "שקד",
+    "symbol": 329,
+    "houses": 0
+  },
+  {
+    "name": "תאנה",
+    "symbol": 320,
+    "houses": 0
+  },
+  {
+    "name": "תמנע",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "תמר",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "תנופה",
+    "symbol": 355,
+    "houses": 0
+  }
+]

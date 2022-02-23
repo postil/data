@@ -1,0 +1,262 @@
+[
+  {
+    "name": "אשל",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "בני תורה",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "גבעה א",
+    "symbol": 6509,
+    "houses": 0
+  },
+  {
+    "name": "גבעה ג",
+    "symbol": 6507,
+    "houses": 0
+  },
+  {
+    "name": "גבעה ד",
+    "symbol": 6508,
+    "houses": 0
+  },
+  {
+    "name": "גבעת חרובים",
+    "symbol": 6506,
+    "houses": 0
+  },
+  {
+    "name": "דפנה",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "דקל",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "דרך המדרשים",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "דרך הרב משקובסקי",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "דרך פלץ יוסף",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "דרך שרה",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "האורנים",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "האירוסים",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "האלונים",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "הדס",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "הורדים",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "החזון איש",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "החרוב",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "הכלניות",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "הנרקיסים",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "הרב עובדיה יוסף",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "הרב עוזיאל",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "הרב קוק",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "הרב קלרמן",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "הרימונים",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "השקד",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "השקמים",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "זית",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "חרצית",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "ככר אלון יגאל",
+    "symbol": 6002,
+    "houses": 0
+  },
+  {
+    "name": "ככר מימון",
+    "symbol": 6001,
+    "houses": 0
+  },
+  {
+    "name": "לב אליהו",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "לילך",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "מעלות דוד",
+    "symbol": 163,
+    "houses": 0
+  },
+  {
+    "name": "מרגנית",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "נורית",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "סביון",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "סמ הורדים",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "ערבה",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "פרג",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "קרית אור חדש",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "רותם",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "ש משכנות",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "ש עמידר",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "ש עמידר גב ב",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "ש רסקו",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "שמעונוביץ",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "שעורה",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "תאנה",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "תמר",
+    "symbol": 146,
+    "houses": 0
+  }
+]

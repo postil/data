@@ -1,0 +1,117 @@
+[
+  {
+    "name": "אירוס",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "אלה",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "אלון",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "ברוש",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "גפן",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "דרך האורנים",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "דרך הזית",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "דרך החממות",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "דרך החרוב",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "דרך החשמונאים",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "דרך המכבים",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "ורד",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "חצב",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "חרצית",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "יסמין",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "נורית",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "סמ הערבה",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "פארק תעשיות ומסחר",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "רותם",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "רימון",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "רקפת",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "שקד",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "תאנה",
+    "symbol": 112,
+    "houses": 0
+  }
+]

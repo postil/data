@@ -1,0 +1,77 @@
+[
+  {
+    "name": "דרך המבואות",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "דרך המייסדים",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "האורנים",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "החורש",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "החצב",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "החרובים",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הכלנית",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הסיגלון",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "הפקאן",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "הרותם",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "הרקפת",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "ככר האורנים",
+    "symbol": 6002,
+    "houses": 0
+  },
+  {
+    "name": "ככר הזכרון",
+    "symbol": 6003,
+    "houses": 0
+  },
+  {
+    "name": "ככר המייסדים",
+    "symbol": 6001,
+    "houses": 0
+  }
+]

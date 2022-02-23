@@ -1,0 +1,102 @@
+[
+  {
+    "name": "אחוזת שושנה",
+    "symbol": 7001,
+    "houses": 0
+  },
+  {
+    "name": "בני ברית",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "גלבוע",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "גלעד",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "גנים",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "האסם",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "הבזלת",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "הרדוף",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "חומה ומגדל",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "חצב",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "חקלאים",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "יששכר",
+    "symbol": 100,
+    "houses": 0
+  },
+  {
+    "name": "כוכב הירדן",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "מגדל מים",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "פיקוסים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "פרדס",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "צבאים",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "ראשונים",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "שומרים",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "תבור",
+    "symbol": 111,
+    "houses": 0
+  }
+]

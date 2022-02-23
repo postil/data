@@ -1,0 +1,42 @@
+[
+  {
+    "name": "אשכול",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הכרם",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "זמורה",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "סמדר",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "עינב",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "שריג",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "תירוש",
+    "symbol": 105,
+    "houses": 0
+  }
+]

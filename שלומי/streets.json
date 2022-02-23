@@ -1,0 +1,442 @@
+[
+  {
+    "name": "אזור התעשייה",
+    "symbol": 6509,
+    "houses": 0
+  },
+  {
+    "name": "אחיהוד בן שלומי",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "איבי הנחל",
+    "symbol": 198,
+    "houses": 0
+  },
+  {
+    "name": "אלבז נתן",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "אנפה",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "גבעת הארזים",
+    "symbol": 6508,
+    "houses": 0
+  },
+  {
+    "name": "דוכיפת",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "דרור",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "דרך אזולאי סנדי",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "דרך הארזים",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "האלה",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "האלון",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "הבריאה",
+    "symbol": 165,
+    "houses": 0
+  },
+  {
+    "name": "ההבשלה",
+    "symbol": 184,
+    "houses": 0
+  },
+  {
+    "name": "ההמצאה",
+    "symbol": 183,
+    "houses": 0
+  },
+  {
+    "name": "ההשראה",
+    "symbol": 186,
+    "houses": 0
+  },
+  {
+    "name": "ההתגשמות",
+    "symbol": 170,
+    "houses": 0
+  },
+  {
+    "name": "הזריעה",
+    "symbol": 181,
+    "houses": 0
+  },
+  {
+    "name": "החורש",
+    "symbol": 187,
+    "houses": 0
+  },
+  {
+    "name": "החורשה",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "הטיילת האנגלית",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "היער הקסום",
+    "symbol": 196,
+    "houses": 0
+  },
+  {
+    "name": "היצירה",
+    "symbol": 166,
+    "houses": 0
+  },
+  {
+    "name": "הכריה",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "המייסדים",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "הפריחה",
+    "symbol": 185,
+    "houses": 0
+  },
+  {
+    "name": "הצמיחה",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "הקציר",
+    "symbol": 182,
+    "houses": 0
+  },
+  {
+    "name": "הרב חזן מסעוד",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הרב מימון",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "הרב עובדיה יוסף",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "הרב עוזיאל",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "התנופה",
+    "symbol": 169,
+    "houses": 0
+  },
+  {
+    "name": "ז'בוטינסקי",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "זיכרון משה",
+    "symbol": 163,
+    "houses": 0
+  },
+  {
+    "name": "זמיר",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "חוף הים",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "חורשת האקליפטוס",
+    "symbol": 191,
+    "houses": 0
+  },
+  {
+    "name": "חלוקי הנחל",
+    "symbol": 197,
+    "houses": 0
+  },
+  {
+    "name": "יסמין",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "יער חניתה",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "יפה נוף",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "יצחק רבין",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "כחל",
+    "symbol": 175,
+    "houses": 0
+  },
+  {
+    "name": "לילך",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "מעברת שלומי",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "מעלה שטרן יאיר",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "מרכז קליטה",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "נווה רבין",
+    "symbol": 6506,
+    "houses": 0
+  },
+  {
+    "name": "נוף הרים",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "נורית",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "ניצן",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "נרקיס",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "סחלב",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "סמטת העייט",
+    "symbol": 177,
+    "houses": 0
+  },
+  {
+    "name": "סמטת נחל ייטב",
+    "symbol": 199,
+    "houses": 0
+  },
+  {
+    "name": "סמטת נחל נטפים",
+    "symbol": 195,
+    "houses": 0
+  },
+  {
+    "name": "סנונית",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "עפרוני",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "עץ המשאלות",
+    "symbol": 193,
+    "houses": 0
+  },
+  {
+    "name": "עץ השדה",
+    "symbol": 192,
+    "houses": 0
+  },
+  {
+    "name": "ערבי הנחל",
+    "symbol": 194,
+    "houses": 0
+  },
+  {
+    "name": "פנינת הצפון",
+    "symbol": 6510,
+    "houses": 0
+  },
+  {
+    "name": "קהילת בריטניה",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "קהילת שוויץ",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "רח מס' 22",
+    "symbol": 171,
+    "houses": 0
+  },
+  {
+    "name": "רח מס' 34",
+    "symbol": 172,
+    "houses": 0
+  },
+  {
+    "name": "רח מס' 35",
+    "symbol": 173,
+    "houses": 0
+  },
+  {
+    "name": "רח מס' 36",
+    "symbol": 174,
+    "houses": 0
+  },
+  {
+    "name": "רח מס' 38",
+    "symbol": 168,
+    "houses": 0
+  },
+  {
+    "name": "רקפת",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "שביל האודם",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "שביל הברקת",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "שביל היהלום",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "שביל הלשם",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "שביל הספיר",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "שד בן גוריון",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "שדרות יערית",
+    "symbol": 190,
+    "houses": 0
+  },
+  {
+    "name": "שושן",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "שחף",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "שכ בן גוריון",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "שכ בנה ביתך",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "שכ דדו",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "שכ מורד ההר",
+    "symbol": 6507,
+    "houses": 0
+  },
+  {
+    "name": "שכ שלומית",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "שכונת יערית",
+    "symbol": 6511,
+    "houses": 0
+  },
+  {
+    "name": "ששת הימים",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "תור",
+    "symbol": 176,
+    "houses": 0
+  }
+]

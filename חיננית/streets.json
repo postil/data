@@ -1,0 +1,332 @@
+[
+  {
+    "name": "אגוז",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "אגס",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "אורן",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "אירוס",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "אלון",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "אקליפטוס",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "בית ראשון במולדת",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "ברוש",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "גולני",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "גפן",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "דובדבן",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "דקל",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "הגנ\"א",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "הדס",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "הטייסים",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "המוסד",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "ורד",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "זהבית",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "זית",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "ח. גבעתי",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "ח. הנח\"ל",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "ח. כפיר",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "ח. צנחנים",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "חבצלת",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "חטיבה 7",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "חרצית",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "טל מנשה",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "יהלו\"ם",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "יסמין",
+    "symbol": 165,
+    "houses": 0
+  },
+  {
+    "name": "כלנית",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "לוטם",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "לילך",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "לימון",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "מג\"ב",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "מגלן",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "מודיעין",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "מורן",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "מייתר",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "מרגנית",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "מרווה",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "נירית",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "נרקיס",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "ס.חרוב",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "סביון",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "סחלב",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "סייפן",
+    "symbol": 163,
+    "houses": 0
+  },
+  {
+    "name": "סיירת מטכ\"ל",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "עוקץ",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "עירית",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "פ. שריון",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "פקאן",
+    "symbol": 166,
+    "houses": 0
+  },
+  {
+    "name": "פרג",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "צבעוני",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "צה\"ל",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "קרקל",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "רותם",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "רקפת",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "שייטת 13",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "שייטת 7",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "שלדג",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "שמונה מאתיים",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "שקד",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "תאנה",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "תות",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "תמר",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "תפוז",
+    "symbol": 153,
+    "houses": 0
+  }
+]

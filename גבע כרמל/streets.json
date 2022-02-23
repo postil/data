@@ -1,0 +1,87 @@
+[
+  {
+    "name": "דרך האורן",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך האילנות",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "דרך האלון",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "דרך האשל",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "דרך הדקל",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "דרך הדרים",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "דרך הערבה",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "דרך הצאלון",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "דרך הרימון",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "משעול האגוז",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "משעול האשכולית",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "משעול האתרוג",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "משעול הבוסתן",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "משעול הפרדס",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "משעול השקד",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "משעול התמר",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "משעול התפוז",
+    "symbol": 118,
+    "houses": 0
+  }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "name": "אבזאך",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "אדיגה",
+    "symbol": 100,
+    "houses": 0
+  },
+  {
+    "name": "אה נאפה",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "אושחה מאפ",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "אזאת",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "אזה",
+    "symbol": 170,
+    "houses": 0
+  },
+  {
+    "name": "אלברוס",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "אנה",
+    "symbol": 182,
+    "houses": 0
+  },
+  {
+    "name": "אפאס",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "אפיפס",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "אפץ'",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "באשתאש",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "באתר",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "בז'אדור'",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "בלאנה",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "בלם",
+    "symbol": 163,
+    "houses": 0
+  },
+  {
+    "name": "בסלאנאי",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "ג'אמיה",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "גואשה",
+    "symbol": 171,
+    "houses": 0
+  },
+  {
+    "name": "גומאף",
+    "symbol": 166,
+    "houses": 0
+  },
+  {
+    "name": "גונס",
+    "symbol": 172,
+    "houses": 0
+  },
+  {
+    "name": "גורת",
+    "symbol": 178,
+    "houses": 0
+  },
+  {
+    "name": "דאה",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "דאנה",
+    "symbol": 168,
+    "houses": 0
+  },
+  {
+    "name": "דאריי",
+    "symbol": 174,
+    "houses": 0
+  },
+  {
+    "name": "דה'ווס",
+    "symbol": 181,
+    "houses": 0
+  },
+  {
+    "name": "וואר'ה",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "ווביח",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "ווס",
+    "symbol": 165,
+    "houses": 0
+  },
+  {
+    "name": "ווספס",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "וופש",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "זאפאצה",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "זאפה",
+    "symbol": 187,
+    "houses": 0
+  },
+  {
+    "name": "חאם רוג",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "חאן רוג",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "חאנל'אשה",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "חאצ'ה",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "חאקוץ",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "חתוקאי",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "טוואפסה",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "יג'ירקואי",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "כיכר ביברס",
+    "symbol": 6002,
+    "houses": 0
+  },
+  {
+    "name": "כיכר קטז",
+    "symbol": 6001,
+    "houses": 0
+  },
+  {
+    "name": "ל'אמיג'",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "לאר'ה נאק'ה",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "מאז דוג",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "מאזה",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "מאזה נף",
+    "symbol": 198,
+    "houses": 0
+  },
+  {
+    "name": "מאיקופ",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "מאמחיש",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "מאמר",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "מאפה",
+    "symbol": 188,
+    "houses": 0
+  },
+  {
+    "name": "מארסה",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "מארקאווא",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "מזנף",
+    "symbol": 189,
+    "houses": 0
+  },
+  {
+    "name": "מזפס",
+    "symbol": 191,
+    "houses": 0
+  },
+  {
+    "name": "נאבזה",
+    "symbol": 173,
+    "houses": 0
+  },
+  {
+    "name": "נאואס",
+    "symbol": 186,
+    "houses": 0
+  },
+  {
+    "name": "נאלמס",
+    "symbol": 185,
+    "houses": 0
+  },
+  {
+    "name": "נאלצ'יק",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "נאף",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "נאפה",
+    "symbol": 193,
+    "houses": 0
+  },
+  {
+    "name": "נארת",
+    "symbol": 179,
+    "houses": 0
+  },
+  {
+    "name": "נאשה",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "נגוף",
+    "symbol": 175,
+    "houses": 0
+  },
+  {
+    "name": "נסה",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "נפנה",
+    "symbol": 180,
+    "houses": 0
+  },
+  {
+    "name": "נרזאן",
+    "symbol": 167,
+    "houses": 0
+  },
+  {
+    "name": "נשאן",
+    "symbol": 176,
+    "houses": 0
+  },
+  {
+    "name": "נתכואי",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "סאיה",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "סאנה",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "סווסרק'וואה",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "ספסף",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "פאסה",
+    "symbol": 177,
+    "houses": 0
+  },
+  {
+    "name": "פאשה",
+    "symbol": 196,
+    "houses": 0
+  },
+  {
+    "name": "פחאצ'אצ'",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "פכאח רוג",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "פכה צ'אסה",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "פסא",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "פסארש",
+    "symbol": 183,
+    "houses": 0
+  },
+  {
+    "name": "פסוור",
+    "symbol": 194,
+    "houses": 0
+  },
+  {
+    "name": "פסנה",
+    "symbol": 195,
+    "houses": 0
+  },
+  {
+    "name": "פסנפש",
+    "symbol": 184,
+    "houses": 0
+  },
+  {
+    "name": "פשא",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "פשינה",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "צ'אם רוג",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "צ'ארקה",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "צ'מגוי",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "ציה",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "קברטאי",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "קפצ'ה",
+    "symbol": 197,
+    "houses": 0
+  },
+  {
+    "name": "רוגזה",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "שאבזה",
+    "symbol": 169,
+    "houses": 0
+  },
+  {
+    "name": "שאוו",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "שאפסור'",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "שוו",
+    "symbol": 192,
+    "houses": 0
+  },
+  {
+    "name": "תאמה",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "תאמה רידז",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "תיר'ה",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "תמר",
+    "symbol": 190,
+    "houses": 0
+  }
+]

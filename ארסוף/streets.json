@@ -1,0 +1,32 @@
+[
+  {
+    "name": "אלמוג",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הגלים",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "מבוא הים",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "מול הים",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "נחשול",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "צדף ים",
+    "symbol": 106,
+    "houses": 0
+  }
+]

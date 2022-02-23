@@ -1,0 +1,27 @@
+[
+  {
+    "name": "מגל",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "מורג",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "נוף הרים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "נוף שדות",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "שדרות היוגב",
+    "symbol": 105,
+    "houses": 0
+  }
+]

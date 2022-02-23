@@ -1,0 +1,87 @@
+[
+  {
+    "name": "אגס",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "אולפן",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "גיפסנית",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "ורד",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "זית",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "חמניה",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "לימון",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "נורית",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "סייפן",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "עדעד",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "ציפורן",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "רימון",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "שקד",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "תאנה",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "תורמוס",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "תמר",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "תפוח",
+    "symbol": 113,
+    "houses": 0
+  }
+]

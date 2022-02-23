@@ -1,0 +1,3867 @@
+[
+  {
+    "name": "א-שוהדא'",
+    "symbol": 511,
+    "houses": 0
+  },
+  {
+    "name": "אבן עאמר",
+    "symbol": 419,
+    "houses": 0
+  },
+  {
+    "name": "אום קובי",
+    "symbol": 430,
+    "houses": 59
+  },
+  {
+    "name": "אזור תעשיה א",
+    "symbol": 6521,
+    "houses": 0
+  },
+  {
+    "name": "אזור תעשיה ב",
+    "symbol": 6522,
+    "houses": 0
+  },
+  {
+    "name": "איכסאל",
+    "symbol": 509,
+    "houses": 74
+  },
+  {
+    "name": "אל ואדי אל ג'וואני",
+    "symbol": 391,
+    "houses": 0
+  },
+  {
+    "name": "אל-בישארה",
+    "symbol": 250,
+    "houses": 0
+  },
+  {
+    "name": "אל-כורום",
+    "symbol": 402,
+    "houses": 0
+  },
+  {
+    "name": "אל-פאח'ורה",
+    "symbol": 869,
+    "houses": 0
+  },
+  {
+    "name": "אניס כרדוש",
+    "symbol": 443,
+    "houses": 50
+  },
+  {
+    "name": "בי\"ח איטלקי",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "ביח החולים הצרפתי",
+    "symbol": 435,
+    "houses": 0
+  },
+  {
+    "name": "בילאל",
+    "symbol": 962,
+    "houses": 127
+  },
+  {
+    "name": "ביר אבו אל ג'יש",
+    "symbol": 6520,
+    "houses": 0
+  },
+  {
+    "name": "ביר אל אמיר",
+    "symbol": 425,
+    "houses": 3
+  },
+  {
+    "name": "גבל א-דולה",
+    "symbol": 6517,
+    "houses": 0
+  },
+  {
+    "name": "גבל חמודי",
+    "symbol": 532,
+    "houses": 0
+  },
+  {
+    "name": "גרנד ניו הוטל",
+    "symbol": 440,
+    "houses": 0
+  },
+  {
+    "name": "דרך א-סלאם",
+    "symbol": 569,
+    "houses": 0
+  },
+  {
+    "name": "דרך עפולה",
+    "symbol": 426,
+    "houses": 0
+  },
+  {
+    "name": "הגליל",
+    "symbol": 118,
+    "houses": 111
+  },
+  {
+    "name": "המוסכים",
+    "symbol": 530,
+    "houses": 3
+  },
+  {
+    "name": "הרובע הלטיני",
+    "symbol": 6515,
+    "houses": 0
+  },
+  {
+    "name": "ואדי אל-חאג'",
+    "symbol": 840,
+    "houses": 0
+  },
+  {
+    "name": "ח'אלת עיסא",
+    "symbol": 802,
+    "houses": 26
+  },
+  {
+    "name": "חאלת א-דיר",
+    "symbol": 839,
+    "houses": 0
+  },
+  {
+    "name": "כרם א-סאחב",
+    "symbol": 359,
+    "houses": 0
+  },
+  {
+    "name": "כרם אל-ג'מאל",
+    "symbol": 888,
+    "houses": 0
+  },
+  {
+    "name": "סאפוריה",
+    "symbol": 201,
+    "houses": 180
+  },
+  {
+    "name": "סלזיאן",
+    "symbol": 366,
+    "houses": 43
+  },
+  {
+    "name": "עומר אבן אל-חטאב",
+    "symbol": 889,
+    "houses": 0
+  },
+  {
+    "name": "פאולוס השישי",
+    "symbol": 513,
+    "houses": 122
+  },
+  {
+    "name": "פנורמה",
+    "symbol": 394,
+    "houses": 0
+  },
+  {
+    "name": "רואוס אל-ג'יבאל",
+    "symbol": 210,
+    "houses": 0
+  },
+  {
+    "name": "רח 1000",
+    "symbol": 417,
+    "houses": 75
+  },
+  {
+    "name": "רח 4000",
+    "symbol": 114,
+    "houses": 21
+  },
+  {
+    "name": "רח 9000",
+    "symbol": 1004,
+    "houses": 0
+  },
+  {
+    "name": "רח 3100",
+    "symbol": 866,
+    "houses": 0
+  },
+  {
+    "name": "רח 4100",
+    "symbol": 818,
+    "houses": 0
+  },
+  {
+    "name": "רח 5100",
+    "symbol": 675,
+    "houses": 0
+  },
+  {
+    "name": "רח 6100",
+    "symbol": 303,
+    "houses": 1
+  },
+  {
+    "name": "רח 7100",
+    "symbol": 915,
+    "houses": 0
+  },
+  {
+    "name": "רח 7200",
+    "symbol": 446,
+    "houses": 0
+  },
+  {
+    "name": "רח 1010",
+    "symbol": 423,
+    "houses": 10
+  },
+  {
+    "name": "רח 2010",
+    "symbol": 1040,
+    "houses": 0
+  },
+  {
+    "name": "רח 3010",
+    "symbol": 855,
+    "houses": 0
+  },
+  {
+    "name": "רח 4010",
+    "symbol": 582,
+    "houses": 0
+  },
+  {
+    "name": "רח 5010",
+    "symbol": 1013,
+    "houses": 0
+  },
+  {
+    "name": "רח 6010",
+    "symbol": 107,
+    "houses": 42
+  },
+  {
+    "name": "רח 7010",
+    "symbol": 947,
+    "houses": 0
+  },
+  {
+    "name": "רח 8010",
+    "symbol": 929,
+    "houses": 0
+  },
+  {
+    "name": "רח 9010",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "רח 1110",
+    "symbol": 870,
+    "houses": 0
+  },
+  {
+    "name": "רח 5110",
+    "symbol": 691,
+    "houses": 0
+  },
+  {
+    "name": "רח 6110",
+    "symbol": 649,
+    "houses": 0
+  },
+  {
+    "name": "רח 7210",
+    "symbol": 457,
+    "houses": 0
+  },
+  {
+    "name": "רח 3020",
+    "symbol": 863,
+    "houses": 0
+  },
+  {
+    "name": "רח 4020",
+    "symbol": 742,
+    "houses": 0
+  },
+  {
+    "name": "רח 6020",
+    "symbol": 121,
+    "houses": 10
+  },
+  {
+    "name": "רח 7020",
+    "symbol": 892,
+    "houses": 0
+  },
+  {
+    "name": "רח 8020",
+    "symbol": 965,
+    "houses": 0
+  },
+  {
+    "name": "רח 9020",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "רח 1120",
+    "symbol": 985,
+    "houses": 0
+  },
+  {
+    "name": "רח 5120",
+    "symbol": 694,
+    "houses": 0
+  },
+  {
+    "name": "רח 6120",
+    "symbol": 348,
+    "houses": 52
+  },
+  {
+    "name": "רח 7220",
+    "symbol": 467,
+    "houses": 0
+  },
+  {
+    "name": "רח 1030",
+    "symbol": 980,
+    "houses": 0
+  },
+  {
+    "name": "רח 3030",
+    "symbol": 1071,
+    "houses": 0
+  },
+  {
+    "name": "רח 4030",
+    "symbol": 750,
+    "houses": 0
+  },
+  {
+    "name": "רח 5030",
+    "symbol": 725,
+    "houses": 0
+  },
+  {
+    "name": "רח 6030",
+    "symbol": 621,
+    "houses": 0
+  },
+  {
+    "name": "רח 7030",
+    "symbol": 972,
+    "houses": 0
+  },
+  {
+    "name": "רח 9030",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "רח 5130",
+    "symbol": 380,
+    "houses": 0
+  },
+  {
+    "name": "רח 6130",
+    "symbol": 667,
+    "houses": 0
+  },
+  {
+    "name": "רח 7230",
+    "symbol": 477,
+    "houses": 0
+  },
+  {
+    "name": "רח 1040",
+    "symbol": 873,
+    "houses": 0
+  },
+  {
+    "name": "רח 3040",
+    "symbol": 836,
+    "houses": 0
+  },
+  {
+    "name": "רח 5040",
+    "symbol": 431,
+    "houses": 0
+  },
+  {
+    "name": "רח 6040",
+    "symbol": 601,
+    "houses": 0
+  },
+  {
+    "name": "רח 7040",
+    "symbol": 1051,
+    "houses": 0
+  },
+  {
+    "name": "רח 9040",
+    "symbol": 166,
+    "houses": 0
+  },
+  {
+    "name": "רח 5140",
+    "symbol": 378,
+    "houses": 0
+  },
+  {
+    "name": "רח 6140",
+    "symbol": 333,
+    "houses": 0
+  },
+  {
+    "name": "רח 7240",
+    "symbol": 487,
+    "houses": 0
+  },
+  {
+    "name": "רח 1050",
+    "symbol": 1082,
+    "houses": 0
+  },
+  {
+    "name": "רח 3050",
+    "symbol": 502,
+    "houses": 12
+  },
+  {
+    "name": "רח 4050",
+    "symbol": 816,
+    "houses": 0
+  },
+  {
+    "name": "רח 6050",
+    "symbol": 592,
+    "houses": 0
+  },
+  {
+    "name": "רח 7050",
+    "symbol": 900,
+    "houses": 0
+  },
+  {
+    "name": "רח 6150",
+    "symbol": 322,
+    "houses": 50
+  },
+  {
+    "name": "רח 7250",
+    "symbol": 497,
+    "houses": 0
+  },
+  {
+    "name": "רח 1060",
+    "symbol": 1091,
+    "houses": 0
+  },
+  {
+    "name": "רח 5060",
+    "symbol": 681,
+    "houses": 0
+  },
+  {
+    "name": "רח 6060",
+    "symbol": 225,
+    "houses": 24
+  },
+  {
+    "name": "רח 7060",
+    "symbol": 904,
+    "houses": 0
+  },
+  {
+    "name": "רח 5160",
+    "symbol": 689,
+    "houses": 0
+  },
+  {
+    "name": "רח 6160",
+    "symbol": 670,
+    "houses": 0
+  },
+  {
+    "name": "רח 4070",
+    "symbol": 790,
+    "houses": 0
+  },
+  {
+    "name": "רח 5070",
+    "symbol": 434,
+    "houses": 127
+  },
+  {
+    "name": "רח 6070",
+    "symbol": 614,
+    "houses": 0
+  },
+  {
+    "name": "רח 7070",
+    "symbol": 1061,
+    "houses": 0
+  },
+  {
+    "name": "רח 6170",
+    "symbol": 669,
+    "houses": 0
+  },
+  {
+    "name": "רח 4080",
+    "symbol": 516,
+    "houses": 20
+  },
+  {
+    "name": "רח 5080",
+    "symbol": 700,
+    "houses": 0
+  },
+  {
+    "name": "רח 6080",
+    "symbol": 219,
+    "houses": 4
+  },
+  {
+    "name": "רח 7080",
+    "symbol": 377,
+    "houses": 0
+  },
+  {
+    "name": "רח 6180",
+    "symbol": 672,
+    "houses": 0
+  },
+  {
+    "name": "רח 4090",
+    "symbol": 527,
+    "houses": 9
+  },
+  {
+    "name": "רח 5090",
+    "symbol": 1030,
+    "houses": 0
+  },
+  {
+    "name": "רח 6090",
+    "symbol": 631,
+    "houses": 0
+  },
+  {
+    "name": "רח 7090",
+    "symbol": 1064,
+    "houses": 0
+  },
+  {
+    "name": "רח 1001",
+    "symbol": 1104,
+    "houses": 4
+  },
+  {
+    "name": "רח 2001",
+    "symbol": 841,
+    "houses": 12
+  },
+  {
+    "name": "רח 3001",
+    "symbol": 846,
+    "houses": 0
+  },
+  {
+    "name": "רח 6001",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "רח 8001",
+    "symbol": 920,
+    "houses": 11
+  },
+  {
+    "name": "רח 9001",
+    "symbol": 729,
+    "houses": 11
+  },
+  {
+    "name": "רח 1101",
+    "symbol": 1094,
+    "houses": 16
+  },
+  {
+    "name": "רח 3101",
+    "symbol": 763,
+    "houses": 0
+  },
+  {
+    "name": "רח 4101",
+    "symbol": 819,
+    "houses": 2
+  },
+  {
+    "name": "רח 5101",
+    "symbol": 676,
+    "houses": 5
+  },
+  {
+    "name": "רח 6101",
+    "symbol": 310,
+    "houses": 6
+  },
+  {
+    "name": "רח 7101",
+    "symbol": 916,
+    "houses": 5
+  },
+  {
+    "name": "רח 7201",
+    "symbol": 447,
+    "houses": 7
+  },
+  {
+    "name": "רח 301",
+    "symbol": 320,
+    "houses": 0
+  },
+  {
+    "name": "רח 1011",
+    "symbol": 1102,
+    "houses": 4
+  },
+  {
+    "name": "רח 2011",
+    "symbol": 102,
+    "houses": 3
+  },
+  {
+    "name": "רח 3011",
+    "symbol": 856,
+    "houses": 0
+  },
+  {
+    "name": "רח 4011",
+    "symbol": 521,
+    "houses": 69
+  },
+  {
+    "name": "רח 5011",
+    "symbol": 1014,
+    "houses": 4
+  },
+  {
+    "name": "רח 6011",
+    "symbol": 561,
+    "houses": 0
+  },
+  {
+    "name": "רח 9011",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "רח 1111",
+    "symbol": 987,
+    "houses": 0
+  },
+  {
+    "name": "רח 6111",
+    "symbol": 643,
+    "houses": 0
+  },
+  {
+    "name": "רח 7211",
+    "symbol": 458,
+    "houses": 0
+  },
+  {
+    "name": "רח 1021",
+    "symbol": 1103,
+    "houses": 15
+  },
+  {
+    "name": "רח 2021",
+    "symbol": 1042,
+    "houses": 0
+  },
+  {
+    "name": "רח 4021",
+    "symbol": 311,
+    "houses": 14
+  },
+  {
+    "name": "רח 5021",
+    "symbol": 720,
+    "houses": 0
+  },
+  {
+    "name": "רח 7021",
+    "symbol": 893,
+    "houses": 0
+  },
+  {
+    "name": "רח 8021",
+    "symbol": 966,
+    "houses": 0
+  },
+  {
+    "name": "רח 9021",
+    "symbol": 148,
+    "houses": 180
+  },
+  {
+    "name": "רח 5121",
+    "symbol": 738,
+    "houses": 0
+  },
+  {
+    "name": "רח 7221",
+    "symbol": 468,
+    "houses": 0
+  },
+  {
+    "name": "רח 321",
+    "symbol": 328,
+    "houses": 0
+  },
+  {
+    "name": "רח 1031",
+    "symbol": 1080,
+    "houses": 0
+  },
+  {
+    "name": "רח 3031",
+    "symbol": 501,
+    "houses": 7
+  },
+  {
+    "name": "רח 4031",
+    "symbol": 751,
+    "houses": 0
+  },
+  {
+    "name": "רח 5031",
+    "symbol": 726,
+    "houses": 0
+  },
+  {
+    "name": "רח 6031",
+    "symbol": 622,
+    "houses": 0
+  },
+  {
+    "name": "רח 7031",
+    "symbol": 885,
+    "houses": 0
+  },
+  {
+    "name": "רח 9031",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "רח 6131",
+    "symbol": 347,
+    "houses": 1
+  },
+  {
+    "name": "רח 7231",
+    "symbol": 478,
+    "houses": 0
+  },
+  {
+    "name": "רח 1041",
+    "symbol": 874,
+    "houses": 0
+  },
+  {
+    "name": "רח 3041",
+    "symbol": 506,
+    "houses": 25
+  },
+  {
+    "name": "רח 4041",
+    "symbol": 807,
+    "houses": 0
+  },
+  {
+    "name": "רח 5041",
+    "symbol": 1021,
+    "houses": 0
+  },
+  {
+    "name": "רח 6041",
+    "symbol": 218,
+    "houses": 8
+  },
+  {
+    "name": "רח 7041",
+    "symbol": 1052,
+    "houses": 0
+  },
+  {
+    "name": "רח 9041",
+    "symbol": 167,
+    "houses": 0
+  },
+  {
+    "name": "רח 5141",
+    "symbol": 379,
+    "houses": 0
+  },
+  {
+    "name": "רח 6141",
+    "symbol": 211,
+    "houses": 9
+  },
+  {
+    "name": "רח 7241",
+    "symbol": 488,
+    "houses": 0
+  },
+  {
+    "name": "רח 1051",
+    "symbol": 1083,
+    "houses": 0
+  },
+  {
+    "name": "רח 4051",
+    "symbol": 376,
+    "houses": 0
+  },
+  {
+    "name": "רח 5051",
+    "symbol": 703,
+    "houses": 0
+  },
+  {
+    "name": "רח 6051",
+    "symbol": 593,
+    "houses": 0
+  },
+  {
+    "name": "רח 7051",
+    "symbol": 973,
+    "houses": 0
+  },
+  {
+    "name": "רח 6151",
+    "symbol": 353,
+    "houses": 6
+  },
+  {
+    "name": "רח 7251",
+    "symbol": 498,
+    "houses": 0
+  },
+  {
+    "name": "רח 1061",
+    "symbol": 1092,
+    "houses": 0
+  },
+  {
+    "name": "רח 5061",
+    "symbol": 682,
+    "houses": 0
+  },
+  {
+    "name": "רח 6061",
+    "symbol": 610,
+    "houses": 0
+  },
+  {
+    "name": "רח 7061",
+    "symbol": 905,
+    "houses": 0
+  },
+  {
+    "name": "רח 5161",
+    "symbol": 690,
+    "houses": 0
+  },
+  {
+    "name": "רח 4071",
+    "symbol": 791,
+    "houses": 0
+  },
+  {
+    "name": "רח 5071",
+    "symbol": 1000,
+    "houses": 0
+  },
+  {
+    "name": "רח 6071",
+    "symbol": 224,
+    "houses": 11
+  },
+  {
+    "name": "רח 7071",
+    "symbol": 917,
+    "houses": 0
+  },
+  {
+    "name": "רח 6171",
+    "symbol": 321,
+    "houses": 10
+  },
+  {
+    "name": "רח 4081",
+    "symbol": 771,
+    "houses": 0
+  },
+  {
+    "name": "רח 5081",
+    "symbol": 701,
+    "houses": 0
+  },
+  {
+    "name": "רח 6081",
+    "symbol": 615,
+    "houses": 0
+  },
+  {
+    "name": "רח 1181",
+    "symbol": 1075,
+    "houses": 0
+  },
+  {
+    "name": "רח 6181",
+    "symbol": 673,
+    "houses": 0
+  },
+  {
+    "name": "רח 4091",
+    "symbol": 523,
+    "houses": 22
+  },
+  {
+    "name": "רח 5091",
+    "symbol": 414,
+    "houses": 14
+  },
+  {
+    "name": "רח 6091",
+    "symbol": 129,
+    "houses": 2
+  },
+  {
+    "name": "רח 6191",
+    "symbol": 666,
+    "houses": 0
+  },
+  {
+    "name": "רח 1002",
+    "symbol": 418,
+    "houses": 0
+  },
+  {
+    "name": "רח 2002",
+    "symbol": 842,
+    "houses": 10
+  },
+  {
+    "name": "רח 3002",
+    "symbol": 847,
+    "houses": 6
+  },
+  {
+    "name": "רח 5002",
+    "symbol": 365,
+    "houses": 7
+  },
+  {
+    "name": "רח 6002",
+    "symbol": 550,
+    "houses": 15
+  },
+  {
+    "name": "רח 8002",
+    "symbol": 921,
+    "houses": 9
+  },
+  {
+    "name": "רח 9002",
+    "symbol": 730,
+    "houses": 10
+  },
+  {
+    "name": "רח 1102",
+    "symbol": 1031,
+    "houses": 0
+  },
+  {
+    "name": "רח 4102",
+    "symbol": 126,
+    "houses": 5
+  },
+  {
+    "name": "רח 5102",
+    "symbol": 677,
+    "houses": 5
+  },
+  {
+    "name": "רח 6102",
+    "symbol": 640,
+    "houses": 4
+  },
+  {
+    "name": "רח 7202",
+    "symbol": 448,
+    "houses": 0
+  },
+  {
+    "name": "רח 702",
+    "symbol": 512,
+    "houses": 0
+  },
+  {
+    "name": "רח 802",
+    "symbol": 251,
+    "houses": 0
+  },
+  {
+    "name": "רח 1012",
+    "symbol": 1101,
+    "houses": 0
+  },
+  {
+    "name": "רח 3012",
+    "symbol": 857,
+    "houses": 0
+  },
+  {
+    "name": "רח 4012",
+    "symbol": 572,
+    "houses": 0
+  },
+  {
+    "name": "רח 5012",
+    "symbol": 1015,
+    "houses": 0
+  },
+  {
+    "name": "רח 6012",
+    "symbol": 562,
+    "houses": 0
+  },
+  {
+    "name": "רח 7012",
+    "symbol": 948,
+    "houses": 0
+  },
+  {
+    "name": "רח 8012",
+    "symbol": 930,
+    "houses": 0
+  },
+  {
+    "name": "רח 9012",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "רח 1112",
+    "symbol": 986,
+    "houses": 0
+  },
+  {
+    "name": "רח 5112",
+    "symbol": 712,
+    "houses": 0
+  },
+  {
+    "name": "רח 6112",
+    "symbol": 392,
+    "houses": 20
+  },
+  {
+    "name": "רח 7212",
+    "symbol": 459,
+    "houses": 0
+  },
+  {
+    "name": "רח 4022",
+    "symbol": 520,
+    "houses": 8
+  },
+  {
+    "name": "רח 5022",
+    "symbol": 721,
+    "houses": 0
+  },
+  {
+    "name": "רח 6022",
+    "symbol": 110,
+    "houses": 9
+  },
+  {
+    "name": "רח 7022",
+    "symbol": 894,
+    "houses": 0
+  },
+  {
+    "name": "רח 8022",
+    "symbol": 967,
+    "houses": 0
+  },
+  {
+    "name": "רח 9022",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "רח 5122",
+    "symbol": 714,
+    "houses": 0
+  },
+  {
+    "name": "רח 6122",
+    "symbol": 526,
+    "houses": 19
+  },
+  {
+    "name": "רח 7222",
+    "symbol": 469,
+    "houses": 0
+  },
+  {
+    "name": "רח 1032",
+    "symbol": 315,
+    "houses": 14
+  },
+  {
+    "name": "רח 3032",
+    "symbol": 505,
+    "houses": 16
+  },
+  {
+    "name": "רח 4032",
+    "symbol": 752,
+    "houses": 0
+  },
+  {
+    "name": "רח 5032",
+    "symbol": 727,
+    "houses": 0
+  },
+  {
+    "name": "רח 6032",
+    "symbol": 623,
+    "houses": 0
+  },
+  {
+    "name": "רח 9032",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "רח 6132",
+    "symbol": 635,
+    "houses": 0
+  },
+  {
+    "name": "רח 7232",
+    "symbol": 479,
+    "houses": 0
+  },
+  {
+    "name": "רח 1042",
+    "symbol": 875,
+    "houses": 0
+  },
+  {
+    "name": "רח 3042",
+    "symbol": 507,
+    "houses": 27
+  },
+  {
+    "name": "רח 4042",
+    "symbol": 808,
+    "houses": 0
+  },
+  {
+    "name": "רח 5042",
+    "symbol": 1022,
+    "houses": 0
+  },
+  {
+    "name": "רח 6042",
+    "symbol": 230,
+    "houses": 45
+  },
+  {
+    "name": "רח 7042",
+    "symbol": 1053,
+    "houses": 0
+  },
+  {
+    "name": "רח 9042",
+    "symbol": 168,
+    "houses": 0
+  },
+  {
+    "name": "רח 7242",
+    "symbol": 489,
+    "houses": 0
+  },
+  {
+    "name": "רח 1052",
+    "symbol": 1084,
+    "houses": 0
+  },
+  {
+    "name": "רח 4052",
+    "symbol": 781,
+    "houses": 6
+  },
+  {
+    "name": "רח 5052",
+    "symbol": 406,
+    "houses": 8
+  },
+  {
+    "name": "רח 7052",
+    "symbol": 884,
+    "houses": 0
+  },
+  {
+    "name": "רח 6152",
+    "symbol": 668,
+    "houses": 0
+  },
+  {
+    "name": "רח 1062",
+    "symbol": 1096,
+    "houses": 0
+  },
+  {
+    "name": "רח 4062",
+    "symbol": 800,
+    "houses": 0
+  },
+  {
+    "name": "רח 5062",
+    "symbol": 683,
+    "houses": 0
+  },
+  {
+    "name": "רח 6062",
+    "symbol": 609,
+    "houses": 0
+  },
+  {
+    "name": "רח 7062",
+    "symbol": 906,
+    "houses": 0
+  },
+  {
+    "name": "רח 6162",
+    "symbol": 207,
+    "houses": 4
+  },
+  {
+    "name": "רח 4072",
+    "symbol": 792,
+    "houses": 0
+  },
+  {
+    "name": "רח 5072",
+    "symbol": 1001,
+    "houses": 0
+  },
+  {
+    "name": "רח 6072",
+    "symbol": 616,
+    "houses": 0
+  },
+  {
+    "name": "רח 7072",
+    "symbol": 910,
+    "houses": 0
+  },
+  {
+    "name": "רח 6172",
+    "symbol": 331,
+    "houses": 1
+  },
+  {
+    "name": "רח 4082",
+    "symbol": 772,
+    "houses": 0
+  },
+  {
+    "name": "רח 5082",
+    "symbol": 412,
+    "houses": 20
+  },
+  {
+    "name": "רח 6082",
+    "symbol": 302,
+    "houses": 2
+  },
+  {
+    "name": "רח 7082",
+    "symbol": 913,
+    "houses": 0
+  },
+  {
+    "name": "רח 6182",
+    "symbol": 318,
+    "houses": 1
+  },
+  {
+    "name": "רח 5092",
+    "symbol": 413,
+    "houses": 14
+  },
+  {
+    "name": "רח 6192",
+    "symbol": 349,
+    "houses": 0
+  },
+  {
+    "name": "רח 1003",
+    "symbol": 106,
+    "houses": 15
+  },
+  {
+    "name": "רח 2003",
+    "symbol": 843,
+    "houses": 26
+  },
+  {
+    "name": "רח 3003",
+    "symbol": 848,
+    "houses": 14
+  },
+  {
+    "name": "רח 4003",
+    "symbol": 116,
+    "houses": 18
+  },
+  {
+    "name": "רח 5003",
+    "symbol": 363,
+    "houses": 18
+  },
+  {
+    "name": "רח 6003",
+    "symbol": 551,
+    "houses": 15
+  },
+  {
+    "name": "רח 7003",
+    "symbol": 940,
+    "houses": 9
+  },
+  {
+    "name": "רח 8003",
+    "symbol": 922,
+    "houses": 25
+  },
+  {
+    "name": "רח 9003",
+    "symbol": 731,
+    "houses": 20
+  },
+  {
+    "name": "רח 1103",
+    "symbol": 988,
+    "houses": 18
+  },
+  {
+    "name": "רח 3103",
+    "symbol": 1073,
+    "houses": 9
+  },
+  {
+    "name": "רח 4103",
+    "symbol": 820,
+    "houses": 15
+  },
+  {
+    "name": "רח 5103",
+    "symbol": 710,
+    "houses": 14
+  },
+  {
+    "name": "רח 6103",
+    "symbol": 357,
+    "houses": 4
+  },
+  {
+    "name": "רח 7203",
+    "symbol": 449,
+    "houses": 0
+  },
+  {
+    "name": "רח 303",
+    "symbol": 316,
+    "houses": 0
+  },
+  {
+    "name": "רח 2013",
+    "symbol": 1037,
+    "houses": 0
+  },
+  {
+    "name": "רח 3013",
+    "symbol": 867,
+    "houses": 10
+  },
+  {
+    "name": "רח 4013",
+    "symbol": 830,
+    "houses": 0
+  },
+  {
+    "name": "רח 5013",
+    "symbol": 1016,
+    "houses": 12
+  },
+  {
+    "name": "רח 6013",
+    "symbol": 563,
+    "houses": 0
+  },
+  {
+    "name": "רח 8013",
+    "symbol": 931,
+    "houses": 0
+  },
+  {
+    "name": "רח 9013",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "רח 5113",
+    "symbol": 1002,
+    "houses": 0
+  },
+  {
+    "name": "רח 6113",
+    "symbol": 345,
+    "houses": 18
+  },
+  {
+    "name": "רח 7213",
+    "symbol": 460,
+    "houses": 0
+  },
+  {
+    "name": "רח 313",
+    "symbol": 339,
+    "houses": 0
+  },
+  {
+    "name": "רח 413",
+    "symbol": 343,
+    "houses": 0
+  },
+  {
+    "name": "רח 1023",
+    "symbol": 1112,
+    "houses": 7
+  },
+  {
+    "name": "רח 2023",
+    "symbol": 1043,
+    "houses": 0
+  },
+  {
+    "name": "רח 4023",
+    "symbol": 743,
+    "houses": 0
+  },
+  {
+    "name": "רח 5023",
+    "symbol": 1019,
+    "houses": 0
+  },
+  {
+    "name": "רח 6023",
+    "symbol": 119,
+    "houses": 6
+  },
+  {
+    "name": "רח 7023",
+    "symbol": 829,
+    "houses": 0
+  },
+  {
+    "name": "רח 8023",
+    "symbol": 968,
+    "houses": 0
+  },
+  {
+    "name": "רח 9023",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "רח 6123",
+    "symbol": 639,
+    "houses": 0
+  },
+  {
+    "name": "רח 7223",
+    "symbol": 470,
+    "houses": 0
+  },
+  {
+    "name": "רח 3033",
+    "symbol": 765,
+    "houses": 0
+  },
+  {
+    "name": "רח 4033",
+    "symbol": 753,
+    "houses": 0
+  },
+  {
+    "name": "רח 5033",
+    "symbol": 427,
+    "houses": 0
+  },
+  {
+    "name": "רח 6033",
+    "symbol": 624,
+    "houses": 0
+  },
+  {
+    "name": "רח 7033",
+    "symbol": 952,
+    "houses": 0
+  },
+  {
+    "name": "רח 9033",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "רח 6133",
+    "symbol": 346,
+    "houses": 15
+  },
+  {
+    "name": "רח 7233",
+    "symbol": 480,
+    "houses": 0
+  },
+  {
+    "name": "רח 1043",
+    "symbol": 876,
+    "houses": 0
+  },
+  {
+    "name": "רח 3043",
+    "symbol": 508,
+    "houses": 14
+  },
+  {
+    "name": "רח 4043",
+    "symbol": 809,
+    "houses": 0
+  },
+  {
+    "name": "רח 5043",
+    "symbol": 1023,
+    "houses": 0
+  },
+  {
+    "name": "רח 6043",
+    "symbol": 216,
+    "houses": 10
+  },
+  {
+    "name": "רח 7043",
+    "symbol": 1054,
+    "houses": 0
+  },
+  {
+    "name": "רח 6143",
+    "symbol": 368,
+    "houses": 15
+  },
+  {
+    "name": "רח 7243",
+    "symbol": 490,
+    "houses": 0
+  },
+  {
+    "name": "רח 4053",
+    "symbol": 782,
+    "houses": 0
+  },
+  {
+    "name": "רח 5053",
+    "symbol": 732,
+    "houses": 0
+  },
+  {
+    "name": "רח 6053",
+    "symbol": 205,
+    "houses": 8
+  },
+  {
+    "name": "רח 7053",
+    "symbol": 901,
+    "houses": 0
+  },
+  {
+    "name": "רח 6153",
+    "symbol": 317,
+    "houses": 64
+  },
+  {
+    "name": "רח 1063",
+    "symbol": 1097,
+    "houses": 0
+  },
+  {
+    "name": "רח 4063",
+    "symbol": 799,
+    "houses": 0
+  },
+  {
+    "name": "רח 6063",
+    "symbol": 304,
+    "houses": 5
+  },
+  {
+    "name": "רח 7063",
+    "symbol": 907,
+    "houses": 0
+  },
+  {
+    "name": "רח 6163",
+    "symbol": 313,
+    "houses": 0
+  },
+  {
+    "name": "רח 4073",
+    "symbol": 793,
+    "houses": 0
+  },
+  {
+    "name": "רח 5073",
+    "symbol": 686,
+    "houses": 0
+  },
+  {
+    "name": "רח 6073",
+    "symbol": 226,
+    "houses": 3
+  },
+  {
+    "name": "רח 7073",
+    "symbol": 911,
+    "houses": 0
+  },
+  {
+    "name": "רח 6173",
+    "symbol": 330,
+    "houses": 25
+  },
+  {
+    "name": "רח 4083",
+    "symbol": 773,
+    "houses": 0
+  },
+  {
+    "name": "רח 5083",
+    "symbol": 410,
+    "houses": 42
+  },
+  {
+    "name": "רח 6083",
+    "symbol": 301,
+    "houses": 20
+  },
+  {
+    "name": "רח 7083",
+    "symbol": 956,
+    "houses": 0
+  },
+  {
+    "name": "רח 6183",
+    "symbol": 326,
+    "houses": 5
+  },
+  {
+    "name": "רח 4093",
+    "symbol": 525,
+    "houses": 2
+  },
+  {
+    "name": "רח 5093",
+    "symbol": 733,
+    "houses": 0
+  },
+  {
+    "name": "רח 6093",
+    "symbol": 314,
+    "houses": 5
+  },
+  {
+    "name": "רח 6193",
+    "symbol": 101,
+    "houses": 5
+  },
+  {
+    "name": "רח 1004",
+    "symbol": 424,
+    "houses": 0
+  },
+  {
+    "name": "רח 2004",
+    "symbol": 844,
+    "houses": 0
+  },
+  {
+    "name": "רח 3004",
+    "symbol": 849,
+    "houses": 0
+  },
+  {
+    "name": "רח 4004",
+    "symbol": 570,
+    "houses": 11
+  },
+  {
+    "name": "רח 6004",
+    "symbol": 123,
+    "houses": 1
+  },
+  {
+    "name": "רח 7004",
+    "symbol": 941,
+    "houses": 0
+  },
+  {
+    "name": "רח 8004",
+    "symbol": 923,
+    "houses": 9
+  },
+  {
+    "name": "רח 9004",
+    "symbol": 1026,
+    "houses": 6
+  },
+  {
+    "name": "רח 3104",
+    "symbol": 1074,
+    "houses": 4
+  },
+  {
+    "name": "רח 4104",
+    "symbol": 574,
+    "houses": 15
+  },
+  {
+    "name": "רח 5104",
+    "symbol": 422,
+    "houses": 6
+  },
+  {
+    "name": "רח 6104",
+    "symbol": 369,
+    "houses": 4
+  },
+  {
+    "name": "רח 7204",
+    "symbol": 450,
+    "houses": 5
+  },
+  {
+    "name": "רח 604",
+    "symbol": 524,
+    "houses": 0
+  },
+  {
+    "name": "רח 804",
+    "symbol": 372,
+    "houses": 0
+  },
+  {
+    "name": "רח 1014",
+    "symbol": 1107,
+    "houses": 4
+  },
+  {
+    "name": "רח 3014",
+    "symbol": 858,
+    "houses": 5
+  },
+  {
+    "name": "רח 4014",
+    "symbol": 831,
+    "houses": 7
+  },
+  {
+    "name": "רח 5014",
+    "symbol": 1017,
+    "houses": 0
+  },
+  {
+    "name": "רח 6014",
+    "symbol": 564,
+    "houses": 14
+  },
+  {
+    "name": "רח 7014",
+    "symbol": 949,
+    "houses": 0
+  },
+  {
+    "name": "רח 9014",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "רח 114",
+    "symbol": 409,
+    "houses": 0
+  },
+  {
+    "name": "רח 1114",
+    "symbol": 882,
+    "houses": 0
+  },
+  {
+    "name": "רח 5114",
+    "symbol": 1003,
+    "houses": 0
+  },
+  {
+    "name": "רח 6114",
+    "symbol": 371,
+    "houses": 10
+  },
+  {
+    "name": "רח 7214",
+    "symbol": 461,
+    "houses": 0
+  },
+  {
+    "name": "רח 2024",
+    "symbol": 1044,
+    "houses": 0
+  },
+  {
+    "name": "רח 3024",
+    "symbol": 451,
+    "houses": 8
+  },
+  {
+    "name": "רח 4024",
+    "symbol": 744,
+    "houses": 0
+  },
+  {
+    "name": "רח 5024",
+    "symbol": 722,
+    "houses": 0
+  },
+  {
+    "name": "רח 6024",
+    "symbol": 620,
+    "houses": 0
+  },
+  {
+    "name": "רח 7024",
+    "symbol": 960,
+    "houses": 0
+  },
+  {
+    "name": "רח 8024",
+    "symbol": 970,
+    "houses": 0
+  },
+  {
+    "name": "רח 9024",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "רח 124",
+    "symbol": 405,
+    "houses": 0
+  },
+  {
+    "name": "רח 5124",
+    "symbol": 695,
+    "houses": 0
+  },
+  {
+    "name": "רח 6124",
+    "symbol": 647,
+    "houses": 0
+  },
+  {
+    "name": "רח 7224",
+    "symbol": 471,
+    "houses": 0
+  },
+  {
+    "name": "רח 724",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "רח 1034",
+    "symbol": 982,
+    "houses": 0
+  },
+  {
+    "name": "רח 5034",
+    "symbol": 1006,
+    "houses": 0
+  },
+  {
+    "name": "רח 6034",
+    "symbol": 128,
+    "houses": 3
+  },
+  {
+    "name": "רח 7034",
+    "symbol": 953,
+    "houses": 0
+  },
+  {
+    "name": "רח 9034",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "רח 6134",
+    "symbol": 662,
+    "houses": 0
+  },
+  {
+    "name": "רח 7234",
+    "symbol": 481,
+    "houses": 0
+  },
+  {
+    "name": "רח 1044",
+    "symbol": 877,
+    "houses": 0
+  },
+  {
+    "name": "רח 3044",
+    "symbol": 838,
+    "houses": 0
+  },
+  {
+    "name": "רח 4044",
+    "symbol": 810,
+    "houses": 0
+  },
+  {
+    "name": "רח 5044",
+    "symbol": 1024,
+    "houses": 0
+  },
+  {
+    "name": "רח 6044",
+    "symbol": 215,
+    "houses": 12
+  },
+  {
+    "name": "רח 7044",
+    "symbol": 1055,
+    "houses": 0
+  },
+  {
+    "name": "רח 6144",
+    "symbol": 636,
+    "houses": 0
+  },
+  {
+    "name": "רח 7244",
+    "symbol": 491,
+    "houses": 0
+  },
+  {
+    "name": "רח 1054",
+    "symbol": 1085,
+    "houses": 0
+  },
+  {
+    "name": "רח 6054",
+    "symbol": 206,
+    "houses": 2
+  },
+  {
+    "name": "רח 7054",
+    "symbol": 974,
+    "houses": 0
+  },
+  {
+    "name": "רח 6154",
+    "symbol": 337,
+    "houses": 14
+  },
+  {
+    "name": "רח 1064",
+    "symbol": 1098,
+    "houses": 0
+  },
+  {
+    "name": "רח 4064",
+    "symbol": 821,
+    "houses": 0
+  },
+  {
+    "name": "רח 5064",
+    "symbol": 1008,
+    "houses": 0
+  },
+  {
+    "name": "רח 6064",
+    "symbol": 367,
+    "houses": 29
+  },
+  {
+    "name": "רח 7064",
+    "symbol": 1059,
+    "houses": 0
+  },
+  {
+    "name": "רח 6164",
+    "symbol": 324,
+    "houses": 11
+  },
+  {
+    "name": "רח 4074",
+    "symbol": 794,
+    "houses": 0
+  },
+  {
+    "name": "רח 5074",
+    "symbol": 687,
+    "houses": 0
+  },
+  {
+    "name": "רח 6074",
+    "symbol": 221,
+    "houses": 21
+  },
+  {
+    "name": "רח 7074",
+    "symbol": 912,
+    "houses": 0
+  },
+  {
+    "name": "רח 6174",
+    "symbol": 329,
+    "houses": 8
+  },
+  {
+    "name": "רח 4084",
+    "symbol": 510,
+    "houses": 0
+  },
+  {
+    "name": "רח 5084",
+    "symbol": 702,
+    "houses": 0
+  },
+  {
+    "name": "רח 6084",
+    "symbol": 648,
+    "houses": 0
+  },
+  {
+    "name": "רח 6184",
+    "symbol": 674,
+    "houses": 0
+  },
+  {
+    "name": "רח 4094",
+    "symbol": 573,
+    "houses": 0
+  },
+  {
+    "name": "רח 6094",
+    "symbol": 306,
+    "houses": 4
+  },
+  {
+    "name": "רח 1005",
+    "symbol": 1116,
+    "houses": 0
+  },
+  {
+    "name": "רח 2005",
+    "symbol": 1032,
+    "houses": 4
+  },
+  {
+    "name": "רח 3005",
+    "symbol": 850,
+    "houses": 0
+  },
+  {
+    "name": "רח 4005",
+    "symbol": 571,
+    "houses": 0
+  },
+  {
+    "name": "רח 5005",
+    "symbol": 362,
+    "houses": 30
+  },
+  {
+    "name": "רח 7005",
+    "symbol": 942,
+    "houses": 9
+  },
+  {
+    "name": "רח 8005",
+    "symbol": 924,
+    "houses": 13
+  },
+  {
+    "name": "רח 9005",
+    "symbol": 1005,
+    "houses": 15
+  },
+  {
+    "name": "רח 1105",
+    "symbol": 989,
+    "houses": 28
+  },
+  {
+    "name": "רח 3105",
+    "symbol": 837,
+    "houses": 3
+  },
+  {
+    "name": "רח 4105",
+    "symbol": 375,
+    "houses": 9
+  },
+  {
+    "name": "רח 5105",
+    "symbol": 711,
+    "houses": 2
+  },
+  {
+    "name": "רח 6105",
+    "symbol": 354,
+    "houses": 12
+  },
+  {
+    "name": "רח 7205",
+    "symbol": 452,
+    "houses": 5
+  },
+  {
+    "name": "רח 1015",
+    "symbol": 1109,
+    "houses": 22
+  },
+  {
+    "name": "רח 2015",
+    "symbol": 1038,
+    "houses": 7
+  },
+  {
+    "name": "רח 3015",
+    "symbol": 859,
+    "houses": 1
+  },
+  {
+    "name": "רח 4015",
+    "symbol": 832,
+    "houses": 35
+  },
+  {
+    "name": "רח 5015",
+    "symbol": 1018,
+    "houses": 0
+  },
+  {
+    "name": "רח 6015",
+    "symbol": 565,
+    "houses": 0
+  },
+  {
+    "name": "רח 7015",
+    "symbol": 950,
+    "houses": 13
+  },
+  {
+    "name": "רח 8015",
+    "symbol": 933,
+    "houses": 6
+  },
+  {
+    "name": "רח 9015",
+    "symbol": 145,
+    "houses": 29
+  },
+  {
+    "name": "רח 1115",
+    "symbol": 883,
+    "houses": 0
+  },
+  {
+    "name": "רח 5115",
+    "symbol": 713,
+    "houses": 11
+  },
+  {
+    "name": "רח 6115",
+    "symbol": 361,
+    "houses": 8
+  },
+  {
+    "name": "רח 7215",
+    "symbol": 462,
+    "houses": 0
+  },
+  {
+    "name": "רח 1025",
+    "symbol": 1113,
+    "houses": 0
+  },
+  {
+    "name": "רח 2025",
+    "symbol": 1045,
+    "houses": 0
+  },
+  {
+    "name": "רח 4025",
+    "symbol": 745,
+    "houses": 0
+  },
+  {
+    "name": "רח 5025",
+    "symbol": 728,
+    "houses": 0
+  },
+  {
+    "name": "רח 6025",
+    "symbol": 568,
+    "houses": 0
+  },
+  {
+    "name": "רח 7025",
+    "symbol": 895,
+    "houses": 0
+  },
+  {
+    "name": "רח 8025",
+    "symbol": 961,
+    "houses": 0
+  },
+  {
+    "name": "רח 9025",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "רח 1125",
+    "symbol": 978,
+    "houses": 0
+  },
+  {
+    "name": "רח 6125",
+    "symbol": 651,
+    "houses": 0
+  },
+  {
+    "name": "רח 7225",
+    "symbol": 472,
+    "houses": 0
+  },
+  {
+    "name": "רח 1035",
+    "symbol": 1117,
+    "houses": 0
+  },
+  {
+    "name": "רח 3035",
+    "symbol": 1072,
+    "houses": 0
+  },
+  {
+    "name": "רח 4035",
+    "symbol": 803,
+    "houses": 0
+  },
+  {
+    "name": "רח 5035",
+    "symbol": 407,
+    "houses": 26
+  },
+  {
+    "name": "רח 6035",
+    "symbol": 625,
+    "houses": 0
+  },
+  {
+    "name": "רח 7035",
+    "symbol": 887,
+    "houses": 0
+  },
+  {
+    "name": "רח 8035",
+    "symbol": 932,
+    "houses": 0
+  },
+  {
+    "name": "רח 9035",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "רח 6135",
+    "symbol": 307,
+    "houses": 2
+  },
+  {
+    "name": "רח 7235",
+    "symbol": 482,
+    "houses": 0
+  },
+  {
+    "name": "רח 1045",
+    "symbol": 878,
+    "houses": 0
+  },
+  {
+    "name": "רח 3045",
+    "symbol": 865,
+    "houses": 0
+  },
+  {
+    "name": "רח 4045",
+    "symbol": 811,
+    "houses": 0
+  },
+  {
+    "name": "רח 5045",
+    "symbol": 994,
+    "houses": 0
+  },
+  {
+    "name": "רח 6045",
+    "symbol": 214,
+    "houses": 0
+  },
+  {
+    "name": "רח 7045",
+    "symbol": 1056,
+    "houses": 0
+  },
+  {
+    "name": "רח 6145",
+    "symbol": 340,
+    "houses": 6
+  },
+  {
+    "name": "רח 7245",
+    "symbol": 492,
+    "houses": 0
+  },
+  {
+    "name": "רח 1055",
+    "symbol": 1086,
+    "houses": 0
+  },
+  {
+    "name": "רח 4055",
+    "symbol": 783,
+    "houses": 0
+  },
+  {
+    "name": "רח 5055",
+    "symbol": 999,
+    "houses": 0
+  },
+  {
+    "name": "רח 6055",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "רח 7055",
+    "symbol": 975,
+    "houses": 0
+  },
+  {
+    "name": "רח 4065",
+    "symbol": 764,
+    "houses": 0
+  },
+  {
+    "name": "רח 6065",
+    "symbol": 229,
+    "houses": 4
+  },
+  {
+    "name": "רח 7065",
+    "symbol": 908,
+    "houses": 0
+  },
+  {
+    "name": "רח 6165",
+    "symbol": 671,
+    "houses": 0
+  },
+  {
+    "name": "רח 4075",
+    "symbol": 795,
+    "houses": 0
+  },
+  {
+    "name": "רח 5075",
+    "symbol": 706,
+    "houses": 0
+  },
+  {
+    "name": "רח 6075",
+    "symbol": 223,
+    "houses": 23
+  },
+  {
+    "name": "רח 6175",
+    "symbol": 393,
+    "houses": 4
+  },
+  {
+    "name": "רח 4085",
+    "symbol": 113,
+    "houses": 9
+  },
+  {
+    "name": "רח 6085",
+    "symbol": 370,
+    "houses": 0
+  },
+  {
+    "name": "רח 7085",
+    "symbol": 1062,
+    "houses": 0
+  },
+  {
+    "name": "רח 6185",
+    "symbol": 312,
+    "houses": 11
+  },
+  {
+    "name": "רח 4095",
+    "symbol": 822,
+    "houses": 0
+  },
+  {
+    "name": "רח 6095",
+    "symbol": 130,
+    "houses": 7
+  },
+  {
+    "name": "רח 6195",
+    "symbol": 566,
+    "houses": 0
+  },
+  {
+    "name": "רח 1006",
+    "symbol": 429,
+    "houses": 6
+  },
+  {
+    "name": "רח 2006",
+    "symbol": 1033,
+    "houses": 6
+  },
+  {
+    "name": "רח 3006",
+    "symbol": 851,
+    "houses": 8
+  },
+  {
+    "name": "רח 4006",
+    "symbol": 580,
+    "houses": 12
+  },
+  {
+    "name": "רח 7006",
+    "symbol": 943,
+    "houses": 2
+  },
+  {
+    "name": "רח 8006",
+    "symbol": 925,
+    "houses": 4
+  },
+  {
+    "name": "רח 5106",
+    "symbol": 383,
+    "houses": 8
+  },
+  {
+    "name": "רח 7206",
+    "symbol": 453,
+    "houses": 0
+  },
+  {
+    "name": "רח 1016",
+    "symbol": 1108,
+    "houses": 10
+  },
+  {
+    "name": "רח 2016",
+    "symbol": 1039,
+    "houses": 11
+  },
+  {
+    "name": "רח 3016",
+    "symbol": 860,
+    "houses": 0
+  },
+  {
+    "name": "רח 4016",
+    "symbol": 833,
+    "houses": 0
+  },
+  {
+    "name": "רח 8016",
+    "symbol": 963,
+    "houses": 0
+  },
+  {
+    "name": "רח 9016",
+    "symbol": 146,
+    "houses": 6
+  },
+  {
+    "name": "רח 1116",
+    "symbol": 984,
+    "houses": 0
+  },
+  {
+    "name": "רח 5116",
+    "symbol": 688,
+    "houses": 0
+  },
+  {
+    "name": "רח 6116",
+    "symbol": 644,
+    "houses": 0
+  },
+  {
+    "name": "רח 7216",
+    "symbol": 463,
+    "houses": 0
+  },
+  {
+    "name": "רח 1026",
+    "symbol": 1114,
+    "houses": 0
+  },
+  {
+    "name": "רח 3026",
+    "symbol": 864,
+    "houses": 0
+  },
+  {
+    "name": "רח 4026",
+    "symbol": 746,
+    "houses": 0
+  },
+  {
+    "name": "רח 5026",
+    "symbol": 403,
+    "houses": 66
+  },
+  {
+    "name": "רח 6026",
+    "symbol": 122,
+    "houses": 16
+  },
+  {
+    "name": "רח 7026",
+    "symbol": 896,
+    "houses": 0
+  },
+  {
+    "name": "רח 8026",
+    "symbol": 969,
+    "houses": 0
+  },
+  {
+    "name": "רח 9026",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "רח 6126",
+    "symbol": 341,
+    "houses": 53
+  },
+  {
+    "name": "רח 7226",
+    "symbol": 473,
+    "houses": 0
+  },
+  {
+    "name": "רח 1036",
+    "symbol": 871,
+    "houses": 0
+  },
+  {
+    "name": "רח 3036",
+    "symbol": 760,
+    "houses": 0
+  },
+  {
+    "name": "רח 4036",
+    "symbol": 780,
+    "houses": 0
+  },
+  {
+    "name": "רח 6036",
+    "symbol": 202,
+    "houses": 22
+  },
+  {
+    "name": "רח 7036",
+    "symbol": 1050,
+    "houses": 0
+  },
+  {
+    "name": "רח 9036",
+    "symbol": 163,
+    "houses": 0
+  },
+  {
+    "name": "רח 5136",
+    "symbol": 382,
+    "houses": 0
+  },
+  {
+    "name": "רח 6136",
+    "symbol": 308,
+    "houses": 3
+  },
+  {
+    "name": "רח 7236",
+    "symbol": 483,
+    "houses": 0
+  },
+  {
+    "name": "רח 1046",
+    "symbol": 879,
+    "houses": 0
+  },
+  {
+    "name": "רח 4046",
+    "symbol": 812,
+    "houses": 0
+  },
+  {
+    "name": "רח 5046",
+    "symbol": 995,
+    "houses": 0
+  },
+  {
+    "name": "רח 6046",
+    "symbol": 213,
+    "houses": 0
+  },
+  {
+    "name": "רח 7046",
+    "symbol": 1057,
+    "houses": 0
+  },
+  {
+    "name": "רח 6146",
+    "symbol": 637,
+    "houses": 0
+  },
+  {
+    "name": "רח 7246",
+    "symbol": 493,
+    "houses": 0
+  },
+  {
+    "name": "רח 1056",
+    "symbol": 1087,
+    "houses": 0
+  },
+  {
+    "name": "רח 4056",
+    "symbol": 784,
+    "houses": 0
+  },
+  {
+    "name": "רח 5056",
+    "symbol": 408,
+    "houses": 17
+  },
+  {
+    "name": "רח 6056",
+    "symbol": 124,
+    "houses": 4
+  },
+  {
+    "name": "רח 7056",
+    "symbol": 976,
+    "houses": 0
+  },
+  {
+    "name": "רח 6156",
+    "symbol": 334,
+    "houses": 24
+  },
+  {
+    "name": "רח 1066",
+    "symbol": 1093,
+    "houses": 0
+  },
+  {
+    "name": "רח 4066",
+    "symbol": 801,
+    "houses": 0
+  },
+  {
+    "name": "רח 5066",
+    "symbol": 684,
+    "houses": 0
+  },
+  {
+    "name": "רח 6066",
+    "symbol": 611,
+    "houses": 0
+  },
+  {
+    "name": "רח 7066",
+    "symbol": 909,
+    "houses": 0
+  },
+  {
+    "name": "רח 6166",
+    "symbol": 327,
+    "houses": 6
+  },
+  {
+    "name": "רח 4076",
+    "symbol": 517,
+    "houses": 48
+  },
+  {
+    "name": "רח 5076",
+    "symbol": 707,
+    "houses": 0
+  },
+  {
+    "name": "רח 6076",
+    "symbol": 630,
+    "houses": 0
+  },
+  {
+    "name": "רח 6176",
+    "symbol": 659,
+    "houses": 0
+  },
+  {
+    "name": "רח 5086",
+    "symbol": 415,
+    "houses": 7
+  },
+  {
+    "name": "רח 6086",
+    "symbol": 619,
+    "houses": 0
+  },
+  {
+    "name": "רח 7086",
+    "symbol": 1063,
+    "houses": 0
+  },
+  {
+    "name": "רח 6186",
+    "symbol": 653,
+    "houses": 0
+  },
+  {
+    "name": "רח 5096",
+    "symbol": 734,
+    "houses": 0
+  },
+  {
+    "name": "רח 6096",
+    "symbol": 632,
+    "houses": 0
+  },
+  {
+    "name": "רח 2007",
+    "symbol": 1034,
+    "houses": 0
+  },
+  {
+    "name": "רח 3007",
+    "symbol": 852,
+    "houses": 21
+  },
+  {
+    "name": "רח 5007",
+    "symbol": 1010,
+    "houses": 10
+  },
+  {
+    "name": "רח 6007",
+    "symbol": 552,
+    "houses": 5
+  },
+  {
+    "name": "רח 7007",
+    "symbol": 944,
+    "houses": 6
+  },
+  {
+    "name": "רח 8007",
+    "symbol": 926,
+    "houses": 10
+  },
+  {
+    "name": "רח 1107",
+    "symbol": 881,
+    "houses": 0
+  },
+  {
+    "name": "רח 5107",
+    "symbol": 678,
+    "houses": 0
+  },
+  {
+    "name": "רח 6107",
+    "symbol": 641,
+    "houses": 0
+  },
+  {
+    "name": "רח 7207",
+    "symbol": 454,
+    "houses": 35
+  },
+  {
+    "name": "רח 1017",
+    "symbol": 1105,
+    "houses": 2
+  },
+  {
+    "name": "רח 2017",
+    "symbol": 845,
+    "houses": 0
+  },
+  {
+    "name": "רח 3017",
+    "symbol": 861,
+    "houses": 0
+  },
+  {
+    "name": "רח 4017",
+    "symbol": 834,
+    "houses": 0
+  },
+  {
+    "name": "רח 5017",
+    "symbol": 404,
+    "houses": 13
+  },
+  {
+    "name": "רח 6017",
+    "symbol": 567,
+    "houses": 0
+  },
+  {
+    "name": "רח 7017",
+    "symbol": 890,
+    "houses": 0
+  },
+  {
+    "name": "רח 1117",
+    "symbol": 983,
+    "houses": 0
+  },
+  {
+    "name": "רח 5117",
+    "symbol": 692,
+    "houses": 0
+  },
+  {
+    "name": "רח 6117",
+    "symbol": 645,
+    "houses": 0
+  },
+  {
+    "name": "רח 7217",
+    "symbol": 464,
+    "houses": 0
+  },
+  {
+    "name": "רח 1027",
+    "symbol": 1099,
+    "houses": 0
+  },
+  {
+    "name": "רח 3027",
+    "symbol": 503,
+    "houses": 36
+  },
+  {
+    "name": "רח 4027",
+    "symbol": 747,
+    "houses": 0
+  },
+  {
+    "name": "רח 5027",
+    "symbol": 1020,
+    "houses": 0
+  },
+  {
+    "name": "רח 7027",
+    "symbol": 897,
+    "houses": 0
+  },
+  {
+    "name": "רח 9027",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "רח 127",
+    "symbol": 323,
+    "houses": 0
+  },
+  {
+    "name": "רח 6127",
+    "symbol": 350,
+    "houses": 14
+  },
+  {
+    "name": "רח 7227",
+    "symbol": 474,
+    "houses": 0
+  },
+  {
+    "name": "רח 1037",
+    "symbol": 872,
+    "houses": 0
+  },
+  {
+    "name": "רח 3037",
+    "symbol": 761,
+    "houses": 0
+  },
+  {
+    "name": "רח 4037",
+    "symbol": 804,
+    "houses": 0
+  },
+  {
+    "name": "רח 5037",
+    "symbol": 992,
+    "houses": 0
+  },
+  {
+    "name": "רח 6037",
+    "symbol": 600,
+    "houses": 0
+  },
+  {
+    "name": "רח 7037",
+    "symbol": 886,
+    "houses": 0
+  },
+  {
+    "name": "רח 9037",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "רח 5137",
+    "symbol": 381,
+    "houses": 0
+  },
+  {
+    "name": "רח 6137",
+    "symbol": 638,
+    "houses": 0
+  },
+  {
+    "name": "רח 7237",
+    "symbol": 484,
+    "houses": 0
+  },
+  {
+    "name": "רח 4047",
+    "symbol": 813,
+    "houses": 0
+  },
+  {
+    "name": "רח 5047",
+    "symbol": 996,
+    "houses": 0
+  },
+  {
+    "name": "רח 6047",
+    "symbol": 220,
+    "houses": 5
+  },
+  {
+    "name": "רח 7047",
+    "symbol": 1058,
+    "houses": 0
+  },
+  {
+    "name": "רח 6147",
+    "symbol": 652,
+    "houses": 0
+  },
+  {
+    "name": "רח 7247",
+    "symbol": 494,
+    "houses": 0
+  },
+  {
+    "name": "רח 1057",
+    "symbol": 1088,
+    "houses": 0
+  },
+  {
+    "name": "רח 4057",
+    "symbol": 785,
+    "houses": 0
+  },
+  {
+    "name": "רח 5057",
+    "symbol": 1007,
+    "houses": 0
+  },
+  {
+    "name": "רח 6057",
+    "symbol": 602,
+    "houses": 0
+  },
+  {
+    "name": "רח 7057",
+    "symbol": 977,
+    "houses": 0
+  },
+  {
+    "name": "רח 6157",
+    "symbol": 212,
+    "houses": 0
+  },
+  {
+    "name": "רח 1067",
+    "symbol": 880,
+    "houses": 0
+  },
+  {
+    "name": "רח 4067",
+    "symbol": 787,
+    "houses": 0
+  },
+  {
+    "name": "רח 5067",
+    "symbol": 704,
+    "houses": 0
+  },
+  {
+    "name": "רח 6067",
+    "symbol": 612,
+    "houses": 0
+  },
+  {
+    "name": "רח 6167",
+    "symbol": 336,
+    "houses": 2
+  },
+  {
+    "name": "רח 4077",
+    "symbol": 796,
+    "houses": 0
+  },
+  {
+    "name": "רח 5077",
+    "symbol": 411,
+    "houses": 10
+  },
+  {
+    "name": "רח 6077",
+    "symbol": 228,
+    "houses": 6
+  },
+  {
+    "name": "רח 6177",
+    "symbol": 665,
+    "houses": 0
+  },
+  {
+    "name": "רח 4087",
+    "symbol": 115,
+    "houses": 8
+  },
+  {
+    "name": "רח 5087",
+    "symbol": 1029,
+    "houses": 0
+  },
+  {
+    "name": "רח 6087",
+    "symbol": 356,
+    "houses": 20
+  },
+  {
+    "name": "רח 7087",
+    "symbol": 914,
+    "houses": 0
+  },
+  {
+    "name": "רח 4097",
+    "symbol": 817,
+    "houses": 0
+  },
+  {
+    "name": "רח 5097",
+    "symbol": 735,
+    "houses": 0
+  },
+  {
+    "name": "רח 6097",
+    "symbol": 633,
+    "houses": 0
+  },
+  {
+    "name": "רח 6197",
+    "symbol": 204,
+    "houses": 2
+  },
+  {
+    "name": "רח 1008",
+    "symbol": 1106,
+    "houses": 8
+  },
+  {
+    "name": "רח 2008",
+    "symbol": 1035,
+    "houses": 2
+  },
+  {
+    "name": "רח 3008",
+    "symbol": 853,
+    "houses": 31
+  },
+  {
+    "name": "רח 4008",
+    "symbol": 575,
+    "houses": 7
+  },
+  {
+    "name": "רח 5008",
+    "symbol": 1011,
+    "houses": 28
+  },
+  {
+    "name": "רח 6008",
+    "symbol": 117,
+    "houses": 15
+  },
+  {
+    "name": "רח 7008",
+    "symbol": 945,
+    "houses": 10
+  },
+  {
+    "name": "רח 8008",
+    "symbol": 927,
+    "houses": 0
+  },
+  {
+    "name": "רח 5108",
+    "symbol": 679,
+    "houses": 45
+  },
+  {
+    "name": "רח 6108",
+    "symbol": 355,
+    "houses": 23
+  },
+  {
+    "name": "רח 7208",
+    "symbol": 455,
+    "houses": 0
+  },
+  {
+    "name": "רח 1018",
+    "symbol": 1111,
+    "houses": 9
+  },
+  {
+    "name": "רח 2018",
+    "symbol": 1041,
+    "houses": 0
+  },
+  {
+    "name": "רח 4018",
+    "symbol": 740,
+    "houses": 0
+  },
+  {
+    "name": "רח 5018",
+    "symbol": 990,
+    "houses": 0
+  },
+  {
+    "name": "רח 6018",
+    "symbol": 108,
+    "houses": 7
+  },
+  {
+    "name": "רח 7018",
+    "symbol": 951,
+    "houses": 0
+  },
+  {
+    "name": "רח 5118",
+    "symbol": 384,
+    "houses": 0
+  },
+  {
+    "name": "רח 6118",
+    "symbol": 646,
+    "houses": 0
+  },
+  {
+    "name": "רח 7218",
+    "symbol": 465,
+    "houses": 0
+  },
+  {
+    "name": "רח 1028",
+    "symbol": 1115,
+    "houses": 5
+  },
+  {
+    "name": "רח 3028",
+    "symbol": 868,
+    "houses": 0
+  },
+  {
+    "name": "רח 4028",
+    "symbol": 748,
+    "houses": 0
+  },
+  {
+    "name": "רח 5028",
+    "symbol": 723,
+    "houses": 0
+  },
+  {
+    "name": "רח 6028",
+    "symbol": 208,
+    "houses": 15
+  },
+  {
+    "name": "רח 7028",
+    "symbol": 898,
+    "houses": 0
+  },
+  {
+    "name": "רח 9028",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "רח 5128",
+    "symbol": 650,
+    "houses": 0
+  },
+  {
+    "name": "רח 6128",
+    "symbol": 660,
+    "houses": 0
+  },
+  {
+    "name": "רח 7228",
+    "symbol": 475,
+    "houses": 0
+  },
+  {
+    "name": "רח 3038",
+    "symbol": 762,
+    "houses": 0
+  },
+  {
+    "name": "רח 4038",
+    "symbol": 805,
+    "houses": 0
+  },
+  {
+    "name": "רח 5038",
+    "symbol": 993,
+    "houses": 0
+  },
+  {
+    "name": "רח 6038",
+    "symbol": 203,
+    "houses": 10
+  },
+  {
+    "name": "רח 7038",
+    "symbol": 954,
+    "houses": 0
+  },
+  {
+    "name": "רח 9038",
+    "symbol": 165,
+    "houses": 0
+  },
+  {
+    "name": "רח 6138",
+    "symbol": 364,
+    "houses": 17
+  },
+  {
+    "name": "רח 7238",
+    "symbol": 485,
+    "houses": 0
+  },
+  {
+    "name": "רח 4048",
+    "symbol": 814,
+    "houses": 0
+  },
+  {
+    "name": "רח 5048",
+    "symbol": 997,
+    "houses": 0
+  },
+  {
+    "name": "רח 6048",
+    "symbol": 590,
+    "houses": 0
+  },
+  {
+    "name": "רח 7248",
+    "symbol": 495,
+    "houses": 0
+  },
+  {
+    "name": "רח 1058",
+    "symbol": 1089,
+    "houses": 0
+  },
+  {
+    "name": "רח 4058",
+    "symbol": 786,
+    "houses": 0
+  },
+  {
+    "name": "רח 5058",
+    "symbol": 680,
+    "houses": 0
+  },
+  {
+    "name": "רח 6058",
+    "symbol": 222,
+    "houses": 14
+  },
+  {
+    "name": "רח 7058",
+    "symbol": 902,
+    "houses": 0
+  },
+  {
+    "name": "רח 6158",
+    "symbol": 217,
+    "houses": 4
+  },
+  {
+    "name": "רח 4068",
+    "symbol": 788,
+    "houses": 0
+  },
+  {
+    "name": "רח 5068",
+    "symbol": 705,
+    "houses": 0
+  },
+  {
+    "name": "רח 6068",
+    "symbol": 613,
+    "houses": 0
+  },
+  {
+    "name": "רח 6168",
+    "symbol": 319,
+    "houses": 5
+  },
+  {
+    "name": "רח 4078",
+    "symbol": 797,
+    "houses": 0
+  },
+  {
+    "name": "רח 5078",
+    "symbol": 708,
+    "houses": 0
+  },
+  {
+    "name": "רח 4088",
+    "symbol": 798,
+    "houses": 0
+  },
+  {
+    "name": "רח 5088",
+    "symbol": 401,
+    "houses": 8
+  },
+  {
+    "name": "רח 6088",
+    "symbol": 360,
+    "houses": 0
+  },
+  {
+    "name": "רח 5098",
+    "symbol": 736,
+    "houses": 0
+  },
+  {
+    "name": "רח 6098",
+    "symbol": 305,
+    "houses": 14
+  },
+  {
+    "name": "רח 1009",
+    "symbol": 1100,
+    "houses": 0
+  },
+  {
+    "name": "רח 2009",
+    "symbol": 1036,
+    "houses": 0
+  },
+  {
+    "name": "רח 3009",
+    "symbol": 854,
+    "houses": 0
+  },
+  {
+    "name": "רח 4009",
+    "symbol": 581,
+    "houses": 0
+  },
+  {
+    "name": "רח 5009",
+    "symbol": 1012,
+    "houses": 0
+  },
+  {
+    "name": "רח 6009",
+    "symbol": 560,
+    "houses": 0
+  },
+  {
+    "name": "רח 7009",
+    "symbol": 946,
+    "houses": 0
+  },
+  {
+    "name": "רח 8009",
+    "symbol": 928,
+    "houses": 0
+  },
+  {
+    "name": "רח 5109",
+    "symbol": 696,
+    "houses": 0
+  },
+  {
+    "name": "רח 6109",
+    "symbol": 642,
+    "houses": 0
+  },
+  {
+    "name": "רח 7209",
+    "symbol": 456,
+    "houses": 0
+  },
+  {
+    "name": "רח 1019",
+    "symbol": 1110,
+    "houses": 0
+  },
+  {
+    "name": "רח 3019",
+    "symbol": 862,
+    "houses": 0
+  },
+  {
+    "name": "רח 4019",
+    "symbol": 741,
+    "houses": 0
+  },
+  {
+    "name": "רח 5019",
+    "symbol": 991,
+    "houses": 0
+  },
+  {
+    "name": "רח 6019",
+    "symbol": 109,
+    "houses": 19
+  },
+  {
+    "name": "רח 7019",
+    "symbol": 891,
+    "houses": 0
+  },
+  {
+    "name": "רח 8019",
+    "symbol": 964,
+    "houses": 0
+  },
+  {
+    "name": "רח 5119",
+    "symbol": 693,
+    "houses": 0
+  },
+  {
+    "name": "רח 6119",
+    "symbol": 344,
+    "houses": 11
+  },
+  {
+    "name": "רח 7219",
+    "symbol": 466,
+    "houses": 0
+  },
+  {
+    "name": "רח 3029",
+    "symbol": 1070,
+    "houses": 0
+  },
+  {
+    "name": "רח 4029",
+    "symbol": 749,
+    "houses": 0
+  },
+  {
+    "name": "רח 5029",
+    "symbol": 724,
+    "houses": 0
+  },
+  {
+    "name": "רח 6029",
+    "symbol": 209,
+    "houses": 15
+  },
+  {
+    "name": "רח 7029",
+    "symbol": 971,
+    "houses": 0
+  },
+  {
+    "name": "רח 9029",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "רח 5129",
+    "symbol": 1025,
+    "houses": 0
+  },
+  {
+    "name": "רח 6129",
+    "symbol": 661,
+    "houses": 0
+  },
+  {
+    "name": "רח 7229",
+    "symbol": 476,
+    "houses": 0
+  },
+  {
+    "name": "רח 3039",
+    "symbol": 835,
+    "houses": 0
+  },
+  {
+    "name": "רח 4039",
+    "symbol": 806,
+    "houses": 0
+  },
+  {
+    "name": "רח 5039",
+    "symbol": 428,
+    "houses": 0
+  },
+  {
+    "name": "רח 6039",
+    "symbol": 127,
+    "houses": 7
+  },
+  {
+    "name": "רח 7039",
+    "symbol": 955,
+    "houses": 0
+  },
+  {
+    "name": "רח 6139",
+    "symbol": 342,
+    "houses": 24
+  },
+  {
+    "name": "רח 7239",
+    "symbol": 486,
+    "houses": 0
+  },
+  {
+    "name": "רח 1049",
+    "symbol": 1081,
+    "houses": 0
+  },
+  {
+    "name": "רח 4049",
+    "symbol": 815,
+    "houses": 0
+  },
+  {
+    "name": "רח 5049",
+    "symbol": 998,
+    "houses": 0
+  },
+  {
+    "name": "רח 6049",
+    "symbol": 591,
+    "houses": 0
+  },
+  {
+    "name": "רח 7049",
+    "symbol": 899,
+    "houses": 0
+  },
+  {
+    "name": "רח 6149",
+    "symbol": 663,
+    "houses": 0
+  },
+  {
+    "name": "רח 7249",
+    "symbol": 496,
+    "houses": 0
+  },
+  {
+    "name": "רח 1059",
+    "symbol": 1090,
+    "houses": 0
+  },
+  {
+    "name": "רח 4059",
+    "symbol": 518,
+    "houses": 34
+  },
+  {
+    "name": "רח 5059",
+    "symbol": 697,
+    "houses": 0
+  },
+  {
+    "name": "רח 7059",
+    "symbol": 903,
+    "houses": 0
+  },
+  {
+    "name": "רח 6159",
+    "symbol": 1095,
+    "houses": 0
+  },
+  {
+    "name": "רח 4069",
+    "symbol": 789,
+    "houses": 0
+  },
+  {
+    "name": "רח 5069",
+    "symbol": 685,
+    "houses": 0
+  },
+  {
+    "name": "רח 6069",
+    "symbol": 617,
+    "houses": 0
+  },
+  {
+    "name": "רח 7069",
+    "symbol": 1060,
+    "houses": 0
+  },
+  {
+    "name": "רח 6169",
+    "symbol": 664,
+    "houses": 0
+  },
+  {
+    "name": "רח 4079",
+    "symbol": 770,
+    "houses": 0
+  },
+  {
+    "name": "רח 5079",
+    "symbol": 709,
+    "houses": 0
+  },
+  {
+    "name": "רח 6079",
+    "symbol": 358,
+    "houses": 16
+  },
+  {
+    "name": "רח 4089",
+    "symbol": 515,
+    "houses": 11
+  },
+  {
+    "name": "רח 5089",
+    "symbol": 416,
+    "houses": 11
+  },
+  {
+    "name": "רח 6089",
+    "symbol": 309,
+    "houses": 31
+  },
+  {
+    "name": "רח 5099",
+    "symbol": 1009,
+    "houses": 0
+  },
+  {
+    "name": "רח 6099",
+    "symbol": 634,
+    "houses": 0
+  },
+  {
+    "name": "ש אחוה",
+    "symbol": 432,
+    "houses": 0
+  },
+  {
+    "name": "ש הפועל הערבי",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "ש חילים משוחררים",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "ש נמסאווי",
+    "symbol": 6518,
+    "houses": 0
+  },
+  {
+    "name": "ש פועלי נצרת",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "שיכון שנלר",
+    "symbol": 6519,
+    "houses": 0
+  },
+  {
+    "name": "שכ אום קבאי",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "שכ אל בטריס",
+    "symbol": 6512,
+    "houses": 0
+  },
+  {
+    "name": "שכ אל דבס",
+    "symbol": 6511,
+    "houses": 0
+  },
+  {
+    "name": "שכ אל כרום",
+    "symbol": 6514,
+    "houses": 0
+  },
+  {
+    "name": "שכ אל מוחלס",
+    "symbol": 6509,
+    "houses": 0
+  },
+  {
+    "name": "שכ אל מוטראן",
+    "symbol": 6507,
+    "houses": 0
+  },
+  {
+    "name": "שכ ביר אל אמיר",
+    "symbol": 6523,
+    "houses": 0
+  },
+  {
+    "name": "שכ הורדים",
+    "symbol": 6510,
+    "houses": 0
+  },
+  {
+    "name": "שכ המרוניטים",
+    "symbol": 6513,
+    "houses": 0
+  },
+  {
+    "name": "שכ חאלת א-דיר",
+    "symbol": 6524,
+    "houses": 0
+  },
+  {
+    "name": "שכ מזרחית",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "שכ סאפפרה",
+    "symbol": 6508,
+    "houses": 0
+  },
+  {
+    "name": "שכ רום",
+    "symbol": 6516,
+    "houses": 0
+  },
+  {
+    "name": "שכון רם",
+    "symbol": 6506,
+    "houses": 0
+  },
+  {
+    "name": "תופיק זיאד",
+    "symbol": 504,
+    "houses": 0
+  }
+]

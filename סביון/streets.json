@@ -1,0 +1,452 @@
+[
+  {
+    "name": "אוריה",
+    "symbol": 193,
+    "houses": 8
+  },
+  {
+    "name": "אלון",
+    "symbol": 131,
+    "houses": 11
+  },
+  {
+    "name": "אמירים",
+    "symbol": 116,
+    "houses": 26
+  },
+  {
+    "name": "אנפה",
+    "symbol": 182,
+    "houses": 16
+  },
+  {
+    "name": "ארז",
+    "symbol": 135,
+    "houses": 9
+  },
+  {
+    "name": "גן השקמים",
+    "symbol": 3122,
+    "houses": 17
+  },
+  {
+    "name": "גני יהודה",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "דגן",
+    "symbol": 107,
+    "houses": 19
+  },
+  {
+    "name": "דוכיפת",
+    "symbol": 190,
+    "houses": 2
+  },
+  {
+    "name": "דרור",
+    "symbol": 187,
+    "houses": 9
+  },
+  {
+    "name": "האופק",
+    "symbol": 112,
+    "houses": 18
+  },
+  {
+    "name": "האורנים",
+    "symbol": 122,
+    "houses": 15
+  },
+  {
+    "name": "האירוס גני יהודה",
+    "symbol": 3101,
+    "houses": 0
+  },
+  {
+    "name": "האתרוג",
+    "symbol": 133,
+    "houses": 16
+  },
+  {
+    "name": "הברוש",
+    "symbol": 113,
+    "houses": 28
+  },
+  {
+    "name": "הגבעה",
+    "symbol": 108,
+    "houses": 63
+  },
+  {
+    "name": "הגדרות",
+    "symbol": 129,
+    "houses": 50
+  },
+  {
+    "name": "הגיא",
+    "symbol": 101,
+    "houses": 14
+  },
+  {
+    "name": "הגנים גני יהודה",
+    "symbol": 3102,
+    "houses": 0
+  },
+  {
+    "name": "הדס",
+    "symbol": 136,
+    "houses": 8
+  },
+  {
+    "name": "הדקל",
+    "symbol": 140,
+    "houses": 26
+  },
+  {
+    "name": "הדרום",
+    "symbol": 114,
+    "houses": 26
+  },
+  {
+    "name": "ההדרים",
+    "symbol": 115,
+    "houses": 13
+  },
+  {
+    "name": "הוורד",
+    "symbol": 197,
+    "houses": 0
+  },
+  {
+    "name": "הורדים גני יהודה",
+    "symbol": 3103,
+    "houses": 0
+  },
+  {
+    "name": "הזית גני יהודה",
+    "symbol": 3104,
+    "houses": 0
+  },
+  {
+    "name": "החורש",
+    "symbol": 165,
+    "houses": 16
+  },
+  {
+    "name": "החרמש",
+    "symbol": 150,
+    "houses": 16
+  },
+  {
+    "name": "המועדון",
+    "symbol": 123,
+    "houses": 11
+  },
+  {
+    "name": "המתנחלים גני יהודה",
+    "symbol": 3111,
+    "houses": 0
+  },
+  {
+    "name": "הנוף",
+    "symbol": 118,
+    "houses": 50
+  },
+  {
+    "name": "הצבעוני גני יהודה",
+    "symbol": 3119,
+    "houses": 0
+  },
+  {
+    "name": "הצבר",
+    "symbol": 110,
+    "houses": 2
+  },
+  {
+    "name": "הצפון",
+    "symbol": 130,
+    "houses": 8
+  },
+  {
+    "name": "הקשת",
+    "symbol": 139,
+    "houses": 21
+  },
+  {
+    "name": "הר דפנה",
+    "symbol": 109,
+    "houses": 60
+  },
+  {
+    "name": "הראשונים",
+    "symbol": 120,
+    "houses": 9
+  },
+  {
+    "name": "הרגב",
+    "symbol": 132,
+    "houses": 5
+  },
+  {
+    "name": "הרכס",
+    "symbol": 102,
+    "houses": 29
+  },
+  {
+    "name": "השושנה",
+    "symbol": 196,
+    "houses": 0
+  },
+  {
+    "name": "השחר",
+    "symbol": 128,
+    "houses": 9
+  },
+  {
+    "name": "השלוה",
+    "symbol": 124,
+    "houses": 25
+  },
+  {
+    "name": "השקד",
+    "symbol": 137,
+    "houses": 5
+  },
+  {
+    "name": "השקמה",
+    "symbol": 103,
+    "houses": 66
+  },
+  {
+    "name": "התומר",
+    "symbol": 127,
+    "houses": 28
+  },
+  {
+    "name": "התיכון",
+    "symbol": 104,
+    "houses": 23
+  },
+  {
+    "name": "התלם",
+    "symbol": 134,
+    "houses": 10
+  },
+  {
+    "name": "זמיר",
+    "symbol": 186,
+    "houses": 0
+  },
+  {
+    "name": "חוחית",
+    "symbol": 179,
+    "houses": 0
+  },
+  {
+    "name": "חופית",
+    "symbol": 183,
+    "houses": 0
+  },
+  {
+    "name": "יסעור",
+    "symbol": 181,
+    "houses": 0
+  },
+  {
+    "name": "ככר העשור",
+    "symbol": 6001,
+    "houses": 0
+  },
+  {
+    "name": "כרם הזיתים",
+    "symbol": 111,
+    "houses": 33
+  },
+  {
+    "name": "לבנית",
+    "symbol": 178,
+    "houses": 2
+  },
+  {
+    "name": "מבואות",
+    "symbol": 105,
+    "houses": 76
+  },
+  {
+    "name": "מגל",
+    "symbol": 106,
+    "houses": 39
+  },
+  {
+    "name": "מגלן",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "נחליאל",
+    "symbol": 194,
+    "houses": 0
+  },
+  {
+    "name": "סלעית",
+    "symbol": 191,
+    "houses": 2
+  },
+  {
+    "name": "סמ הגבעה",
+    "symbol": 148,
+    "houses": 27
+  },
+  {
+    "name": "סמ הגדרות",
+    "symbol": 151,
+    "houses": 3
+  },
+  {
+    "name": "סמ הגיא",
+    "symbol": 166,
+    "houses": 5
+  },
+  {
+    "name": "סמ הדרום",
+    "symbol": 146,
+    "houses": 8
+  },
+  {
+    "name": "סמ הוורד",
+    "symbol": 198,
+    "houses": 0
+  },
+  {
+    "name": "סמ החבצלת גני יהודה",
+    "symbol": 3124,
+    "houses": 0
+  },
+  {
+    "name": "סמ החצב גני יהודה",
+    "symbol": 3106,
+    "houses": 0
+  },
+  {
+    "name": "סמ החרמש",
+    "symbol": 117,
+    "houses": 7
+  },
+  {
+    "name": "סמ הכלנית גני יהודה",
+    "symbol": 3108,
+    "houses": 0
+  },
+  {
+    "name": "סמ המרגנית",
+    "symbol": 3115,
+    "houses": 0
+  },
+  {
+    "name": "סמ הנורית גני יהודה",
+    "symbol": 3113,
+    "houses": 0
+  },
+  {
+    "name": "סמ הנרקיס גני יהודה",
+    "symbol": 3117,
+    "houses": 0
+  },
+  {
+    "name": "סמ העשור גני יהודה",
+    "symbol": 3123,
+    "houses": 0
+  },
+  {
+    "name": "סמ הר דפנה",
+    "symbol": 147,
+    "houses": 22
+  },
+  {
+    "name": "סמ הרקפת גני יהודה",
+    "symbol": 3121,
+    "houses": 0
+  },
+  {
+    "name": "סמ השקמה",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "סמ חופית",
+    "symbol": 184,
+    "houses": 0
+  },
+  {
+    "name": "סמ כרם הזיתים",
+    "symbol": 145,
+    "houses": 6
+  },
+  {
+    "name": "סמ מבואות",
+    "symbol": 121,
+    "houses": 15
+  },
+  {
+    "name": "סמ מגל",
+    "symbol": 149,
+    "houses": 6
+  },
+  {
+    "name": "סמדר",
+    "symbol": 126,
+    "houses": 25
+  },
+  {
+    "name": "סנונית",
+    "symbol": 195,
+    "houses": 0
+  },
+  {
+    "name": "עגורים",
+    "symbol": 188,
+    "houses": 25
+  },
+  {
+    "name": "עיטם",
+    "symbol": 177,
+    "houses": 3
+  },
+  {
+    "name": "עלומים",
+    "symbol": 125,
+    "houses": 10
+  },
+  {
+    "name": "עפרוני",
+    "symbol": 189,
+    "houses": 0
+  },
+  {
+    "name": "צופית",
+    "symbol": 192,
+    "houses": 12
+  },
+  {
+    "name": "צוקית",
+    "symbol": 176,
+    "houses": 1
+  },
+  {
+    "name": "רימונית",
+    "symbol": 138,
+    "houses": 17
+  },
+  {
+    "name": "שחף",
+    "symbol": 185,
+    "houses": 0
+  },
+  {
+    "name": "שלדג",
+    "symbol": 180,
+    "houses": 16
+  }
+]

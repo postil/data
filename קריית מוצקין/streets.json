@@ -1,0 +1,707 @@
+[
+  {
+    "name": "אהרון",
+    "symbol": 114,
+    "houses": 36
+  },
+  {
+    "name": "אוסישקין",
+    "symbol": 116,
+    "houses": 38
+  },
+  {
+    "name": "אושה",
+    "symbol": 106,
+    "houses": 36
+  },
+  {
+    "name": "אח\"י אילת",
+    "symbol": 121,
+    "houses": 22
+  },
+  {
+    "name": "אילון הזבולוני",
+    "symbol": 122,
+    "houses": 9
+  },
+  {
+    "name": "אירוס",
+    "symbol": 109,
+    "houses": 2
+  },
+  {
+    "name": "אלון יגאל",
+    "symbol": 192,
+    "houses": 22
+  },
+  {
+    "name": "אלמוגי יוסף",
+    "symbol": 211,
+    "houses": 8
+  },
+  {
+    "name": "אלעזר דוד",
+    "symbol": 206,
+    "houses": 9
+  },
+  {
+    "name": "אנילביץ מרדכי",
+    "symbol": 213,
+    "houses": 5
+  },
+  {
+    "name": "אשכול לוי",
+    "symbol": 189,
+    "houses": 19
+  },
+  {
+    "name": "את כורדני ב'",
+    "symbol": 6507,
+    "houses": 0
+  },
+  {
+    "name": "בגין מנחם",
+    "symbol": 215,
+    "houses": 36
+  },
+  {
+    "name": "בן צבי",
+    "symbol": 218,
+    "houses": 13
+  },
+  {
+    "name": "בנאי יוסי",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "בר אילן",
+    "symbol": 129,
+    "houses": 29
+  },
+  {
+    "name": "ברק",
+    "symbol": 117,
+    "houses": 67
+  },
+  {
+    "name": "בתי השבים",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "גורדון",
+    "symbol": 175,
+    "houses": 17
+  },
+  {
+    "name": "גן העצמאות",
+    "symbol": 138,
+    "houses": 17
+  },
+  {
+    "name": "גרושקביץ",
+    "symbol": 119,
+    "houses": 44
+  },
+  {
+    "name": "דבורה",
+    "symbol": 112,
+    "houses": 29
+  },
+  {
+    "name": "דוד המלך",
+    "symbol": 127,
+    "houses": 25
+  },
+  {
+    "name": "דולצ'ין אריה",
+    "symbol": 180,
+    "houses": 0
+  },
+  {
+    "name": "דליה",
+    "symbol": 149,
+    "houses": 6
+  },
+  {
+    "name": "דקר",
+    "symbol": 124,
+    "houses": 70
+  },
+  {
+    "name": "דרך עכו",
+    "symbol": 113,
+    "houses": 133
+  },
+  {
+    "name": "האוזנר גדעון",
+    "symbol": 219,
+    "houses": 0
+  },
+  {
+    "name": "האלה",
+    "symbol": 207,
+    "houses": 35
+  },
+  {
+    "name": "הבנים",
+    "symbol": 179,
+    "houses": 1
+  },
+  {
+    "name": "הברוש",
+    "symbol": 221,
+    "houses": 0
+  },
+  {
+    "name": "הגדוד העברי",
+    "symbol": 131,
+    "houses": 14
+  },
+  {
+    "name": "הגולן",
+    "symbol": 128,
+    "houses": 6
+  },
+  {
+    "name": "הדס",
+    "symbol": 110,
+    "houses": 6
+  },
+  {
+    "name": "ההגנה",
+    "symbol": 157,
+    "houses": 51
+  },
+  {
+    "name": "הזית",
+    "symbol": 153,
+    "houses": 28
+  },
+  {
+    "name": "החשמונאים",
+    "symbol": 143,
+    "houses": 86
+  },
+  {
+    "name": "הילדים",
+    "symbol": 135,
+    "houses": 29
+  },
+  {
+    "name": "הירדן",
+    "symbol": 139,
+    "houses": 17
+  },
+  {
+    "name": "המגינים",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "המעפילים",
+    "symbol": 168,
+    "houses": 0
+  },
+  {
+    "name": "המר זבולון",
+    "symbol": 217,
+    "houses": 6
+  },
+  {
+    "name": "הסביון",
+    "symbol": 151,
+    "houses": 11
+  },
+  {
+    "name": "העליה",
+    "symbol": 136,
+    "houses": 11
+  },
+  {
+    "name": "הערבה",
+    "symbol": 223,
+    "houses": 2
+  },
+  {
+    "name": "הרב הרצוג",
+    "symbol": 154,
+    "houses": 20
+  },
+  {
+    "name": "הרב לוי יוסף",
+    "symbol": 173,
+    "houses": 5
+  },
+  {
+    "name": "הרב עוזיאל",
+    "symbol": 130,
+    "houses": 26
+  },
+  {
+    "name": "הרב קוק",
+    "symbol": 102,
+    "houses": 106
+  },
+  {
+    "name": "הרקפת",
+    "symbol": 148,
+    "houses": 5
+  },
+  {
+    "name": "ורד",
+    "symbol": 152,
+    "houses": 29
+  },
+  {
+    "name": "ז'בוטינסקי",
+    "symbol": 145,
+    "houses": 48
+  },
+  {
+    "name": "חזני מיכאל",
+    "symbol": 204,
+    "houses": 2
+  },
+  {
+    "name": "חיבת ציון",
+    "symbol": 188,
+    "houses": 11
+  },
+  {
+    "name": "חיטמן עוזי",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "טרומפלדור",
+    "symbol": 140,
+    "houses": 15
+  },
+  {
+    "name": "יבנה",
+    "symbol": 120,
+    "houses": 12
+  },
+  {
+    "name": "יהודה הלוי",
+    "symbol": 126,
+    "houses": 22
+  },
+  {
+    "name": "יודפת",
+    "symbol": 186,
+    "houses": 11
+  },
+  {
+    "name": "יוסף שילוח",
+    "symbol": 184,
+    "houses": 0
+  },
+  {
+    "name": "יוספטל",
+    "symbol": 169,
+    "houses": 34
+  },
+  {
+    "name": "יעל",
+    "symbol": 115,
+    "houses": 31
+  },
+  {
+    "name": "ירושלים",
+    "symbol": 224,
+    "houses": 0
+  },
+  {
+    "name": "ירקוני יפה",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "יששכר",
+    "symbol": 123,
+    "houses": 13
+  },
+  {
+    "name": "כלנית",
+    "symbol": 150,
+    "houses": 5
+  },
+  {
+    "name": "כצנלסון",
+    "symbol": 108,
+    "houses": 25
+  },
+  {
+    "name": "לאה גולדברג",
+    "symbol": 172,
+    "houses": 0
+  },
+  {
+    "name": "לביא אריק",
+    "symbol": 166,
+    "houses": 0
+  },
+  {
+    "name": "מודיעין",
+    "symbol": 185,
+    "houses": 10
+  },
+  {
+    "name": "מוטה גור",
+    "symbol": 214,
+    "houses": 5
+  },
+  {
+    "name": "מורדי הגטאות",
+    "symbol": 137,
+    "houses": 1
+  },
+  {
+    "name": "מכבי",
+    "symbol": 107,
+    "houses": 8
+  },
+  {
+    "name": "מנור אהוד",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "מנחם",
+    "symbol": 220,
+    "houses": 2
+  },
+  {
+    "name": "מנשה קדישמן",
+    "symbol": 177,
+    "houses": 0
+  },
+  {
+    "name": "מסדה",
+    "symbol": 163,
+    "houses": 29
+  },
+  {
+    "name": "משוררים",
+    "symbol": 165,
+    "houses": 0
+  },
+  {
+    "name": "נווה גנים",
+    "symbol": 6520,
+    "houses": 0
+  },
+  {
+    "name": "נחום גוטמן",
+    "symbol": 170,
+    "houses": 0
+  },
+  {
+    "name": "ניל\"י",
+    "symbol": 132,
+    "houses": 12
+  },
+  {
+    "name": "נרקיס",
+    "symbol": 158,
+    "houses": 2
+  },
+  {
+    "name": "נתיב רמז",
+    "symbol": 183,
+    "houses": 6
+  },
+  {
+    "name": "נתניהו יונתן",
+    "symbol": 201,
+    "houses": 21
+  },
+  {
+    "name": "סמ אורן",
+    "symbol": 174,
+    "houses": 24
+  },
+  {
+    "name": "סמ ארז",
+    "symbol": 194,
+    "houses": 0
+  },
+  {
+    "name": "סמ אתרוג",
+    "symbol": 171,
+    "houses": 6
+  },
+  {
+    "name": "סמ בית\"ר",
+    "symbol": 195,
+    "houses": 2
+  },
+  {
+    "name": "סמ גלעד",
+    "symbol": 196,
+    "houses": 1
+  },
+  {
+    "name": "סמ דקל",
+    "symbol": 193,
+    "houses": 0
+  },
+  {
+    "name": "סמ הפלמ\"ח",
+    "symbol": 155,
+    "houses": 7
+  },
+  {
+    "name": "סמ הקרב",
+    "symbol": 111,
+    "houses": 8
+  },
+  {
+    "name": "סמ תמר",
+    "symbol": 178,
+    "houses": 9
+  },
+  {
+    "name": "סמטת הסופרים",
+    "symbol": 277,
+    "houses": 0
+  },
+  {
+    "name": "סנש חנה",
+    "symbol": 134,
+    "houses": 25
+  },
+  {
+    "name": "סעדיה גאון",
+    "symbol": 142,
+    "houses": 18
+  },
+  {
+    "name": "ספיר פנחס",
+    "symbol": 190,
+    "houses": 20
+  },
+  {
+    "name": "עופרה חזה",
+    "symbol": 167,
+    "houses": 0
+  },
+  {
+    "name": "עין גדי",
+    "symbol": 191,
+    "houses": 4
+  },
+  {
+    "name": "עלוני נח",
+    "symbol": 176,
+    "houses": 2
+  },
+  {
+    "name": "פוגלמן מרדכי",
+    "symbol": 208,
+    "houses": 15
+  },
+  {
+    "name": "פז",
+    "symbol": 210,
+    "houses": 1
+  },
+  {
+    "name": "צאלון",
+    "symbol": 209,
+    "houses": 41
+  },
+  {
+    "name": "צה\"ל",
+    "symbol": 216,
+    "houses": 4
+  },
+  {
+    "name": "ציגל אברהם",
+    "symbol": 203,
+    "houses": 20
+  },
+  {
+    "name": "ציפורן",
+    "symbol": 159,
+    "houses": 1
+  },
+  {
+    "name": "קדיש לוז",
+    "symbol": 199,
+    "houses": 75
+  },
+  {
+    "name": "קורצ'אק",
+    "symbol": 225,
+    "houses": 4
+  },
+  {
+    "name": "קליבנוב",
+    "symbol": 202,
+    "houses": 19
+  },
+  {
+    "name": "רוקח",
+    "symbol": 160,
+    "houses": 31
+  },
+  {
+    "name": "רמב\"ם",
+    "symbol": 125,
+    "houses": 9
+  },
+  {
+    "name": "רנ\"ס",
+    "symbol": 118,
+    "houses": 40
+  },
+  {
+    "name": "רש\"י",
+    "symbol": 141,
+    "houses": 17
+  },
+  {
+    "name": "ש אגש",
+    "symbol": 6508,
+    "houses": 0
+  },
+  {
+    "name": "ש דירות עם א",
+    "symbol": 6513,
+    "houses": 0
+  },
+  {
+    "name": "ש דירות עם ב",
+    "symbol": 6514,
+    "houses": 0
+  },
+  {
+    "name": "ש מומחים",
+    "symbol": 6516,
+    "houses": 0
+  },
+  {
+    "name": "ש פנטגון",
+    "symbol": 6517,
+    "houses": 0
+  },
+  {
+    "name": "ש צכי",
+    "symbol": 6518,
+    "houses": 0
+  },
+  {
+    "name": "ש רומבואיד",
+    "symbol": 6519,
+    "houses": 0
+  },
+  {
+    "name": "ש רסקו",
+    "symbol": 6510,
+    "houses": 0
+  },
+  {
+    "name": "ש\"י עגנון",
+    "symbol": 187,
+    "houses": 0
+  },
+  {
+    "name": "שביל הגפן",
+    "symbol": 198,
+    "houses": 7
+  },
+  {
+    "name": "שביל הרימון",
+    "symbol": 197,
+    "houses": 0
+  },
+  {
+    "name": "שד בן גוריון",
+    "symbol": 200,
+    "houses": 0
+  },
+  {
+    "name": "שד גושן משה",
+    "symbol": 104,
+    "houses": 93
+  },
+  {
+    "name": "שד ויצמן",
+    "symbol": 133,
+    "houses": 75
+  },
+  {
+    "name": "שד קרן קימת",
+    "symbol": 103,
+    "houses": 43
+  },
+  {
+    "name": "שדה יצחק",
+    "symbol": 105,
+    "houses": 6
+  },
+  {
+    "name": "שושנה דמארי",
+    "symbol": 182,
+    "houses": 0
+  },
+  {
+    "name": "שז\"ר זלמן",
+    "symbol": 226,
+    "houses": 4
+  },
+  {
+    "name": "שכ אביבים",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "שכ אזבסטונים",
+    "symbol": 6511,
+    "houses": 0
+  },
+  {
+    "name": "שכ מוצקין הצעירה",
+    "symbol": 6515,
+    "houses": 0
+  },
+  {
+    "name": "שכ צפון מוצקין",
+    "symbol": 6512,
+    "houses": 0
+  },
+  {
+    "name": "שלום שבזי",
+    "symbol": 278,
+    "houses": 0
+  },
+  {
+    "name": "שמר נעמי",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "שפרינצק",
+    "symbol": 147,
+    "houses": 33
+  },
+  {
+    "name": "שרת משה",
+    "symbol": 205,
+    "houses": 9
+  },
+  {
+    "name": "תדהר",
+    "symbol": 222,
+    "houses": 4
+  },
+  {
+    "name": "תמרי נחמיה",
+    "symbol": 212,
+    "houses": 18
+  }
+]

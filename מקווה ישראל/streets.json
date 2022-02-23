@@ -1,0 +1,57 @@
+[
+  {
+    "name": "דרך הבנים",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך הכרמים",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "כביש המאה",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "מעלה הדקלים",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "מעלה נטר",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "משעול תר\"ל",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "ש מורים",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "שד הדוידקה",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "שד הותיקים",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "שד כי\"ח",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "שד קראוזה",
+    "symbol": 110,
+    "houses": 0
+  }
+]

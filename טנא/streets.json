@@ -1,0 +1,67 @@
+[
+  {
+    "name": "אזוב",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "האופק",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "הגבעה",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "החורשה",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "הנחל",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "הפסגה",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "חצב",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "מרווה",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "סלעית",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "עומרים",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "עירית",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "קורנית",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "רכסים",
+    "symbol": 102,
+    "houses": 0
+  }
+]

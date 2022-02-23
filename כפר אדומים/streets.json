@@ -1,0 +1,262 @@
+[
+  {
+    "name": "ארץ בנימין",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "ארץ הצבי",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "ארץ חיטה",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "בורות המים",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "גבול יהודה",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "דבש התאנה",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "דרך אלון",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך החיים",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "דרך המדבר",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "דרך המשמר",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "דרך הצופים",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "דרך פרת",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "האוג",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "האופק",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "האשל",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "הבקעה",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "הירדן",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "המייסדים",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "המעיין",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "המצוק",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "הנחל",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "הסלע",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "הצבאים",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "הצור",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "הקשת",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "הרותם",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "השיזף",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "השיטה",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "חגווי הסלע",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "חמדת השקד",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "כפות תמרים",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "מבוא ירושלים",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "מי מבוע",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "מרכז קליטה",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "משכנות הרועים",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "משעול החלמיש",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "מתק חרוב",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "נוף בראשית",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "נופי פרת",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "נחל אשלים",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "נחל ערוגות",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "נחל צאלים",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "נחל קדם",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "סתר המדרגה",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "עם אחד",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "ערבות מואב",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "פלח הרימון",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "פרי הגפן",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "צמח בר",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "שירת העשבים",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "שכ אלון",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "שתילי הזית",
+    "symbol": 141,
+    "houses": 0
+  }
+]

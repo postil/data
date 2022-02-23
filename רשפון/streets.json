@@ -1,0 +1,117 @@
+[
+  {
+    "name": "דפנה",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך הגן",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "דרך ההרדופים",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "דרך המסילה",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "דרך הפקאנים",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "דרך הפרדס",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "דרך השיבולים",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "האתרוג",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "החרוב",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "הכפר",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "הפרחים",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הרותם",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "השקד",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "התפוז",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "סמ האירוס",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "סמ הכלנית",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "סמ הנורית",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "סמ הצבעוני",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "סמ הרקפת",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "שביל החלב",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "שביל התפוזים",
+    "symbol": 130,
+    "houses": 0
+  }
+]

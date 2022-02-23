@@ -1,0 +1,47 @@
+[
+  {
+    "name": "בירייה",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "גוש עציון",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "הגלבוע",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "להגשמה",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "מגשימים",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "מרחבים",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "נחשון",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "נתיבות",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "שחל",
+    "symbol": 113,
+    "houses": 0
+  }
+]

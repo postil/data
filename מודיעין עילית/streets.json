@@ -1,0 +1,352 @@
+[
+  {
+    "name": "אבודרהם",
+    "symbol": 239,
+    "houses": 0
+  },
+  {
+    "name": "אבי עזרי",
+    "symbol": 150,
+    "houses": 16
+  },
+  {
+    "name": "אבן גבירול",
+    "symbol": 237,
+    "houses": 0
+  },
+  {
+    "name": "אבני נזר",
+    "symbol": 201,
+    "houses": 48
+  },
+  {
+    "name": "אור החיים",
+    "symbol": 210,
+    "houses": 25
+  },
+  {
+    "name": "אורחות צדיקים",
+    "symbol": 219,
+    "houses": 0
+  },
+  {
+    "name": "אשר לשלמה",
+    "symbol": 253,
+    "houses": 4
+  },
+  {
+    "name": "בעל הטורים",
+    "symbol": 257,
+    "houses": 0
+  },
+  {
+    "name": "בעש\"ט",
+    "symbol": 236,
+    "houses": 0
+  },
+  {
+    "name": "דרך קרית ספר",
+    "symbol": 230,
+    "houses": 0
+  },
+  {
+    "name": "הגר\"א",
+    "symbol": 235,
+    "houses": 0
+  },
+  {
+    "name": "המאירי",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "הסבא מסלבודקא",
+    "symbol": 231,
+    "houses": 0
+  },
+  {
+    "name": "הרב אלישיב",
+    "symbol": 234,
+    "houses": 0
+  },
+  {
+    "name": "השל\"ה",
+    "symbol": 232,
+    "houses": 0
+  },
+  {
+    "name": "זכרון שמואל",
+    "symbol": 252,
+    "houses": 1
+  },
+  {
+    "name": "חובת הלבבות",
+    "symbol": 228,
+    "houses": 0
+  },
+  {
+    "name": "חזון איש",
+    "symbol": 152,
+    "houses": 21
+  },
+  {
+    "name": "חזון דוד",
+    "symbol": 216,
+    "houses": 4
+  },
+  {
+    "name": "חפץ חיים",
+    "symbol": 106,
+    "houses": 24
+  },
+  {
+    "name": "חת\"ם סופר",
+    "symbol": 212,
+    "houses": 7
+  },
+  {
+    "name": "ישועת דוד",
+    "symbol": 251,
+    "houses": 9
+  },
+  {
+    "name": "מהרי\"ל",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "מנחת חינוך",
+    "symbol": 203,
+    "houses": 2
+  },
+  {
+    "name": "מנחת יהודה",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "מנחת שלמה",
+    "symbol": 215,
+    "houses": 0
+  },
+  {
+    "name": "מסילת יוסף",
+    "symbol": 205,
+    "houses": 40
+  },
+  {
+    "name": "מסילת ישרים",
+    "symbol": 204,
+    "houses": 1
+  },
+  {
+    "name": "מעלות שמחה",
+    "symbol": 100,
+    "houses": 0
+  },
+  {
+    "name": "מרומי שדה",
+    "symbol": 105,
+    "houses": 36
+  },
+  {
+    "name": "משך חכמה",
+    "symbol": 207,
+    "houses": 68
+  },
+  {
+    "name": "משעול רבי אמי",
+    "symbol": 222,
+    "houses": 0
+  },
+  {
+    "name": "משעול רבי טרפון",
+    "symbol": 227,
+    "houses": 0
+  },
+  {
+    "name": "נודע ביהודה",
+    "symbol": 209,
+    "houses": 34
+  },
+  {
+    "name": "נתיבות המשפט",
+    "symbol": 206,
+    "houses": 96
+  },
+  {
+    "name": "נתיבות שלום",
+    "symbol": 241,
+    "houses": 13
+  },
+  {
+    "name": "סמטת אחיעזר",
+    "symbol": 233,
+    "houses": 0
+  },
+  {
+    "name": "עיון התלמוד",
+    "symbol": 217,
+    "houses": 6
+  },
+  {
+    "name": "פרי חדש",
+    "symbol": 213,
+    "houses": 0
+  },
+  {
+    "name": "קהילות יעקב",
+    "symbol": 151,
+    "houses": 5
+  },
+  {
+    "name": "קצות החושן",
+    "symbol": 214,
+    "houses": 24
+  },
+  {
+    "name": "קרית דגל התורה",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "ראב\"ד",
+    "symbol": 254,
+    "houses": 0
+  },
+  {
+    "name": "ראשית חכמה",
+    "symbol": 242,
+    "houses": 0
+  },
+  {
+    "name": "רב ושמואל",
+    "symbol": 225,
+    "houses": 6
+  },
+  {
+    "name": "רבי יהודה הנשיא",
+    "symbol": 220,
+    "houses": 41
+  },
+  {
+    "name": "רבי נתן צבי",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "רבי עקיבא",
+    "symbol": 223,
+    "houses": 38
+  },
+  {
+    "name": "רבי שמעון בר יוחאי",
+    "symbol": 221,
+    "houses": 0
+  },
+  {
+    "name": "רבינו תם",
+    "symbol": 255,
+    "houses": 0
+  },
+  {
+    "name": "ריטב\"א",
+    "symbol": 240,
+    "houses": 19
+  },
+  {
+    "name": "רמב\"ם",
+    "symbol": 260,
+    "houses": 0
+  },
+  {
+    "name": "רמב\"ן",
+    "symbol": 258,
+    "houses": 0
+  },
+  {
+    "name": "רש\"י",
+    "symbol": 261,
+    "houses": 0
+  },
+  {
+    "name": "רשב\"א",
+    "symbol": 256,
+    "houses": 0
+  },
+  {
+    "name": "רשב\"ם",
+    "symbol": 259,
+    "houses": 0
+  },
+  {
+    "name": "שאגת אריה",
+    "symbol": 211,
+    "houses": 8
+  },
+  {
+    "name": "שד אביי ורבא",
+    "symbol": 229,
+    "houses": 0
+  },
+  {
+    "name": "שד בית שמאי",
+    "symbol": 218,
+    "houses": 0
+  },
+  {
+    "name": "שד הרב מפוניבז'",
+    "symbol": 250,
+    "houses": 12
+  },
+  {
+    "name": "שדי חמד",
+    "symbol": 202,
+    "houses": 33
+  },
+  {
+    "name": "שדרות הלל ושמאי",
+    "symbol": 224,
+    "houses": 0
+  },
+  {
+    "name": "שדרות יחזקאל",
+    "symbol": 226,
+    "houses": 16
+  },
+  {
+    "name": "שכ אחוזת ברכפלד",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "שכ נאות הפסגה",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "שכ נחלת חפציבה",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "שכ קרית מלך",
+    "symbol": 6506,
+    "houses": 0
+  },
+  {
+    "name": "שכ קרית ספר",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "שער המלך",
+    "symbol": 208,
+    "houses": 2
+  },
+  {
+    "name": "שערי תשובה",
+    "symbol": 200,
+    "houses": 10
+  }
+]

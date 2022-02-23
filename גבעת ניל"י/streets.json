@@ -1,0 +1,52 @@
+[
+  {
+    "name": "האנפה",
+    "symbol": 100,
+    "houses": 0
+  },
+  {
+    "name": "הדוכיפת",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הדרור",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הנקר",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "הסנונית",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "העפרוני",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הצופית",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "השחף",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "השלדג",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "התור",
+    "symbol": 109,
+    "houses": 0
+  }
+]

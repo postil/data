@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ברק",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "ורדית",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "ערבה",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "עשת",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "ציחור",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "רעים",
+    "symbol": 106,
+    "houses": 0
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "אסיף",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "גורן",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "חריש",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "כרם",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "מגל",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "מסיק",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "קציר",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "תירוש",
+    "symbol": 106,
+    "houses": 0
+  }
+]

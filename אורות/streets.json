@@ -1,0 +1,27 @@
+[
+  {
+    "name": "האילן",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "הדקל",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "החרוב",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הצבר",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "שכ קרוונים",
+    "symbol": 101,
+    "houses": 0
+  }
+]

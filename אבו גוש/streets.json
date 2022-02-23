@@ -1,0 +1,307 @@
+[
+  {
+    "name": "אל רשיד",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "אל-חנאא'",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "אלעבד עלי",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "בית הבד",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "ג'בר",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "דאוד עבדאללה",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "דולב",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "דרך הגוש",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "דרך השלום",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך מעלה החמשה",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "האגוז",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "האורנים",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "האיריס",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "האלה",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "הארזים",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "הארמונות",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "הבושם",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "הברוש",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "הגורן",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "הגנים",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "הגפנים",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "הדובדבנים",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "הוואדי",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הורד",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "הזיתים",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "החווה",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "החומה",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "החרוב",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "הלימון",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "המאפיה הישנה",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "המעברה",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "המפעל",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "המצפה",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "המשתלה",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "הנענע",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "הנרקיס",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "העוזרד",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "הפול",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "הפרחים",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "הרימונים",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "השדות",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "השושן",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "השזיף",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "השיכון",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "השקדים",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "התאנים",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "התות",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "חאג' עותמאן",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "חג' מוסא",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "יסמין",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "מחמוד רשיד",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "מרכז הכפר",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "נוטרדאם",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "נטאף",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "עבדאל עזיז",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "עבדאל רחמן",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "עמאוס",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "ענבר",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "ציפורן",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "שייח איסמעיל",
+    "symbol": 120,
+    "houses": 0
+  }
+]

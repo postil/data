@@ -1,0 +1,142 @@
+[
+  {
+    "name": "אורה",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "משעול אוכם",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "משעול דוחן",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "משעול דרדר",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "משעול חכליל",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "משעול כוכב",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "משעול לענה",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "משעול מכרות",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "משעול נשף",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "משעול סהרון",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "משעול סיתוונית",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "משעול עמרם",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "משעול פיקוס",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "משעול צלף",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "משעול רחם",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "משעול שגיא",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "משעול שחורת",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "משעול שנהבית",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "סמ דקל דום",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "סמ האשל",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "סמ הר כרכום",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "סמ הר צניפים",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "סמ הר שני",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "סמ השיטה",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "סמ שיזף",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "עמודי שלמה",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "רותם המדבר",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "תמנע",
+    "symbol": 120,
+    "houses": 0
+  }
+]

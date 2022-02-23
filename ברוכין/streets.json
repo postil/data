@@ -1,0 +1,72 @@
+[
+  {
+    "name": "האדרת",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "ההדר",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "ההוד",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "הזוהר",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "החיל",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "הנוי",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הנצח",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "העוז",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הצבי",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הרון",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "השבח",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "השגב",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "השיר",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "התהילה",
+    "symbol": 105,
+    "houses": 0
+  }
+]

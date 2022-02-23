@@ -1,0 +1,292 @@
+[
+  {
+    "name": "אולפנא",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "אמונים",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "אצ\"ל",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "אשר",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "בינה ודעת",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "בני יעקב",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "גבעת צבי",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "גד",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "דינה",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "דן",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "דרך ארץ ימיני",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "דרך החיים",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "דרך חנן",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "הדבש",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "הדובדבן",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "ההגנה",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "הכרם",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "המטע",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "המייסדים",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הסלע",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "הפלמ\"ח",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "הצבר",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "הראשונים",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "השומר",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "השקד",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "התאנה",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "התעשיה",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "זבולון",
+    "symbol": 163,
+    "houses": 0
+  },
+  {
+    "name": "ט' באייר",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "יהודה",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "יוסף",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "יששכר",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "לוי",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "לח\"י",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "מורג",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "מעלה בני עקיבא",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "מקימי הגדר",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "משעול הר אפרים",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "ניל\"י",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "נפתלי",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "סמ בנימין",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "פנינת חן",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "ראובן",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "ש קרוונים",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "שבטי ישראל",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "שדה עופרים",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "שכ בית\"ר",
+    "symbol": 6507,
+    "houses": 0
+  },
+  {
+    "name": "שכ הכרם",
+    "symbol": 6506,
+    "houses": 0
+  },
+  {
+    "name": "שכ הצבר",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "שכ עמונה",
+    "symbol": 7001,
+    "houses": 0
+  },
+  {
+    "name": "שכ פנינת חן",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "שכ צמרת",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "שכ שדה עופרים",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "שמעון",
+    "symbol": 153,
+    "houses": 0
+  }
+]

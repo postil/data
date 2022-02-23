@@ -1,0 +1,72 @@
+[
+  {
+    "name": "דרך החיטה",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "דרך השעורה",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "האורן",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "הארז",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "הדקל",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "הורדים",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "הלוטם",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "הצאלון",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "השיטה",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "מבוא הגפן",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "מורד התאנה",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "מעלה הרימון",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "נתיב הזית",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "שד התמר",
+    "symbol": 117,
+    "houses": 0
+  }
+]

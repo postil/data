@@ -1,0 +1,52 @@
+[
+  {
+    "name": "אלמוג",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "האקליפטוס",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "הסנונית",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הצדף",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "השלדג",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "השקמים",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "כוכב הים",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "מורד הנחל",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "שונית",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "שחף",
+    "symbol": 106,
+    "houses": 0
+  }
+]

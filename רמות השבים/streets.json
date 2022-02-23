@@ -1,0 +1,167 @@
+[
+  {
+    "name": "בית העם",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "דרך המלך",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "דרך הסולטן",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "האלונים",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "האקליפטוס",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "הבנים",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הברושים",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הבריכה",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "הגבעה",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "הדקל",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "החורשה",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "החצב",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "הירקנים",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "הכרם",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הלימון",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "המיסדים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "המעגל",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "המשאבים",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "הפקן",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "הפרדס",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "הצבר",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "השמש העולה",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "השקד",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "התות",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "התרנגול",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "מעלה הורדים",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "נווה צאלים",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "סמ אל על",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "סמ השדה",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "סמ מגן",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "סמטת הנוער",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "שרת משה",
+    "symbol": 110,
+    "houses": 0
+  }
+]

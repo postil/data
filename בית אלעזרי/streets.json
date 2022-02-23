@@ -1,0 +1,32 @@
+[
+  {
+    "name": "הגפן",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "המייסדים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "התאנה",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 106,
+    "houses": 0
+  }
+]

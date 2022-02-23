@@ -1,0 +1,282 @@
+[
+  {
+    "name": "אשכול בדולח",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "אשכול גדיד",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "אשכול גן אור",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "אשכול גני טל",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "אשכול דוגית",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "אשכול כדים",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "אשכול כפר ים",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "אשכול מורג",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "אשכול נוה דקלים",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "אשכול ניסנית",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "אשכול נצר חזני",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "אשכול פאת שדה",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "אשכול קטיף",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "אשכול רפיח ים",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "אשכול תל קטיפא",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "אשר",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "בנימין",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "גד",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "גנים",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "דן",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "דרך אלי סיני",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "דרך נצרים",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "דרך שלו",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "דרכי נועם",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "הושע",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "הנביאים",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "הרב צבי יהודה",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "השופטים",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "התעשיה",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "זבולון",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "זכריה",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "חבקוק",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "חגי",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "חומש",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "יהודה",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "יואל",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "יונה",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "יוסף",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "יפה נוף",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "יששכר",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "כפר דרום",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "לוי",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "מיכה",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "מלאכי",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "מסילת ישרים",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "נחום",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "נפתלי",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "עובדיה",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "עמוס",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "צפניה",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "ראובן",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "רחבת הגיבורים",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "שאנור",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "שדרות אילון",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "שירת הים",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "שמעון",
+    "symbol": 121,
+    "houses": 0
+  }
+]

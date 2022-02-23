@@ -1,0 +1,372 @@
+[
+  {
+    "name": "בארי",
+    "symbol": 125,
+    "houses": 34
+  },
+  {
+    "name": "בית שאן",
+    "symbol": 118,
+    "houses": 15
+  },
+  {
+    "name": "בקעת הירדן",
+    "symbol": 153,
+    "houses": 3
+  },
+  {
+    "name": "גבעון",
+    "symbol": 106,
+    "houses": 26
+  },
+  {
+    "name": "גבעת סביון",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "גבעת סביון החדשה",
+    "symbol": 6507,
+    "houses": 0
+  },
+  {
+    "name": "דגניה",
+    "symbol": 109,
+    "houses": 33
+  },
+  {
+    "name": "דרך אילות",
+    "symbol": 161,
+    "houses": 7
+  },
+  {
+    "name": "דרך האגמים",
+    "symbol": 162,
+    "houses": 4
+  },
+  {
+    "name": "דרך הבשמים",
+    "symbol": 140,
+    "houses": 6
+  },
+  {
+    "name": "דרך ההדרים",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "דרך הים",
+    "symbol": 163,
+    "houses": 19
+  },
+  {
+    "name": "דרך המלך",
+    "symbol": 160,
+    "houses": 4
+  },
+  {
+    "name": "דרך המשי",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "דרך העמק",
+    "symbol": 166,
+    "houses": 0
+  },
+  {
+    "name": "דרך התמרים",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "דרך התקווה",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "האורנים",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "הברוש",
+    "symbol": 213,
+    "houses": 0
+  },
+  {
+    "name": "הגולן",
+    "symbol": 142,
+    "houses": 64
+  },
+  {
+    "name": "הגליל",
+    "symbol": 170,
+    "houses": 92
+  },
+  {
+    "name": "הגלעד",
+    "symbol": 212,
+    "houses": 14
+  },
+  {
+    "name": "הגפן",
+    "symbol": 179,
+    "houses": 16
+  },
+  {
+    "name": "הדקל",
+    "symbol": 128,
+    "houses": 56
+  },
+  {
+    "name": "החרמון",
+    "symbol": 145,
+    "houses": 13
+  },
+  {
+    "name": "הכרמל",
+    "symbol": 126,
+    "houses": 37
+  },
+  {
+    "name": "המצפה",
+    "symbol": 138,
+    "houses": 17
+  },
+  {
+    "name": "הנגב",
+    "symbol": 103,
+    "houses": 44
+  },
+  {
+    "name": "הנחל",
+    "symbol": 115,
+    "houses": 17
+  },
+  {
+    "name": "הנשיא טרומן",
+    "symbol": 165,
+    "houses": 0
+  },
+  {
+    "name": "העמקים",
+    "symbol": 116,
+    "houses": 78
+  },
+  {
+    "name": "הערבה",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הפסגה",
+    "symbol": 121,
+    "houses": 42
+  },
+  {
+    "name": "הר נבו",
+    "symbol": 154,
+    "houses": 17
+  },
+  {
+    "name": "הר סיני",
+    "symbol": 113,
+    "houses": 23
+  },
+  {
+    "name": "הרי יהודה",
+    "symbol": 120,
+    "houses": 77
+  },
+  {
+    "name": "הרי ירושלים",
+    "symbol": 152,
+    "houses": 11
+  },
+  {
+    "name": "הרימון",
+    "symbol": 129,
+    "houses": 52
+  },
+  {
+    "name": "הרמה",
+    "symbol": 135,
+    "houses": 59
+  },
+  {
+    "name": "התאנה",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "זאב",
+    "symbol": 175,
+    "houses": 19
+  },
+  {
+    "name": "יודפת",
+    "symbol": 172,
+    "houses": 0
+  },
+  {
+    "name": "ים המלח",
+    "symbol": 101,
+    "houses": 63
+  },
+  {
+    "name": "כנרת",
+    "symbol": 102,
+    "houses": 20
+  },
+  {
+    "name": "מרחביה",
+    "symbol": 110,
+    "houses": 36
+  },
+  {
+    "name": "נוף סביון",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "סמ דביר",
+    "symbol": 112,
+    "houses": 26
+  },
+  {
+    "name": "סמ הלבונה",
+    "symbol": 171,
+    "houses": 10
+  },
+  {
+    "name": "סמ השרון",
+    "symbol": 123,
+    "houses": 5
+  },
+  {
+    "name": "סמ כינרת",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "סמ עין גנים",
+    "symbol": 210,
+    "houses": 20
+  },
+  {
+    "name": "סמ עמק יזרעאל",
+    "symbol": 173,
+    "houses": 24
+  },
+  {
+    "name": "סמ קדש",
+    "symbol": 124,
+    "houses": 21
+  },
+  {
+    "name": "סמ תבור",
+    "symbol": 146,
+    "houses": 13
+  },
+  {
+    "name": "סמ תל חי",
+    "symbol": 107,
+    "houses": 8
+  },
+  {
+    "name": "סמטת יובלים",
+    "symbol": 167,
+    "houses": 0
+  },
+  {
+    "name": "עין גדי",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "עין חנוך",
+    "symbol": 141,
+    "houses": 19
+  },
+  {
+    "name": "עין שמש",
+    "symbol": 211,
+    "houses": 16
+  },
+  {
+    "name": "עמק זבולון",
+    "symbol": 114,
+    "houses": 21
+  },
+  {
+    "name": "צאלון",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "קדושי השואה",
+    "symbol": 111,
+    "houses": 17
+  },
+  {
+    "name": "קדושת יום טוב",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "קישון",
+    "symbol": 117,
+    "houses": 19
+  },
+  {
+    "name": "קרית ישמח משה",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "רבאון שלמה",
+    "symbol": 133,
+    "houses": 14
+  },
+  {
+    "name": "רחבת אלון",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "רחבת גונן",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "רחבת דולב",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "ש חדש",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "שדרת התקוות",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "שכ בורוכוב",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "שכ גנים",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "שכ יפה נוף",
+    "symbol": 6506,
+    "houses": 0
+  }
+]

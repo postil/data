@@ -1,0 +1,47 @@
+[
+  {
+    "name": "האלון",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הורדים",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הטווס",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "היונה",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "המלאכה",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "העם",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "השלום",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "התקווה",
+    "symbol": 105,
+    "houses": 0
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "name": "אגס",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "ארז",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "אשל",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "דולב",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "דרך אביב",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "דרך הבאר",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "דרך הגנים",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "דרך השדות",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "דרך רגבים",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "האורנים",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "האילנות",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "הדס",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "הדקלים",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "הורדים",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "הזורע",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "החבצלת",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "החורש",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "המעפילים",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הנוטע",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "הנוריות",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "הנרקיסים",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "הסביון",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "הצבעונים",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "הקוצר",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "הרקפות",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "התלמים",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "כיכר הראשונים",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "לבנה",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "נוה אביב",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "נורדאו",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "סמ אביב",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "סמ האורנים",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "סמ האלון",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "סמ הברושים",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "סמ הזורע",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "סמ החרצית",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "קרן היסוד",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "שביל הבנים",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "שביל הדגנים",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "שביל החיטה",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "שביל החצבים",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "שביל החרוב",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "שביל היוגב",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "שביל היסמין",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "שביל הכורם",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "שביל הכלניות",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "שביל המעלות",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "שביל המערות",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "שביל הפקאן",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "שביל הרימונים",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "שביל השעורה",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "שביל השקד",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "שביל התאנים",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "שביל התפוזים",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "שיטה",
+    "symbol": 163,
+    "houses": 0
+  }
+]

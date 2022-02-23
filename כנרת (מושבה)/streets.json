@@ -1,0 +1,162 @@
+[
+  {
+    "name": "גבעת הזיתים",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "דרך הבזלת",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך הזיתים",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "דרך הכלניות",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "דרך המעיין",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "האגם",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "האומנים",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הגורן",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "הכרם",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "המייסדים",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "המסיק",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "המצפה",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "הפלג",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "הראשונים",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הרדוף",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "חוף הירדן",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "חרצית",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "יצהר",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "לשם",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "מעלה הבריכה",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "מעלה ההר",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "נוף הים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "נורית",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "סביון",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "סמטת הארמון",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "סמטת המדרגות",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "סמטת המוזיאון",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "סמטת הנחל",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "רחל",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "שכ הכלניות",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "שכ המעיין",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "שכ' הבזלת",
+    "symbol": 6502,
+    "houses": 0
+  }
+]

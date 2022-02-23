@@ -1,0 +1,1172 @@
+[
+  {
+    "name": "אדמונית החורש",
+    "symbol": 246,
+    "houses": 0
+  },
+  {
+    "name": "אזור תעשיה רכבת",
+    "symbol": 6518,
+    "houses": 0
+  },
+  {
+    "name": "בנימינה",
+    "symbol": 6514,
+    "houses": 0
+  },
+  {
+    "name": "בריכת המים",
+    "symbol": 185,
+    "houses": 12
+  },
+  {
+    "name": "גבעת עדה",
+    "symbol": 6520,
+    "houses": 0
+  },
+  {
+    "name": "גבעת עדה הרחבה",
+    "symbol": 6526,
+    "houses": 0
+  },
+  {
+    "name": "גני בנימינה",
+    "symbol": 6513,
+    "houses": 0
+  },
+  {
+    "name": "דרך בנימינה ג\"ע",
+    "symbol": 3165,
+    "houses": 0
+  },
+  {
+    "name": "דרך הברושים ג\"ע",
+    "symbol": 3128,
+    "houses": 0
+  },
+  {
+    "name": "דרך המסילה",
+    "symbol": 151,
+    "houses": 15
+  },
+  {
+    "name": "דרך העצמאות",
+    "symbol": 123,
+    "houses": 95
+  },
+  {
+    "name": "דרך ניל\"י",
+    "symbol": 155,
+    "houses": 21
+  },
+  {
+    "name": "דרך פיק\"א",
+    "symbol": 183,
+    "houses": 7
+  },
+  {
+    "name": "דרך רגבים גבעת עדה",
+    "symbol": 3103,
+    "houses": 0
+  },
+  {
+    "name": "דרך תל צור",
+    "symbol": 255,
+    "houses": 0
+  },
+  {
+    "name": "האגוז",
+    "symbol": 3118,
+    "houses": 30
+  },
+  {
+    "name": "האגס גבעת עדה",
+    "symbol": 3117,
+    "houses": 0
+  },
+  {
+    "name": "האגסים",
+    "symbol": 163,
+    "houses": 12
+  },
+  {
+    "name": "האופק",
+    "symbol": 178,
+    "houses": 0
+  },
+  {
+    "name": "האור",
+    "symbol": 198,
+    "houses": 0
+  },
+  {
+    "name": "האורן",
+    "symbol": 171,
+    "houses": 3
+  },
+  {
+    "name": "האורנים גבעת עדה",
+    "symbol": 3132,
+    "houses": 0
+  },
+  {
+    "name": "האיכר",
+    "symbol": 147,
+    "houses": 19
+  },
+  {
+    "name": "האירוס",
+    "symbol": 175,
+    "houses": 18
+  },
+  {
+    "name": "האירית",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "האלה גבעת עדה",
+    "symbol": 3110,
+    "houses": 0
+  },
+  {
+    "name": "האלון",
+    "symbol": 3114,
+    "houses": 20
+  },
+  {
+    "name": "האמן",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "האסיף",
+    "symbol": 213,
+    "houses": 8
+  },
+  {
+    "name": "האפיק",
+    "symbol": 218,
+    "houses": 10
+  },
+  {
+    "name": "הארז",
+    "symbol": 194,
+    "houses": 48
+  },
+  {
+    "name": "הארזים גבעת עדה",
+    "symbol": 3120,
+    "houses": 0
+  },
+  {
+    "name": "האשכול גבעת עדה",
+    "symbol": 3125,
+    "houses": 0
+  },
+  {
+    "name": "האשכולית",
+    "symbol": 237,
+    "houses": 0
+  },
+  {
+    "name": "האשל",
+    "symbol": 187,
+    "houses": 4
+  },
+  {
+    "name": "האתרוג",
+    "symbol": 233,
+    "houses": 0
+  },
+  {
+    "name": "הבוסתן",
+    "symbol": 222,
+    "houses": 6
+  },
+  {
+    "name": "הבושם",
+    "symbol": 184,
+    "houses": 8
+  },
+  {
+    "name": "הבזלת",
+    "symbol": 113,
+    "houses": 1
+  },
+  {
+    "name": "הבציר",
+    "symbol": 210,
+    "houses": 8
+  },
+  {
+    "name": "הברוש",
+    "symbol": 160,
+    "houses": 97
+  },
+  {
+    "name": "הגבורים",
+    "symbol": 133,
+    "houses": 17
+  },
+  {
+    "name": "הגביע",
+    "symbol": 204,
+    "houses": 9
+  },
+  {
+    "name": "הגבעה גבעת עדה",
+    "symbol": 3133,
+    "houses": 0
+  },
+  {
+    "name": "הגדיש",
+    "symbol": 211,
+    "houses": 0
+  },
+  {
+    "name": "הגדנ\"ע",
+    "symbol": 141,
+    "houses": 12
+  },
+  {
+    "name": "הגומא גבעת עדה",
+    "symbol": 3129,
+    "houses": 0
+  },
+  {
+    "name": "הגורן",
+    "symbol": 121,
+    "houses": 17
+  },
+  {
+    "name": "הגזית",
+    "symbol": 166,
+    "houses": 7
+  },
+  {
+    "name": "הגיא",
+    "symbol": 219,
+    "houses": 13
+  },
+  {
+    "name": "הגנים",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 3116,
+    "houses": 18
+  },
+  {
+    "name": "הגפנים",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "הגת",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "הדגן",
+    "symbol": 149,
+    "houses": 15
+  },
+  {
+    "name": "הדולב",
+    "symbol": 189,
+    "houses": 9
+  },
+  {
+    "name": "הדפנה גבעת עדה",
+    "symbol": 3158,
+    "houses": 0
+  },
+  {
+    "name": "הדקל",
+    "symbol": 3115,
+    "houses": 31
+  },
+  {
+    "name": "הדקלים",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "הדר גבעת עדה",
+    "symbol": 3131,
+    "houses": 0
+  },
+  {
+    "name": "הדרור",
+    "symbol": 202,
+    "houses": 14
+  },
+  {
+    "name": "ההגנה",
+    "symbol": 142,
+    "houses": 21
+  },
+  {
+    "name": "ההדס",
+    "symbol": 190,
+    "houses": 25
+  },
+  {
+    "name": "ההרדופים",
+    "symbol": 224,
+    "houses": 0
+  },
+  {
+    "name": "הושע",
+    "symbol": 252,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 3112,
+    "houses": 18
+  },
+  {
+    "name": "החבצלת",
+    "symbol": 135,
+    "houses": 26
+  },
+  {
+    "name": "החוטמית",
+    "symbol": 3109,
+    "houses": 0
+  },
+  {
+    "name": "החורש",
+    "symbol": 105,
+    "houses": 49
+  },
+  {
+    "name": "החורשים",
+    "symbol": 3102,
+    "houses": 0
+  },
+  {
+    "name": "החיטה",
+    "symbol": 180,
+    "houses": 29
+  },
+  {
+    "name": "החיטים",
+    "symbol": 3123,
+    "houses": 0
+  },
+  {
+    "name": "החלמוניות",
+    "symbol": 3126,
+    "houses": 0
+  },
+  {
+    "name": "החרוב",
+    "symbol": 172,
+    "houses": 21
+  },
+  {
+    "name": "החרובים",
+    "symbol": 3127,
+    "houses": 0
+  },
+  {
+    "name": "החרצית",
+    "symbol": 104,
+    "houses": 43
+  },
+  {
+    "name": "החרש",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "הטחנה",
+    "symbol": 103,
+    "houses": 4
+  },
+  {
+    "name": "היובל",
+    "symbol": 220,
+    "houses": 14
+  },
+  {
+    "name": "היוגב",
+    "symbol": 186,
+    "houses": 0
+  },
+  {
+    "name": "היין",
+    "symbol": 206,
+    "houses": 33
+  },
+  {
+    "name": "היסמין",
+    "symbol": 144,
+    "houses": 29
+  },
+  {
+    "name": "היער גבעת עדה",
+    "symbol": 3106,
+    "houses": 0
+  },
+  {
+    "name": "היקב",
+    "symbol": 154,
+    "houses": 5
+  },
+  {
+    "name": "היקינתון גבעת עדה",
+    "symbol": 3160,
+    "houses": 0
+  },
+  {
+    "name": "הככר",
+    "symbol": 140,
+    "houses": 8
+  },
+  {
+    "name": "הכלנית",
+    "symbol": 129,
+    "houses": 17
+  },
+  {
+    "name": "הכרכום",
+    "symbol": 173,
+    "houses": 17
+  },
+  {
+    "name": "הכרם",
+    "symbol": 207,
+    "houses": 12
+  },
+  {
+    "name": "הכרמל",
+    "symbol": 122,
+    "houses": 57
+  },
+  {
+    "name": "הלבונה גבעת עדה",
+    "symbol": 3168,
+    "houses": 0
+  },
+  {
+    "name": "הלוטם",
+    "symbol": 192,
+    "houses": 10
+  },
+  {
+    "name": "הליבנה גבעת עדה",
+    "symbol": 3150,
+    "houses": 0
+  },
+  {
+    "name": "הלימון",
+    "symbol": 232,
+    "houses": 0
+  },
+  {
+    "name": "המגל",
+    "symbol": 208,
+    "houses": 0
+  },
+  {
+    "name": "המורג",
+    "symbol": 209,
+    "houses": 14
+  },
+  {
+    "name": "המורה",
+    "symbol": 150,
+    "houses": 8
+  },
+  {
+    "name": "המיסדים",
+    "symbol": 126,
+    "houses": 33
+  },
+  {
+    "name": "המלאכה",
+    "symbol": 117,
+    "houses": 4
+  },
+  {
+    "name": "המעיין",
+    "symbol": 221,
+    "houses": 13
+  },
+  {
+    "name": "המרוה",
+    "symbol": 191,
+    "houses": 8
+  },
+  {
+    "name": "המרחב",
+    "symbol": 169,
+    "houses": 0
+  },
+  {
+    "name": "הנביאים",
+    "symbol": 145,
+    "houses": 21
+  },
+  {
+    "name": "הנדיב",
+    "symbol": 130,
+    "houses": 35
+  },
+  {
+    "name": "הנופר גבעת עדה",
+    "symbol": 3164,
+    "houses": 0
+  },
+  {
+    "name": "הנורית",
+    "symbol": 136,
+    "houses": 19
+  },
+  {
+    "name": "הנחל",
+    "symbol": 215,
+    "houses": 8
+  },
+  {
+    "name": "הניצנים",
+    "symbol": 3105,
+    "houses": 0
+  },
+  {
+    "name": "הנרקיס",
+    "symbol": 131,
+    "houses": 6
+  },
+  {
+    "name": "הנשיא",
+    "symbol": 102,
+    "houses": 17
+  },
+  {
+    "name": "הנשר",
+    "symbol": 201,
+    "houses": 38
+  },
+  {
+    "name": "הסביון",
+    "symbol": 174,
+    "houses": 0
+  },
+  {
+    "name": "הסביון גבעת עדה",
+    "symbol": 3136,
+    "houses": 0
+  },
+  {
+    "name": "הסחלב",
+    "symbol": 176,
+    "houses": 20
+  },
+  {
+    "name": "הסיגלית",
+    "symbol": 158,
+    "houses": 8
+  },
+  {
+    "name": "הסמדר",
+    "symbol": 146,
+    "houses": 22
+  },
+  {
+    "name": "הספיר",
+    "symbol": 167,
+    "houses": 3
+  },
+  {
+    "name": "העבודה",
+    "symbol": 152,
+    "houses": 33
+  },
+  {
+    "name": "העומר גבעת עדה",
+    "symbol": 3104,
+    "houses": 0
+  },
+  {
+    "name": "העינב",
+    "symbol": 205,
+    "houses": 46
+  },
+  {
+    "name": "הערבה",
+    "symbol": 3161,
+    "houses": 3
+  },
+  {
+    "name": "הערבות",
+    "symbol": 216,
+    "houses": 0
+  },
+  {
+    "name": "הפומלה",
+    "symbol": 236,
+    "houses": 0
+  },
+  {
+    "name": "הפועל",
+    "symbol": 134,
+    "houses": 1
+  },
+  {
+    "name": "הפלג",
+    "symbol": 217,
+    "houses": 8
+  },
+  {
+    "name": "הפרדס",
+    "symbol": 229,
+    "houses": 0
+  },
+  {
+    "name": "הצאלון",
+    "symbol": 188,
+    "houses": 2
+  },
+  {
+    "name": "הציפורן",
+    "symbol": 124,
+    "houses": 14
+  },
+  {
+    "name": "הקורל",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "הקטיף",
+    "symbol": 226,
+    "houses": 0
+  },
+  {
+    "name": "הקמה גבעת עדה",
+    "symbol": 3121,
+    "houses": 0
+  },
+  {
+    "name": "הקציר",
+    "symbol": 212,
+    "houses": 12
+  },
+  {
+    "name": "הראשונים גבעת עדה",
+    "symbol": 3111,
+    "houses": 0
+  },
+  {
+    "name": "הרדוף",
+    "symbol": 3130,
+    "houses": 10
+  },
+  {
+    "name": "הרופא",
+    "symbol": 125,
+    "houses": 16
+  },
+  {
+    "name": "הרימון",
+    "symbol": 3113,
+    "houses": 35
+  },
+  {
+    "name": "הרימונים",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הרקפת",
+    "symbol": 127,
+    "houses": 18
+  },
+  {
+    "name": "השדה",
+    "symbol": 181,
+    "houses": 31
+  },
+  {
+    "name": "השושנה",
+    "symbol": 138,
+    "houses": 29
+  },
+  {
+    "name": "השחף",
+    "symbol": 200,
+    "houses": 12
+  },
+  {
+    "name": "השחר",
+    "symbol": 109,
+    "houses": 9
+  },
+  {
+    "name": "השיבולים",
+    "symbol": 182,
+    "houses": 0
+  },
+  {
+    "name": "השיבולת",
+    "symbol": 3153,
+    "houses": 16
+  },
+  {
+    "name": "השיזף",
+    "symbol": 193,
+    "houses": 6
+  },
+  {
+    "name": "השיטה",
+    "symbol": 164,
+    "houses": 11
+  },
+  {
+    "name": "השיש",
+    "symbol": 112,
+    "houses": 19
+  },
+  {
+    "name": "השניים",
+    "symbol": 110,
+    "houses": 27
+  },
+  {
+    "name": "השסק גבעת עדה",
+    "symbol": 3154,
+    "houses": 0
+  },
+  {
+    "name": "השעורה",
+    "symbol": 196,
+    "houses": 41
+  },
+  {
+    "name": "השעורים",
+    "symbol": 3124,
+    "houses": 0
+  },
+  {
+    "name": "השקד",
+    "symbol": 3119,
+    "houses": 5
+  },
+  {
+    "name": "השריג",
+    "symbol": 203,
+    "houses": 19
+  },
+  {
+    "name": "התאנה",
+    "symbol": 165,
+    "houses": 6
+  },
+  {
+    "name": "התבואה",
+    "symbol": 3148,
+    "houses": 0
+  },
+  {
+    "name": "התירוש",
+    "symbol": 3162,
+    "houses": 6
+  },
+  {
+    "name": "התלתן",
+    "symbol": 195,
+    "houses": 12
+  },
+  {
+    "name": "התמסח",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 108,
+    "houses": 11
+  },
+  {
+    "name": "התפוז",
+    "symbol": 228,
+    "houses": 0
+  },
+  {
+    "name": "ח\"י גבעת עדה",
+    "symbol": 3107,
+    "houses": 0
+  },
+  {
+    "name": "חבקוק",
+    "symbol": 251,
+    "houses": 0
+  },
+  {
+    "name": "חגי",
+    "symbol": 225,
+    "houses": 0
+  },
+  {
+    "name": "טיילת שוני",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "יואל",
+    "symbol": 253,
+    "houses": 0
+  },
+  {
+    "name": "יונה",
+    "symbol": 249,
+    "houses": 0
+  },
+  {
+    "name": "ימי בנימינה",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "יפה נוף גבעת עדה",
+    "symbol": 6525,
+    "houses": 0
+  },
+  {
+    "name": "כליל החורש",
+    "symbol": 3169,
+    "houses": 0
+  },
+  {
+    "name": "כרמי בנימינה",
+    "symbol": 6517,
+    "houses": 0
+  },
+  {
+    "name": "מיכה",
+    "symbol": 250,
+    "houses": 0
+  },
+  {
+    "name": "מכון אור שמח ג\"ע",
+    "symbol": 3108,
+    "houses": 0
+  },
+  {
+    "name": "מע בנימינה",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "מעלה הצבר גבעת עדה",
+    "symbol": 3156,
+    "houses": 0
+  },
+  {
+    "name": "מצודת שוני",
+    "symbol": 7001,
+    "houses": 0
+  },
+  {
+    "name": "מרכז קליטה גבעת עדה",
+    "symbol": 3101,
+    "houses": 0
+  },
+  {
+    "name": "משעול האלומה ג\"ע",
+    "symbol": 3147,
+    "houses": 0
+  },
+  {
+    "name": "משעול החמנית ג\"ע",
+    "symbol": 3149,
+    "houses": 0
+  },
+  {
+    "name": "נחלת בנימינה",
+    "symbol": 6516,
+    "houses": 0
+  },
+  {
+    "name": "נחלת ז'בוטינסקי",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "סיני",
+    "symbol": 156,
+    "houses": 9
+  },
+  {
+    "name": "סמ האיריס גבעת עדה",
+    "symbol": 3141,
+    "houses": 0
+  },
+  {
+    "name": "סמ הדגנים",
+    "symbol": 3122,
+    "houses": 0
+  },
+  {
+    "name": "סמ הדגנית גבעת עדה",
+    "symbol": 3142,
+    "houses": 0
+  },
+  {
+    "name": "סמ החבצלות",
+    "symbol": 3134,
+    "houses": 0
+  },
+  {
+    "name": "סמ החרצית גבעת עדה",
+    "symbol": 3140,
+    "houses": 0
+  },
+  {
+    "name": "סמ הכלניות",
+    "symbol": 3144,
+    "houses": 0
+  },
+  {
+    "name": "סמ הכרמים",
+    "symbol": 3163,
+    "houses": 0
+  },
+  {
+    "name": "סמ הנוריות",
+    "symbol": 3143,
+    "houses": 0
+  },
+  {
+    "name": "סמ הנרקיסים",
+    "symbol": 3145,
+    "houses": 0
+  },
+  {
+    "name": "סמ הסיתוונית ג\"ע",
+    "symbol": 3159,
+    "houses": 0
+  },
+  {
+    "name": "סמ העירית גבעת עדה",
+    "symbol": 3151,
+    "houses": 0
+  },
+  {
+    "name": "סמ הפעמונית ג\"ע",
+    "symbol": 3152,
+    "houses": 0
+  },
+  {
+    "name": "סמ הצבעוני גבעת עדה",
+    "symbol": 3137,
+    "houses": 0
+  },
+  {
+    "name": "סמ הרקפות",
+    "symbol": 3135,
+    "houses": 0
+  },
+  {
+    "name": "סמ חצב גבעת עדה",
+    "symbol": 3139,
+    "houses": 0
+  },
+  {
+    "name": "סמטת החרוב",
+    "symbol": 177,
+    "houses": 13
+  },
+  {
+    "name": "עמוס",
+    "symbol": 254,
+    "houses": 0
+  },
+  {
+    "name": "עץ האגוז",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "עץ האלון",
+    "symbol": 170,
+    "houses": 0
+  },
+  {
+    "name": "עץ הזית",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "עץ השקד",
+    "symbol": 214,
+    "houses": 0
+  },
+  {
+    "name": "עץ התאנה",
+    "symbol": 3155,
+    "houses": 0
+  },
+  {
+    "name": "פריחת ההדרים",
+    "symbol": 231,
+    "houses": 0
+  },
+  {
+    "name": "פריחת הסמדר",
+    "symbol": 3146,
+    "houses": 0
+  },
+  {
+    "name": "קרן היסוד",
+    "symbol": 148,
+    "houses": 4
+  },
+  {
+    "name": "רויטל גבעת עדה",
+    "symbol": 3167,
+    "houses": 0
+  },
+  {
+    "name": "רותם",
+    "symbol": 157,
+    "houses": 20
+  },
+  {
+    "name": "ש אילנות גבעת עדה",
+    "symbol": 6524,
+    "houses": 0
+  },
+  {
+    "name": "ש גבעת חן",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "ש חדש",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "ש חדש גבעת עדה",
+    "symbol": 6521,
+    "houses": 0
+  },
+  {
+    "name": "ש יוספטל גבעת עדה",
+    "symbol": 6522,
+    "houses": 0
+  },
+  {
+    "name": "ש נוה עובד",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "ש עובדים",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "ש עמידר",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "ש עמידר ג\"ע",
+    "symbol": 6523,
+    "houses": 0
+  },
+  {
+    "name": "ש עממי",
+    "symbol": 6506,
+    "houses": 0
+  },
+  {
+    "name": "שביל אל הגן",
+    "symbol": 247,
+    "houses": 0
+  },
+  {
+    "name": "שביל החלב",
+    "symbol": 111,
+    "houses": 13
+  },
+  {
+    "name": "שביל החלמונית",
+    "symbol": 245,
+    "houses": 0
+  },
+  {
+    "name": "שביל הכרמלית",
+    "symbol": 179,
+    "houses": 0
+  },
+  {
+    "name": "שביל הנוער",
+    "symbol": 248,
+    "houses": 0
+  },
+  {
+    "name": "שביל הסתונית",
+    "symbol": 199,
+    "houses": 0
+  },
+  {
+    "name": "שביל התורמוס",
+    "symbol": 197,
+    "houses": 0
+  },
+  {
+    "name": "שכ גב הפועל",
+    "symbol": 6507,
+    "houses": 0
+  },
+  {
+    "name": "שכ הצמחונים ג\"ע",
+    "symbol": 6527,
+    "houses": 0
+  },
+  {
+    "name": "שכ הרכבת",
+    "symbol": 6508,
+    "houses": 0
+  },
+  {
+    "name": "שכ ורבורג",
+    "symbol": 6509,
+    "houses": 0
+  },
+  {
+    "name": "שכ ז'בוטינסקי",
+    "symbol": 6510,
+    "houses": 0
+  },
+  {
+    "name": "שכ זרעוניה",
+    "symbol": 6515,
+    "houses": 0
+  },
+  {
+    "name": "שכ יעקב",
+    "symbol": 6511,
+    "houses": 0
+  },
+  {
+    "name": "שכ ישורון",
+    "symbol": 6512,
+    "houses": 0
+  },
+  {
+    "name": "ששת הימים",
+    "symbol": 153,
+    "houses": 74
+  }
+]

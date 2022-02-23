@@ -1,0 +1,62 @@
+[
+  {
+    "name": "בי\"ס שדה חרמון",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך הבניאס",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "דרך הגולן",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "דרך הדולב",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "דרך הדן",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "דרך החצבני",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "דרך החרמון",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "דרך הירדן",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "דרך המעיין",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "דרך המפל",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "דרך הסער",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "דרך השיאון",
+    "symbol": 106,
+    "houses": 0
+  }
+]

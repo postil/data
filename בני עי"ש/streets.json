@@ -1,0 +1,247 @@
+[
+  {
+    "name": "בגין מנחם",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "גבורי ישראל",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "גני הכפר",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "גני טל",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "דרך הנצחון",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "האורן",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "האיריסים",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "האלה",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "האלון",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "הדס",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "הדקל",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "הורד",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "החיטה",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "החצב",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "הכהנים",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "הכלניות",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "העליה",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הצלף",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "הרב אהרון דנין",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "הרב יחיא אלקשמה",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "הרקפת",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "השעורה",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "השקד",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "השקמה",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "התאנה",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "התפוח",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "זנדני משה",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "כיכר יחיא ענאקי",
+    "symbol": 6001,
+    "houses": 0
+  },
+  {
+    "name": "לילך",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "נאות דליה",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "נווה אורנים",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "סמ בגין",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "סמ דגן",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "סמ זנדני",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "סמ סיגלית",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "סמ קוסמת",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "סמ שיבולת",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "סמ שיפון",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "סמ תבואה",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "סמ תמר",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "סמטת תירוש",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "ערבי נחל",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "פנינת טל",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "צאלה",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "רבין יצחק",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "תמר",
+    "symbol": 138,
+    "houses": 0
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "דרך הורד",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "דרך החצב",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "דרך החרצית",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "דרך היסמין",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך היקינטון",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "דרך הכלנית",
+    "symbol": 105,
+    "houses": 0
+  }
+]

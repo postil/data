@@ -1,0 +1,97 @@
+[
+  {
+    "name": "הגפן",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "החיטה",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "הנחלים",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "העומר",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "התאנה",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "נחל איילון",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "נחל ארבל",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "נחל גבעות",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "נחל דולב",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "נחל דן",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "נחל הבשור",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "נחל הירדן",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "נחל זרי הדפנה",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "נחל חרמון",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "נחל שפירים",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "נחל תבור",
+    "symbol": 110,
+    "houses": 0
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "name": "אזור דרום מערבי",
+    "symbol": 6741,
+    "houses": 0
+  },
+  {
+    "name": "אזור דרומי",
+    "symbol": 6730,
+    "houses": 0
+  },
+  {
+    "name": "אזור הכדורגל",
+    "symbol": 6710,
+    "houses": 0
+  },
+  {
+    "name": "אזור העירייה",
+    "symbol": 6731,
+    "houses": 0
+  },
+  {
+    "name": "אזור מזרחי",
+    "symbol": 6720,
+    "houses": 0
+  },
+  {
+    "name": "אזור מעל הנחל",
+    "symbol": 6740,
+    "houses": 0
+  },
+  {
+    "name": "אזור צפוני",
+    "symbol": 6721,
+    "houses": 0
+  },
+  {
+    "name": "רח 20",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "רח 120",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "רח 30",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "רח 40",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "רח 150",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "רח 1",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "רח 11",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "רח 111",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "רח 21",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "רח 121",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "רח 131",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "רח 41",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "רח 151",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "רח 2",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "רח 12",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "רח 112",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "רח 132",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "רח 42",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "רח 152",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "רח 3",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "רח 13",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "רח 113",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "רח 123",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "רח 133",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "רח 4",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "רח 14",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "רח 114",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "רח 124",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "רח 134",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "רח 44",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "רח 5",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "רח 15",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "רח 115",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "רח 25",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "רח 135",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "רח 155",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "רח 6",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "רח 16",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "רח 116",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "רח 126",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "רח 136",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "רח 146",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "רח 156",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "רח 17",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "רח 117",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "רח 127",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "רח 137",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "רח 18",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "רח 118",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "רח 128",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "רח 138",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "רח 148",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "רח 158",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "רח 19",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "רח 119",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "רח 129",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "רח 139",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "רח 149",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "שכ כרמים",
+    "symbol": 6500,
+    "houses": 0
+  }
+]

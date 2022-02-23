@@ -1,0 +1,277 @@
+[
+  {
+    "name": "אל-ווערה",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "אל-ח'לה",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "אל-חארה",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "אל-עין",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "אל-קריה",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "אלוואד",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "אלכרום",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "אלכרם",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "אלמישה",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "אסכידניא",
+    "symbol": 157,
+    "houses": 0
+  },
+  {
+    "name": "בוסתאן",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "בלדי",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "בעיקשה",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "ברקוק",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "ג'וז",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "ג'ורי",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "ג'ורן",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "ג'ניאן",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "דליה",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "ורד",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "זוזו",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "זיתון",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "זערור",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "זעתר",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "חאכורה",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "חורש",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "חרוב",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "יסמין",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "כראב אלקיק",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "לואיזה",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "לוז",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "לימון",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "מחורה",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "מעסרה",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "מראח",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "משמש",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "נבעה",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "נח'יל",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "נענע",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "נרג'ס",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "סבר",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "סוסן",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "סלאם",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "סנסלה",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "עין אל-עמור",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "עין סובא",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "ענב",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "עראק אלמטבך",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "עריש",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "קרונפול",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "רוזמרין",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "ריחאן",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "תות",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "תין",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "תפאח",
+    "symbol": 115,
+    "houses": 0
+  }
+]

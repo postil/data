@@ -1,0 +1,302 @@
+[
+  {
+    "name": "אברהם אבינו",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "איריס",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "אלון",
+    "symbol": 158,
+    "houses": 0
+  },
+  {
+    "name": "ארבעת המינים",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "בגין מנחם",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "בנה ביתך",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "דולב",
+    "symbol": 156,
+    "houses": 0
+  },
+  {
+    "name": "דרך המ\"ג",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "האשכולית",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "האתרוג",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "הבנים",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "הגולן",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "הגליל",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "הדס",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "החיטה",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "החרמון",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "היובל",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "הכרמל",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "הלולב",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "הנגב",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "העצמאות",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הערבה",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "הרצל",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "השעורה",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "השפלה",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "השרון",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "התאנה",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "התפוז",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "ורד",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "ז'בוטינסקי",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "חבצלת",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "טרומפלדור",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "יהודה",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "יסמין",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "כלנית",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "כצנלסון",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "לילך",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "נווה הדרים",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "נרקיס",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "סביון",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "צה\"ל",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "קבוץ גלויות",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "קפלן",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "קק\"ל",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "רח ט",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "רח י",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "רמב\"ן",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "רמז",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "רקפת",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "ש נווה גנים",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "ש נקודת חן",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "ש צמרות דגן",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "שבזי",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "שבעת המינים",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "שומרון",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "שקמה",
+    "symbol": 157,
+    "houses": 0
+  }
+]

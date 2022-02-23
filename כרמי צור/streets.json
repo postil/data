@@ -1,0 +1,52 @@
+[
+  {
+    "name": "אשכול",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "דרך האבות",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "דרך שורק",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הגת",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "סמדר",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "עינב",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "שכ צור שלם",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "שריג",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "תירוש",
+    "symbol": 107,
+    "houses": 0
+  }
+]

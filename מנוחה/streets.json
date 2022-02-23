@@ -1,0 +1,27 @@
+[
+  {
+    "name": "הבאר",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "הבנים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "הכפר",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "המגל",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "המייסדים",
+    "symbol": 101,
+    "houses": 0
+  }
+]

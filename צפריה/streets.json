@@ -1,0 +1,37 @@
+[
+  {
+    "name": "דרך החיטה",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הארז",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "התאנה",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "התמר",
+    "symbol": 102,
+    "houses": 0
+  }
+]

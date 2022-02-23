@@ -1,0 +1,87 @@
+[
+  {
+    "name": "בית ראשון במולדת",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך החצר",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "דרך המשק",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "דרך ראשית ההתיישבות",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "הגיתות",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "הגנים",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הכרם",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "הסלע",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "העמק",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הפרדס",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "הצריפים",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "הראשונים",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "השדה",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "השרון-גבת",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "מעלה הגבעה",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "שביל החלב",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "שלושת הברושים",
+    "symbol": 103,
+    "houses": 0
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "דרך הגנים",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך הזית",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "דרך הים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "דרך הנחל",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "כפר הנוער נירים",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "שביל האלמוג",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "שביל הדוגית",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "שביל החבצלת",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "שביל החוף",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "שביל המפרש",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "שביל העוגן",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "שביל השונית",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "שביל השחף",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "שד האקליפטוס",
+    "symbol": 104,
+    "houses": 0
+  }
+]

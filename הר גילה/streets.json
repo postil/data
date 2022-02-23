@@ -1,0 +1,92 @@
+[
+  {
+    "name": "דרך ההר",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "האלה",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "האלון",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "הליבנה",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "הקטלב",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "יורם פיצ'י בן מאיר",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "משעול החלמונית",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "משעול החצב",
+    "symbol": 100,
+    "houses": 0
+  },
+  {
+    "name": "משעול המרווה",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "משעול הסלעית",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "משעול העיט הזהוב",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "משעול העפרוני",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "משעול הצופית",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "משעול הקורנית",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "משעול הקיכלי",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "משעול כליל החורש",
+    "symbol": 107,
+    "houses": 0
+  }
+]

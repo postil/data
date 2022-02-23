@@ -1,0 +1,87 @@
+[
+  {
+    "name": "בריכות היער",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "גבעת ברושים",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "דרך הגבעה",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "דרך הזיתים",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך הצבר",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "דרך השקד",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "האגם",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "האלה",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "האלון",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "הברוש",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "הפסגה",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "מעלה הערבה",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "מעלה השיטה",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "נתיב האורנים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "נתיב האפרסק",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "עין כרם",
+    "symbol": 105,
+    "houses": 0
+  }
+]

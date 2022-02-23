@@ -1,0 +1,3307 @@
+[
+  {
+    "name": "אבא ברדיצ'ב",
+    "symbol": 1653,
+    "houses": 10
+  },
+  {
+    "name": "אבטליון",
+    "symbol": 810,
+    "houses": 21
+  },
+  {
+    "name": "אביבים",
+    "symbol": 116,
+    "houses": 14
+  },
+  {
+    "name": "אביגדור קרמר",
+    "symbol": 300,
+    "houses": 0
+  },
+  {
+    "name": "אביגיל",
+    "symbol": 106,
+    "houses": 16
+  },
+  {
+    "name": "אבישי",
+    "symbol": 1307,
+    "houses": 17
+  },
+  {
+    "name": "אבן אביתור",
+    "symbol": 1667,
+    "houses": 10
+  },
+  {
+    "name": "אבן חביב",
+    "symbol": 1666,
+    "houses": 12
+  },
+  {
+    "name": "אבן ספיר",
+    "symbol": 1507,
+    "houses": 5
+  },
+  {
+    "name": "אבן עזרא",
+    "symbol": 1608,
+    "houses": 7
+  },
+  {
+    "name": "אבני החושן",
+    "symbol": 1651,
+    "houses": 2
+  },
+  {
+    "name": "אבנר מאיר",
+    "symbol": 1510,
+    "houses": 12
+  },
+  {
+    "name": "אגמון רמת אפעל",
+    "symbol": 3117,
+    "houses": 0
+  },
+  {
+    "name": "אהוד",
+    "symbol": 1308,
+    "houses": 13
+  },
+  {
+    "name": "אהליאב",
+    "symbol": 406,
+    "houses": 11
+  },
+  {
+    "name": "אהרונסון שרה",
+    "symbol": 1627,
+    "houses": 54
+  },
+  {
+    "name": "אונברסיטה בר אילן",
+    "symbol": 1638,
+    "houses": 0
+  },
+  {
+    "name": "אורה",
+    "symbol": 717,
+    "houses": 6
+  },
+  {
+    "name": "אורי ניסן",
+    "symbol": 1010,
+    "houses": 9
+  },
+  {
+    "name": "אוריאל פרץ",
+    "symbol": 1723,
+    "houses": 0
+  },
+  {
+    "name": "אורן",
+    "symbol": 1762,
+    "houses": 12
+  },
+  {
+    "name": "אזור הבילויים",
+    "symbol": 6549,
+    "houses": 0
+  },
+  {
+    "name": "אזור התעשיה",
+    "symbol": 6510,
+    "houses": 0
+  },
+  {
+    "name": "אחד העם",
+    "symbol": 1704,
+    "houses": 64
+  },
+  {
+    "name": "אחימאיר אבא",
+    "symbol": 123,
+    "houses": 34
+  },
+  {
+    "name": "אינשטיין",
+    "symbol": 1509,
+    "houses": 22
+  },
+  {
+    "name": "איתמר",
+    "symbol": 141,
+    "houses": 15
+  },
+  {
+    "name": "איתן יונה",
+    "symbol": 1747,
+    "houses": 16
+  },
+  {
+    "name": "אל על רמת אפעל",
+    "symbol": 3101,
+    "houses": 0
+  },
+  {
+    "name": "אלומות רמת אפעל",
+    "symbol": 3102,
+    "houses": 0
+  },
+  {
+    "name": "אלונים",
+    "symbol": 313,
+    "houses": 14
+  },
+  {
+    "name": "אלוף דוד",
+    "symbol": 1801,
+    "houses": 201
+  },
+  {
+    "name": "אלוף הנצחון",
+    "symbol": 1108,
+    "houses": 0
+  },
+  {
+    "name": "אלוף יצחק חופי",
+    "symbol": 1721,
+    "houses": 0
+  },
+  {
+    "name": "אלוף שדה",
+    "symbol": 1838,
+    "houses": 0
+  },
+  {
+    "name": "אלוף שמחוני",
+    "symbol": 1024,
+    "houses": 0
+  },
+  {
+    "name": "אלימלך",
+    "symbol": 809,
+    "houses": 16
+  },
+  {
+    "name": "אלירז פרץ",
+    "symbol": 1724,
+    "houses": 0
+  },
+  {
+    "name": "אלישיב",
+    "symbol": 1312,
+    "houses": 19
+  },
+  {
+    "name": "אלישע",
+    "symbol": 1836,
+    "houses": 10
+  },
+  {
+    "name": "אלכסנדר",
+    "symbol": 718,
+    "houses": 7
+  },
+  {
+    "name": "אלכסנדרוני",
+    "symbol": 1831,
+    "houses": 41
+  },
+  {
+    "name": "אלמוג רמת אפעל",
+    "symbol": 3155,
+    "houses": 0
+  },
+  {
+    "name": "אלרואי",
+    "symbol": 1316,
+    "houses": 54
+  },
+  {
+    "name": "אלרום",
+    "symbol": 1656,
+    "houses": 8
+  },
+  {
+    "name": "אמיר",
+    "symbol": 1525,
+    "houses": 21
+  },
+  {
+    "name": "אמנון ותמר",
+    "symbol": 1115,
+    "houses": 37
+  },
+  {
+    "name": "אנגלנדר יהודה",
+    "symbol": 504,
+    "houses": 10
+  },
+  {
+    "name": "אנדרס רואמר",
+    "symbol": 816,
+    "houses": 0
+  },
+  {
+    "name": "אנה פרנק",
+    "symbol": 102,
+    "houses": 23
+  },
+  {
+    "name": "אנקורים",
+    "symbol": 127,
+    "houses": 6
+  },
+  {
+    "name": "אסף",
+    "symbol": 109,
+    "houses": 35
+  },
+  {
+    "name": "אפעל-מרכז סמינריוני",
+    "symbol": 6640,
+    "houses": 0
+  },
+  {
+    "name": "אפרים",
+    "symbol": 1513,
+    "houses": 12
+  },
+  {
+    "name": "אצ\"ל",
+    "symbol": 1613,
+    "houses": 61
+  },
+  {
+    "name": "ארגמן רמת אפעל",
+    "symbol": 3113,
+    "houses": 0
+  },
+  {
+    "name": "ארלוזורוב",
+    "symbol": 601,
+    "houses": 85
+  },
+  {
+    "name": "ארנון",
+    "symbol": 1617,
+    "houses": 27
+  },
+  {
+    "name": "ארניה",
+    "symbol": 222,
+    "houses": 17
+  },
+  {
+    "name": "אשתאול",
+    "symbol": 217,
+    "houses": 8
+  },
+  {
+    "name": "באדר יוחנן",
+    "symbol": 1125,
+    "houses": 7
+  },
+  {
+    "name": "באר אורה",
+    "symbol": 1654,
+    "houses": 18
+  },
+  {
+    "name": "באר שבע",
+    "symbol": 1318,
+    "houses": 0
+  },
+  {
+    "name": "בדנר",
+    "symbol": 319,
+    "houses": 6
+  },
+  {
+    "name": "בועז",
+    "symbol": 509,
+    "houses": 20
+  },
+  {
+    "name": "בורסה",
+    "symbol": 6586,
+    "houses": 0
+  },
+  {
+    "name": "בורסת היהלומים",
+    "symbol": 415,
+    "houses": 0
+  },
+  {
+    "name": "ביאליק",
+    "symbol": 701,
+    "houses": 159
+  },
+  {
+    "name": "בית אל",
+    "symbol": 515,
+    "houses": 6
+  },
+  {
+    "name": "בית הלל",
+    "symbol": 1012,
+    "houses": 19
+  },
+  {
+    "name": "בית הערבה",
+    "symbol": 1628,
+    "houses": 0
+  },
+  {
+    "name": "בית חורון",
+    "symbol": 609,
+    "houses": 13
+  },
+  {
+    "name": "בית לחם",
+    "symbol": 1303,
+    "houses": 12
+  },
+  {
+    "name": "בית שמאי",
+    "symbol": 1013,
+    "houses": 17
+  },
+  {
+    "name": "בן אליעזר אריה",
+    "symbol": 1505,
+    "houses": 66
+  },
+  {
+    "name": "בן גוריון כפר אז\"ר",
+    "symbol": 3308,
+    "houses": 0
+  },
+  {
+    "name": "בן יוסף",
+    "symbol": 704,
+    "houses": 12
+  },
+  {
+    "name": "בן סרוק",
+    "symbol": 1629,
+    "houses": 4
+  },
+  {
+    "name": "בן שמן",
+    "symbol": 223,
+    "houses": 10
+  },
+  {
+    "name": "בני הנביאים",
+    "symbol": 1804,
+    "houses": 20
+  },
+  {
+    "name": "בני משה",
+    "symbol": 1006,
+    "houses": 20
+  },
+  {
+    "name": "בניהו",
+    "symbol": 1713,
+    "houses": 39
+  },
+  {
+    "name": "בנימין",
+    "symbol": 315,
+    "houses": 31
+  },
+  {
+    "name": "בעל שם טוב",
+    "symbol": 1543,
+    "houses": 19
+  },
+  {
+    "name": "בצלאל",
+    "symbol": 407,
+    "houses": 33
+  },
+  {
+    "name": "בקעת ארבל",
+    "symbol": 1737,
+    "houses": 12
+  },
+  {
+    "name": "בקעת גינוסר",
+    "symbol": 1736,
+    "houses": 0
+  },
+  {
+    "name": "בר גיורא",
+    "symbol": 616,
+    "houses": 2
+  },
+  {
+    "name": "בר יוחאי",
+    "symbol": 1536,
+    "houses": 21
+  },
+  {
+    "name": "בר כוכבא",
+    "symbol": 1306,
+    "houses": 39
+  },
+  {
+    "name": "ברודצקי",
+    "symbol": 1542,
+    "houses": 11
+  },
+  {
+    "name": "ברוריה",
+    "symbol": 101,
+    "houses": 6
+  },
+  {
+    "name": "ברוש",
+    "symbol": 1760,
+    "houses": 4
+  },
+  {
+    "name": "ברנשטיין פרץ",
+    "symbol": 1726,
+    "houses": 5
+  },
+  {
+    "name": "ברקאי",
+    "symbol": 1102,
+    "houses": 24
+  },
+  {
+    "name": "ברקת רמת אפעל",
+    "symbol": 3151,
+    "houses": 0
+  },
+  {
+    "name": "בשמת",
+    "symbol": 1765,
+    "houses": 6
+  },
+  {
+    "name": "בת שוע",
+    "symbol": 1539,
+    "houses": 9
+  },
+  {
+    "name": "גאולים",
+    "symbol": 215,
+    "houses": 14
+  },
+  {
+    "name": "גבעת גאולה",
+    "symbol": 1715,
+    "houses": 129
+  },
+  {
+    "name": "גבעת הברושים",
+    "symbol": 6573,
+    "houses": 0
+  },
+  {
+    "name": "גבעתי",
+    "symbol": 1819,
+    "houses": 63
+  },
+  {
+    "name": "גדעון",
+    "symbol": 1415,
+    "houses": 42
+  },
+  {
+    "name": "גולומב",
+    "symbol": 1110,
+    "houses": 5
+  },
+  {
+    "name": "גולני",
+    "symbol": 1829,
+    "houses": 32
+  },
+  {
+    "name": "גורי יהודה",
+    "symbol": 1208,
+    "houses": 6
+  },
+  {
+    "name": "גיבורי מלחמת יוה\"כ",
+    "symbol": 1800,
+    "houses": 0
+  },
+  {
+    "name": "גילדסגיים",
+    "symbol": 1746,
+    "houses": 21
+  },
+  {
+    "name": "גפונוב",
+    "symbol": 1741,
+    "houses": 23
+  },
+  {
+    "name": "גרופית רמת אפעל",
+    "symbol": 3107,
+    "houses": 0
+  },
+  {
+    "name": "גרנדוס",
+    "symbol": 1403,
+    "houses": 34
+  },
+  {
+    "name": "גרשום",
+    "symbol": 1603,
+    "houses": 15
+  },
+  {
+    "name": "ד\"ר אליהו",
+    "symbol": 1734,
+    "houses": 30
+  },
+  {
+    "name": "ד\"ר כהן",
+    "symbol": 707,
+    "houses": 16
+  },
+  {
+    "name": "דב",
+    "symbol": 401,
+    "houses": 29
+  },
+  {
+    "name": "דבורה הנביאה",
+    "symbol": 1526,
+    "houses": 16
+  },
+  {
+    "name": "דוד",
+    "symbol": 804,
+    "houses": 11
+  },
+  {
+    "name": "דולב רמת אפעל",
+    "symbol": 3145,
+    "houses": 0
+  },
+  {
+    "name": "דונש",
+    "symbol": 1609,
+    "houses": 10
+  },
+  {
+    "name": "דיין משה",
+    "symbol": 1550,
+    "houses": 45
+  },
+  {
+    "name": "דן",
+    "symbol": 1630,
+    "houses": 0
+  },
+  {
+    "name": "דן שומרון",
+    "symbol": 1771,
+    "houses": 0
+  },
+  {
+    "name": "דנגור",
+    "symbol": 1663,
+    "houses": 10
+  },
+  {
+    "name": "דניאל",
+    "symbol": 1824,
+    "houses": 21
+  },
+  {
+    "name": "דקר",
+    "symbol": 1842,
+    "houses": 26
+  },
+  {
+    "name": "דרך אבא הלל",
+    "symbol": 108,
+    "houses": 144
+  },
+  {
+    "name": "דרך אשכול",
+    "symbol": 1639,
+    "houses": 0
+  },
+  {
+    "name": "דרך בגין מנחם",
+    "symbol": 416,
+    "houses": 25
+  },
+  {
+    "name": "דרך בן גוריון דוד",
+    "symbol": 903,
+    "houses": 32
+  },
+  {
+    "name": "דרך הנשיא הראשון",
+    "symbol": 1634,
+    "houses": 0
+  },
+  {
+    "name": "דרך התפוצות",
+    "symbol": 1635,
+    "houses": 71
+  },
+  {
+    "name": "דרך יצחק רבין",
+    "symbol": 1423,
+    "houses": 20
+  },
+  {
+    "name": "דרך לוד",
+    "symbol": 1750,
+    "houses": 0
+  },
+  {
+    "name": "דרך מוטה גור",
+    "symbol": 1839,
+    "houses": 0
+  },
+  {
+    "name": "דרך נגבה",
+    "symbol": 1117,
+    "houses": 84
+  },
+  {
+    "name": "דרך שיבא",
+    "symbol": 1742,
+    "houses": 1
+  },
+  {
+    "name": "דרך ששת הימים",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "ה באייר כפר אז\"ר",
+    "symbol": 3310,
+    "houses": 0
+  },
+  {
+    "name": "האגדה",
+    "symbol": 1106,
+    "houses": 18
+  },
+  {
+    "name": "האגוז רמת אפעל",
+    "symbol": 3140,
+    "houses": 0
+  },
+  {
+    "name": "האוכמניות רמת אפעל",
+    "symbol": 3139,
+    "houses": 0
+  },
+  {
+    "name": "האורים",
+    "symbol": 1016,
+    "houses": 5
+  },
+  {
+    "name": "האחות חיה",
+    "symbol": 1730,
+    "houses": 26
+  },
+  {
+    "name": "האחים בז'רנו",
+    "symbol": 412,
+    "houses": 11
+  },
+  {
+    "name": "האחים ליטוינסקי",
+    "symbol": 1735,
+    "houses": 17
+  },
+  {
+    "name": "האטד רמת אפעל",
+    "symbol": 3119,
+    "houses": 0
+  },
+  {
+    "name": "האילנות",
+    "symbol": 1767,
+    "houses": 10
+  },
+  {
+    "name": "האלה רמת אפעל",
+    "symbol": 3110,
+    "houses": 0
+  },
+  {
+    "name": "האלון רמת אפעל",
+    "symbol": 3141,
+    "houses": 0
+  },
+  {
+    "name": "האלוף אלברט מנדלר",
+    "symbol": 206,
+    "houses": 0
+  },
+  {
+    "name": "האם",
+    "symbol": 1621,
+    "houses": 37
+  },
+  {
+    "name": "האמוראים",
+    "symbol": 1107,
+    "houses": 11
+  },
+  {
+    "name": "האר\"י",
+    "symbol": 1516,
+    "houses": 12
+  },
+  {
+    "name": "הארז",
+    "symbol": 318,
+    "houses": 0
+  },
+  {
+    "name": "האשל",
+    "symbol": 801,
+    "houses": 27
+  },
+  {
+    "name": "האשל רמת אפעל",
+    "symbol": 3137,
+    "houses": 0
+  },
+  {
+    "name": "האתרוג רמת אפעל",
+    "symbol": 3103,
+    "houses": 0
+  },
+  {
+    "name": "הבאר",
+    "symbol": 611,
+    "houses": 9
+  },
+  {
+    "name": "הבילויים",
+    "symbol": 1631,
+    "houses": 55
+  },
+  {
+    "name": "הבנים",
+    "symbol": 1018,
+    "houses": 17
+  },
+  {
+    "name": "הבנים כפר אז\"ר",
+    "symbol": 3309,
+    "houses": 0
+  },
+  {
+    "name": "הבשן",
+    "symbol": 1658,
+    "houses": 10
+  },
+  {
+    "name": "הגאון אליהו",
+    "symbol": 1529,
+    "houses": 23
+  },
+  {
+    "name": "הגולן",
+    "symbol": 1657,
+    "houses": 12
+  },
+  {
+    "name": "הגלגל",
+    "symbol": 1004,
+    "houses": 81
+  },
+  {
+    "name": "הגפן",
+    "symbol": 305,
+    "houses": 26
+  },
+  {
+    "name": "הגת",
+    "symbol": 904,
+    "houses": 30
+  },
+  {
+    "name": "הדודאים רמת אפעל",
+    "symbol": 3132,
+    "houses": 0
+  },
+  {
+    "name": "הדס",
+    "symbol": 1764,
+    "houses": 12
+  },
+  {
+    "name": "הדקלים",
+    "symbol": 310,
+    "houses": 20
+  },
+  {
+    "name": "הדר",
+    "symbol": 304,
+    "houses": 21
+  },
+  {
+    "name": "הדרורים",
+    "symbol": 125,
+    "houses": 3
+  },
+  {
+    "name": "ההגנה",
+    "symbol": 1612,
+    "houses": 48
+  },
+  {
+    "name": "ההגנה כפר אז\"ר",
+    "symbol": 3302,
+    "houses": 0
+  },
+  {
+    "name": "ההלכה",
+    "symbol": 1105,
+    "houses": 12
+  },
+  {
+    "name": "הושע",
+    "symbol": 1812,
+    "houses": 10
+  },
+  {
+    "name": "הזיתים",
+    "symbol": 905,
+    "houses": 28
+  },
+  {
+    "name": "הזמיר",
+    "symbol": 126,
+    "houses": 15
+  },
+  {
+    "name": "החוגה רמת אפעל",
+    "symbol": 3125,
+    "houses": 0
+  },
+  {
+    "name": "החי\"ל",
+    "symbol": 1520,
+    "houses": 70
+  },
+  {
+    "name": "החייל האלמוני",
+    "symbol": 815,
+    "houses": 6
+  },
+  {
+    "name": "החילזון",
+    "symbol": 409,
+    "houses": 17
+  },
+  {
+    "name": "החיצון",
+    "symbol": 517,
+    "houses": 6
+  },
+  {
+    "name": "החץ",
+    "symbol": 1025,
+    "houses": 0
+  },
+  {
+    "name": "החצב רמת אפעל",
+    "symbol": 3116,
+    "houses": 0
+  },
+  {
+    "name": "החרוב רמת אפעל",
+    "symbol": 3111,
+    "houses": 0
+  },
+  {
+    "name": "החרושת",
+    "symbol": 209,
+    "houses": 13
+  },
+  {
+    "name": "החרמון",
+    "symbol": 1659,
+    "houses": 7
+  },
+  {
+    "name": "החרצית רמת אפעל",
+    "symbol": 3124,
+    "houses": 0
+  },
+  {
+    "name": "החשמונאים",
+    "symbol": 617,
+    "houses": 38
+  },
+  {
+    "name": "הטייסים",
+    "symbol": 1707,
+    "houses": 5
+  },
+  {
+    "name": "היד החזקה",
+    "symbol": 1541,
+    "houses": 12
+  },
+  {
+    "name": "היוגב",
+    "symbol": 203,
+    "houses": 9
+  },
+  {
+    "name": "היזמה",
+    "symbol": 410,
+    "houses": 10
+  },
+  {
+    "name": "היסמין רמת אפעל",
+    "symbol": 3118,
+    "houses": 0
+  },
+  {
+    "name": "היצירה",
+    "symbol": 518,
+    "houses": 33
+  },
+  {
+    "name": "הירדן",
+    "symbol": 1604,
+    "houses": 95
+  },
+  {
+    "name": "היתד",
+    "symbol": 1020,
+    "houses": 0
+  },
+  {
+    "name": "הכבאים",
+    "symbol": 1575,
+    "houses": 30
+  },
+  {
+    "name": "הלוטוס רמת אפעל",
+    "symbol": 3120,
+    "houses": 0
+  },
+  {
+    "name": "הלפיד",
+    "symbol": 221,
+    "houses": 21
+  },
+  {
+    "name": "המאה ואחד",
+    "symbol": 1820,
+    "houses": 47
+  },
+  {
+    "name": "המאירי",
+    "symbol": 1729,
+    "houses": 26
+  },
+  {
+    "name": "המבדיל",
+    "symbol": 212,
+    "houses": 28
+  },
+  {
+    "name": "המחתרת",
+    "symbol": 1616,
+    "houses": 16
+  },
+  {
+    "name": "המיתר",
+    "symbol": 1003,
+    "houses": 26
+  },
+  {
+    "name": "המכבי",
+    "symbol": 514,
+    "houses": 12
+  },
+  {
+    "name": "המלאכה",
+    "symbol": 103,
+    "houses": 14
+  },
+  {
+    "name": "המלך יוסף",
+    "symbol": 1313,
+    "houses": 53
+  },
+  {
+    "name": "המלך ינאי",
+    "symbol": 605,
+    "houses": 6
+  },
+  {
+    "name": "המעגל",
+    "symbol": 702,
+    "houses": 49
+  },
+  {
+    "name": "המעיין",
+    "symbol": 403,
+    "houses": 10
+  },
+  {
+    "name": "המעפיל",
+    "symbol": 216,
+    "houses": 18
+  },
+  {
+    "name": "המציי\"ר",
+    "symbol": 612,
+    "houses": 7
+  },
+  {
+    "name": "המקור",
+    "symbol": 210,
+    "houses": 7
+  },
+  {
+    "name": "המרגנית",
+    "symbol": 111,
+    "houses": 75
+  },
+  {
+    "name": "המשטרה",
+    "symbol": 220,
+    "houses": 0
+  },
+  {
+    "name": "המתמיד",
+    "symbol": 508,
+    "houses": 41
+  },
+  {
+    "name": "הנגיד",
+    "symbol": 705,
+    "houses": 12
+  },
+  {
+    "name": "הנח\"ל",
+    "symbol": 1204,
+    "houses": 26
+  },
+  {
+    "name": "הנח\"ל כפר אז\"ר",
+    "symbol": 3304,
+    "houses": 0
+  },
+  {
+    "name": "הנעורים",
+    "symbol": 1009,
+    "houses": 8
+  },
+  {
+    "name": "הנצי\"ב רמת אפעל",
+    "symbol": 3136,
+    "houses": 0
+  },
+  {
+    "name": "הסולם",
+    "symbol": 1015,
+    "houses": 11
+  },
+  {
+    "name": "הסנה",
+    "symbol": 1201,
+    "houses": 22
+  },
+  {
+    "name": "הספארי",
+    "symbol": 1717,
+    "houses": 0
+  },
+  {
+    "name": "הסרן דב",
+    "symbol": 1802,
+    "houses": 16
+  },
+  {
+    "name": "העמל",
+    "symbol": 202,
+    "houses": 38
+  },
+  {
+    "name": "העצמאות כפר אז\"ר",
+    "symbol": 3303,
+    "houses": 0
+  },
+  {
+    "name": "הערבה רמת אפעל",
+    "symbol": 3142,
+    "houses": 0
+  },
+  {
+    "name": "הערמונים",
+    "symbol": 119,
+    "houses": 11
+  },
+  {
+    "name": "הפארק הלאומי",
+    "symbol": 1702,
+    "houses": 0
+  },
+  {
+    "name": "הפודים",
+    "symbol": 204,
+    "houses": 52
+  },
+  {
+    "name": "הפורצים",
+    "symbol": 619,
+    "houses": 8
+  },
+  {
+    "name": "הפטמן",
+    "symbol": 906,
+    "houses": 10
+  },
+  {
+    "name": "הפלמ\"ח כפר אז\"ר",
+    "symbol": 3301,
+    "houses": 0
+  },
+  {
+    "name": "הפרגים רמת אפעל",
+    "symbol": 3129,
+    "houses": 0
+  },
+  {
+    "name": "הפרסה",
+    "symbol": 812,
+    "houses": 11
+  },
+  {
+    "name": "הצלע",
+    "symbol": 411,
+    "houses": 15
+  },
+  {
+    "name": "הרא\"ה",
+    "symbol": 1011,
+    "houses": 289
+  },
+  {
+    "name": "הראב\"ע",
+    "symbol": 1607,
+    "houses": 13
+  },
+  {
+    "name": "הראובני",
+    "symbol": 1515,
+    "houses": 15
+  },
+  {
+    "name": "הראל",
+    "symbol": 1837,
+    "houses": 25
+  },
+  {
+    "name": "הראשונים",
+    "symbol": 503,
+    "houses": 28
+  },
+  {
+    "name": "הרב האלוף גורן",
+    "symbol": 1773,
+    "houses": 0
+  },
+  {
+    "name": "הרב חבה אליהו",
+    "symbol": 602,
+    "houses": 15
+  },
+  {
+    "name": "הרב חי טייב יצחק",
+    "symbol": 1676,
+    "houses": 8
+  },
+  {
+    "name": "הרב לוין",
+    "symbol": 1664,
+    "houses": 16
+  },
+  {
+    "name": "הרב לנדרס",
+    "symbol": 1640,
+    "houses": 16
+  },
+  {
+    "name": "הרבי מריז'ין",
+    "symbol": 1605,
+    "houses": 14
+  },
+  {
+    "name": "הרדוף רמת אפעל",
+    "symbol": 3130,
+    "houses": 0
+  },
+  {
+    "name": "הרי הגלעד",
+    "symbol": 408,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 309,
+    "houses": 18
+  },
+  {
+    "name": "הרכסים",
+    "symbol": 1305,
+    "houses": 76
+  },
+  {
+    "name": "הרצל",
+    "symbol": 802,
+    "houses": 88
+  },
+  {
+    "name": "הרקון",
+    "symbol": 520,
+    "houses": 17
+  },
+  {
+    "name": "הרקפת רמת אפעל",
+    "symbol": 3126,
+    "houses": 0
+  },
+  {
+    "name": "הררי",
+    "symbol": 1622,
+    "houses": 32
+  },
+  {
+    "name": "השוטרת",
+    "symbol": 703,
+    "houses": 15
+  },
+  {
+    "name": "השומר",
+    "symbol": 1007,
+    "houses": 17
+  },
+  {
+    "name": "השומר כפר אז\"ר",
+    "symbol": 3307,
+    "houses": 0
+  },
+  {
+    "name": "השורה",
+    "symbol": 1005,
+    "houses": 21
+  },
+  {
+    "name": "השושן",
+    "symbol": 1116,
+    "houses": 12
+  },
+  {
+    "name": "השיטה רמת אפעל",
+    "symbol": 3128,
+    "houses": 0
+  },
+  {
+    "name": "השלושים ושלושה",
+    "symbol": 1833,
+    "houses": 24
+  },
+  {
+    "name": "השקד רמת אפעל",
+    "symbol": 3143,
+    "houses": 0
+  },
+  {
+    "name": "השקמה",
+    "symbol": 1844,
+    "houses": 10
+  },
+  {
+    "name": "השר משה",
+    "symbol": 1517,
+    "houses": 74
+  },
+  {
+    "name": "התנאים",
+    "symbol": 1123,
+    "houses": 9
+  },
+  {
+    "name": "התקוה",
+    "symbol": 301,
+    "houses": 28
+  },
+  {
+    "name": "ויינשל אליעזר",
+    "symbol": 316,
+    "houses": 9
+  },
+  {
+    "name": "ז\"ר",
+    "symbol": 813,
+    "houses": 3
+  },
+  {
+    "name": "ז'בוטינסקי",
+    "symbol": 205,
+    "houses": 147
+  },
+  {
+    "name": "זוהר",
+    "symbol": 708,
+    "houses": 16
+  },
+  {
+    "name": "זיסמן שלום",
+    "symbol": 822,
+    "houses": 6
+  },
+  {
+    "name": "זכריה",
+    "symbol": 1816,
+    "houses": 17
+  },
+  {
+    "name": "חבצלת",
+    "symbol": 1114,
+    "houses": 10
+  },
+  {
+    "name": "חבקוק",
+    "symbol": 1821,
+    "houses": 16
+  },
+  {
+    "name": "חבר",
+    "symbol": 1405,
+    "houses": 18
+  },
+  {
+    "name": "חברון",
+    "symbol": 1304,
+    "houses": 12
+  },
+  {
+    "name": "חגי",
+    "symbol": 1808,
+    "houses": 19
+  },
+  {
+    "name": "חד נס",
+    "symbol": 1514,
+    "houses": 45
+  },
+  {
+    "name": "חורגין",
+    "symbol": 1301,
+    "houses": 51
+  },
+  {
+    "name": "חזון אי\"ש",
+    "symbol": 1122,
+    "houses": 0
+  },
+  {
+    "name": "חיבת ציון",
+    "symbol": 1002,
+    "houses": 45
+  },
+  {
+    "name": "חיים בר-לב",
+    "symbol": 1772,
+    "houses": 0
+  },
+  {
+    "name": "חמי זכריה",
+    "symbol": 1610,
+    "houses": 0
+  },
+  {
+    "name": "חמיר",
+    "symbol": 1668,
+    "houses": 10
+  },
+  {
+    "name": "חצור",
+    "symbol": 1205,
+    "houses": 21
+  },
+  {
+    "name": "חרוד",
+    "symbol": 1533,
+    "houses": 8
+  },
+  {
+    "name": "חרוזים",
+    "symbol": 143,
+    "houses": 17
+  },
+  {
+    "name": "חרות",
+    "symbol": 211,
+    "houses": 55
+  },
+  {
+    "name": "טבנקין",
+    "symbol": 1425,
+    "houses": 21
+  },
+  {
+    "name": "טור הברושים",
+    "symbol": 1008,
+    "houses": 13
+  },
+  {
+    "name": "טרומן",
+    "symbol": 1518,
+    "houses": 42
+  },
+  {
+    "name": "י\"א באדר",
+    "symbol": 1501,
+    "houses": 20
+  },
+  {
+    "name": "יאיר",
+    "symbol": 1810,
+    "houses": 58
+  },
+  {
+    "name": "יבנה",
+    "symbol": 1023,
+    "houses": 10
+  },
+  {
+    "name": "יד לבנים",
+    "symbol": 6511,
+    "houses": 0
+  },
+  {
+    "name": "יד שלום",
+    "symbol": 1311,
+    "houses": 57
+  },
+  {
+    "name": "ידידיה",
+    "symbol": 1210,
+    "houses": 10
+  },
+  {
+    "name": "ידע עם",
+    "symbol": 115,
+    "houses": 16
+  },
+  {
+    "name": "יהודה הנשיא",
+    "symbol": 1101,
+    "houses": 15
+  },
+  {
+    "name": "יהודית",
+    "symbol": 104,
+    "houses": 16
+  },
+  {
+    "name": "יהושע בן נון",
+    "symbol": 1708,
+    "houses": 0
+  },
+  {
+    "name": "יהושפט",
+    "symbol": 1705,
+    "houses": 24
+  },
+  {
+    "name": "יהלום רמת אפעל",
+    "symbol": 3150,
+    "houses": 0
+  },
+  {
+    "name": "יואב",
+    "symbol": 110,
+    "houses": 23
+  },
+  {
+    "name": "יובל כפר אז\"ר",
+    "symbol": 3312,
+    "houses": 0
+  },
+  {
+    "name": "יוחנן",
+    "symbol": 603,
+    "houses": 10
+  },
+  {
+    "name": "יונה",
+    "symbol": 1021,
+    "houses": 31
+  },
+  {
+    "name": "יוסף הגלילי",
+    "symbol": 817,
+    "houses": 25
+  },
+  {
+    "name": "יוסף צבי",
+    "symbol": 1417,
+    "houses": 70
+  },
+  {
+    "name": "יוספי",
+    "symbol": 824,
+    "houses": 13
+  },
+  {
+    "name": "יחזקאל",
+    "symbol": 1815,
+    "houses": 15
+  },
+  {
+    "name": "יכין",
+    "symbol": 511,
+    "houses": 12
+  },
+  {
+    "name": "יעבץ",
+    "symbol": 1665,
+    "houses": 8
+  },
+  {
+    "name": "יעל הגבורה",
+    "symbol": 1528,
+    "houses": 16
+  },
+  {
+    "name": "יעלים",
+    "symbol": 132,
+    "houses": 14
+  },
+  {
+    "name": "יעקב רוזן",
+    "symbol": 523,
+    "houses": 0
+  },
+  {
+    "name": "יערה",
+    "symbol": 1763,
+    "houses": 12
+  },
+  {
+    "name": "יריחו",
+    "symbol": 1310,
+    "houses": 12
+  },
+  {
+    "name": "ירמיה",
+    "symbol": 1807,
+    "houses": 22
+  },
+  {
+    "name": "ישורון",
+    "symbol": 1601,
+    "houses": 17
+  },
+  {
+    "name": "ישעיהו",
+    "symbol": 1825,
+    "houses": 22
+  },
+  {
+    "name": "כביש נתיבי אילון",
+    "symbol": 405,
+    "houses": 0
+  },
+  {
+    "name": "כביש עוקף",
+    "symbol": 1745,
+    "houses": 0
+  },
+  {
+    "name": "כהן יעקב",
+    "symbol": 1728,
+    "houses": 26
+  },
+  {
+    "name": "כיכר אלוף דני מט",
+    "symbol": 6012,
+    "houses": 0
+  },
+  {
+    "name": "כיכר מלכיאל בבייב",
+    "symbol": 6011,
+    "houses": 0
+  },
+  {
+    "name": "ככר גרונר",
+    "symbol": 6004,
+    "houses": 0
+  },
+  {
+    "name": "ככר הלוחמים",
+    "symbol": 6001,
+    "houses": 0
+  },
+  {
+    "name": "ככר העצמאות",
+    "symbol": 6005,
+    "houses": 0
+  },
+  {
+    "name": "ככר הצבי",
+    "symbol": 6008,
+    "houses": 0
+  },
+  {
+    "name": "ככר הציונות",
+    "symbol": 6006,
+    "houses": 0
+  },
+  {
+    "name": "ככר הרב פרדס",
+    "symbol": 6002,
+    "houses": 6
+  },
+  {
+    "name": "ככר יהודה",
+    "symbol": 6007,
+    "houses": 0
+  },
+  {
+    "name": "ככר נורי מורד",
+    "symbol": 6010,
+    "houses": 0
+  },
+  {
+    "name": "ככר עוזי חיטמן",
+    "symbol": 6009,
+    "houses": 0
+  },
+  {
+    "name": "ככר רמב\"ם",
+    "symbol": 6003,
+    "houses": 2
+  },
+  {
+    "name": "כנפי נשרים",
+    "symbol": 1402,
+    "houses": 41
+  },
+  {
+    "name": "כנרת",
+    "symbol": 1619,
+    "houses": 8
+  },
+  {
+    "name": "כף גימל",
+    "symbol": 1826,
+    "houses": 10
+  },
+  {
+    "name": "כפר אז\"ר",
+    "symbol": 6620,
+    "houses": 0
+  },
+  {
+    "name": "כפר המכביה",
+    "symbol": 1719,
+    "houses": 0
+  },
+  {
+    "name": "כפר מסובים רמת אפעל",
+    "symbol": 6600,
+    "houses": 0
+  },
+  {
+    "name": "כרמלי",
+    "symbol": 1834,
+    "houses": 30
+  },
+  {
+    "name": "לאן",
+    "symbol": 510,
+    "houses": 28
+  },
+  {
+    "name": "לב הזהב",
+    "symbol": 1503,
+    "houses": 22
+  },
+  {
+    "name": "לבונה רמת אפעל",
+    "symbol": 3158,
+    "houses": 0
+  },
+  {
+    "name": "לביא",
+    "symbol": 1218,
+    "houses": 10
+  },
+  {
+    "name": "לוחמי סיני",
+    "symbol": 1203,
+    "houses": 24
+  },
+  {
+    "name": "לוי",
+    "symbol": 516,
+    "houses": 7
+  },
+  {
+    "name": "לויטה",
+    "symbol": 1424,
+    "houses": 12
+  },
+  {
+    "name": "לח\"י",
+    "symbol": 1614,
+    "houses": 26
+  },
+  {
+    "name": "לייב יפה",
+    "symbol": 1744,
+    "houses": 24
+  },
+  {
+    "name": "לנדאו חיים",
+    "symbol": 1530,
+    "houses": 6
+  },
+  {
+    "name": "מאיר בעל הנס",
+    "symbol": 1112,
+    "houses": 30
+  },
+  {
+    "name": "מבוא אנה פרנק",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "מבוא אריה",
+    "symbol": 720,
+    "houses": 7
+  },
+  {
+    "name": "מבוא דוד",
+    "symbol": 805,
+    "houses": 9
+  },
+  {
+    "name": "מבוא העמל",
+    "symbol": 218,
+    "houses": 0
+  },
+  {
+    "name": "מבוא הפודים",
+    "symbol": 225,
+    "houses": 10
+  },
+  {
+    "name": "מבוא הקונגרס",
+    "symbol": 1545,
+    "houses": 6
+  },
+  {
+    "name": "מבוא הרימון",
+    "symbol": 322,
+    "houses": 7
+  },
+  {
+    "name": "מבוא התיכון",
+    "symbol": 1309,
+    "houses": 11
+  },
+  {
+    "name": "מבוא זאב",
+    "symbol": 818,
+    "houses": 13
+  },
+  {
+    "name": "מבוא חרמון",
+    "symbol": 908,
+    "houses": 0
+  },
+  {
+    "name": "מבוא יהל\"ם",
+    "symbol": 808,
+    "houses": 6
+  },
+  {
+    "name": "מבוא מנדס",
+    "symbol": 1727,
+    "houses": 6
+  },
+  {
+    "name": "מבוא נגבה",
+    "symbol": 1546,
+    "houses": 14
+  },
+  {
+    "name": "מבוא נס",
+    "symbol": 219,
+    "houses": 6
+  },
+  {
+    "name": "מבוא נתן",
+    "symbol": 819,
+    "houses": 11
+  },
+  {
+    "name": "מבצע עין",
+    "symbol": 1642,
+    "houses": 14
+  },
+  {
+    "name": "מבצע קדש",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "מגדים",
+    "symbol": 902,
+    "houses": 14
+  },
+  {
+    "name": "מודעי יצחק",
+    "symbol": 519,
+    "houses": 0
+  },
+  {
+    "name": "מוזס נח",
+    "symbol": 114,
+    "houses": 12
+  },
+  {
+    "name": "מולכו",
+    "symbol": 1111,
+    "houses": 7
+  },
+  {
+    "name": "מוצא",
+    "symbol": 1120,
+    "houses": 19
+  },
+  {
+    "name": "מורדי הגטאות",
+    "symbol": 303,
+    "houses": 13
+  },
+  {
+    "name": "מוריה",
+    "symbol": 1214,
+    "houses": 39
+  },
+  {
+    "name": "מחולה רמת אפעל",
+    "symbol": 3104,
+    "houses": 0
+  },
+  {
+    "name": "מחניים",
+    "symbol": 1221,
+    "houses": 13
+  },
+  {
+    "name": "מחץ",
+    "symbol": 1828,
+    "houses": 14
+  },
+  {
+    "name": "מטה אהרון",
+    "symbol": 1014,
+    "houses": 23
+  },
+  {
+    "name": "מטולה",
+    "symbol": 1647,
+    "houses": 18
+  },
+  {
+    "name": "מיכאל",
+    "symbol": 1113,
+    "houses": 24
+  },
+  {
+    "name": "מיכה",
+    "symbol": 1817,
+    "houses": 18
+  },
+  {
+    "name": "מירקין",
+    "symbol": 823,
+    "houses": 7
+  },
+  {
+    "name": "מל\"ל",
+    "symbol": 1001,
+    "houses": 16
+  },
+  {
+    "name": "מלאכי",
+    "symbol": 1809,
+    "houses": 11
+  },
+  {
+    "name": "מלחי שלמה",
+    "symbol": 1725,
+    "houses": 5
+  },
+  {
+    "name": "מלכי צדק",
+    "symbol": 1706,
+    "houses": 26
+  },
+  {
+    "name": "מנדל מתתיהו",
+    "symbol": 1618,
+    "houses": 6
+  },
+  {
+    "name": "מנדס",
+    "symbol": 1732,
+    "houses": 66
+  },
+  {
+    "name": "מנחם",
+    "symbol": 1409,
+    "houses": 17
+  },
+  {
+    "name": "מנחם יצחק",
+    "symbol": 213,
+    "houses": 10
+  },
+  {
+    "name": "מעלה הבנים",
+    "symbol": 1216,
+    "houses": 24
+  },
+  {
+    "name": "מעלה הנשר",
+    "symbol": 811,
+    "houses": 7
+  },
+  {
+    "name": "מעלה הצבי",
+    "symbol": 608,
+    "houses": 10
+  },
+  {
+    "name": "מעלה הצופים",
+    "symbol": 607,
+    "houses": 27
+  },
+  {
+    "name": "מעלה השואבה",
+    "symbol": 302,
+    "houses": 10
+  },
+  {
+    "name": "מעלה השחר",
+    "symbol": 1211,
+    "houses": 18
+  },
+  {
+    "name": "מצדה",
+    "symbol": 1813,
+    "houses": 67
+  },
+  {
+    "name": "מצפה",
+    "symbol": 512,
+    "houses": 15
+  },
+  {
+    "name": "מקדונלד",
+    "symbol": 314,
+    "houses": 16
+  },
+  {
+    "name": "מקס ואנה ווב",
+    "symbol": 1643,
+    "houses": 0
+  },
+  {
+    "name": "מרדכי",
+    "symbol": 1420,
+    "houses": 28
+  },
+  {
+    "name": "מרים",
+    "symbol": 614,
+    "houses": 11
+  },
+  {
+    "name": "מרכז רפואי ע\"ש שיבא",
+    "symbol": 1748,
+    "houses": 0
+  },
+  {
+    "name": "משה גמליאל",
+    "symbol": 1644,
+    "houses": 0
+  },
+  {
+    "name": "משואה רמת אפעל",
+    "symbol": 3105,
+    "houses": 0
+  },
+  {
+    "name": "משמר הירדן",
+    "symbol": 1648,
+    "houses": 8
+  },
+  {
+    "name": "משעול ספראי",
+    "symbol": 725,
+    "houses": 3
+  },
+  {
+    "name": "משעול צבי ינאי",
+    "symbol": 320,
+    "houses": 0
+  },
+  {
+    "name": "מתחם האיצטדיון",
+    "symbol": 6513,
+    "houses": 0
+  },
+  {
+    "name": "מתחם מסובים",
+    "symbol": 1716,
+    "houses": 0
+  },
+  {
+    "name": "מתחם נגבה",
+    "symbol": 6515,
+    "houses": 0
+  },
+  {
+    "name": "מתחם קניון איילון",
+    "symbol": 6590,
+    "houses": 0
+  },
+  {
+    "name": "מתניה",
+    "symbol": 1720,
+    "houses": 20
+  },
+  {
+    "name": "נבטים רמת אפעל",
+    "symbol": 3123,
+    "houses": 0
+  },
+  {
+    "name": "נדוני קהיר",
+    "symbol": 1404,
+    "houses": 12
+  },
+  {
+    "name": "נהרדעא",
+    "symbol": 1671,
+    "houses": 9
+  },
+  {
+    "name": "נוה יהושע",
+    "symbol": 6541,
+    "houses": 59
+  },
+  {
+    "name": "נוה יעקב",
+    "symbol": 1538,
+    "houses": 12
+  },
+  {
+    "name": "נווה אפעל",
+    "symbol": 6630,
+    "houses": 0
+  },
+  {
+    "name": "נורדאו",
+    "symbol": 610,
+    "houses": 17
+  },
+  {
+    "name": "נורית",
+    "symbol": 130,
+    "houses": 5
+  },
+  {
+    "name": "נורית רמת אפעל",
+    "symbol": 3131,
+    "houses": 0
+  },
+  {
+    "name": "נחום",
+    "symbol": 1823,
+    "houses": 20
+  },
+  {
+    "name": "נחלה",
+    "symbol": 1841,
+    "houses": 8
+  },
+  {
+    "name": "נחליאלי",
+    "symbol": 136,
+    "houses": 8
+  },
+  {
+    "name": "נחלת יוסף",
+    "symbol": 722,
+    "houses": 10
+  },
+  {
+    "name": "נחשון",
+    "symbol": 1413,
+    "houses": 12
+  },
+  {
+    "name": "נטר",
+    "symbol": 1661,
+    "houses": 13
+  },
+  {
+    "name": "נץ",
+    "symbol": 144,
+    "houses": 10
+  },
+  {
+    "name": "נצנים",
+    "symbol": 122,
+    "houses": 12
+  },
+  {
+    "name": "נרדימון",
+    "symbol": 1547,
+    "houses": 7
+  },
+  {
+    "name": "נשיאי ישראל",
+    "symbol": 1845,
+    "houses": 19
+  },
+  {
+    "name": "נתן",
+    "symbol": 803,
+    "houses": 22
+  },
+  {
+    "name": "סאלק",
+    "symbol": 1118,
+    "houses": 14
+  },
+  {
+    "name": "סביון",
+    "symbol": 207,
+    "houses": 20
+  },
+  {
+    "name": "סוקולוב",
+    "symbol": 201,
+    "houses": 40
+  },
+  {
+    "name": "סורא",
+    "symbol": 1669,
+    "houses": 12
+  },
+  {
+    "name": "סטופ",
+    "symbol": 1673,
+    "houses": 4
+  },
+  {
+    "name": "סטרומה",
+    "symbol": 214,
+    "houses": 15
+  },
+  {
+    "name": "סיגלית",
+    "symbol": 1766,
+    "houses": 13
+  },
+  {
+    "name": "סיירת דוכיפת",
+    "symbol": 1632,
+    "houses": 21
+  },
+  {
+    "name": "סמ אלברט",
+    "symbol": 1646,
+    "houses": 15
+  },
+  {
+    "name": "סמ בדש ציון",
+    "symbol": 317,
+    "houses": 0
+  },
+  {
+    "name": "סמ ברקת ר\"א",
+    "symbol": 3152,
+    "houses": 0
+  },
+  {
+    "name": "סמ הבאר",
+    "symbol": 615,
+    "houses": 9
+  },
+  {
+    "name": "סמ היסמין",
+    "symbol": 1641,
+    "houses": 12
+  },
+  {
+    "name": "סמ המעלות",
+    "symbol": 606,
+    "houses": 8
+  },
+  {
+    "name": "סמ השלוח",
+    "symbol": 1215,
+    "houses": 10
+  },
+  {
+    "name": "סמ התלמיד",
+    "symbol": 907,
+    "houses": 0
+  },
+  {
+    "name": "סמ חיים אינטרטור",
+    "symbol": 1000,
+    "houses": 0
+  },
+  {
+    "name": "סמ יפתח",
+    "symbol": 1416,
+    "houses": 9
+  },
+  {
+    "name": "סמ לבני",
+    "symbol": 1544,
+    "houses": 0
+  },
+  {
+    "name": "סמ ספיר רמת אפעל",
+    "symbol": 3156,
+    "houses": 0
+  },
+  {
+    "name": "סמ עמק האלה",
+    "symbol": 1749,
+    "houses": 0
+  },
+  {
+    "name": "סמ קרן",
+    "symbol": 820,
+    "houses": 0
+  },
+  {
+    "name": "סמ שער הגיא",
+    "symbol": 1418,
+    "houses": 13
+  },
+  {
+    "name": "סמדר",
+    "symbol": 124,
+    "houses": 38
+  },
+  {
+    "name": "סמטת אירנה סנדלר",
+    "symbol": 1414,
+    "houses": 0
+  },
+  {
+    "name": "סמטת מנשה",
+    "symbol": 1521,
+    "houses": 0
+  },
+  {
+    "name": "סמטת ק\"ם",
+    "symbol": 1677,
+    "houses": 1
+  },
+  {
+    "name": "סן מרטין",
+    "symbol": 1805,
+    "houses": 10
+  },
+  {
+    "name": "סנהדרין",
+    "symbol": 1103,
+    "houses": 19
+  },
+  {
+    "name": "סנש חנה",
+    "symbol": 1124,
+    "houses": 0
+  },
+  {
+    "name": "ספיר יוסף",
+    "symbol": 1733,
+    "houses": 35
+  },
+  {
+    "name": "ספיר רמת אפעל",
+    "symbol": 3154,
+    "houses": 0
+  },
+  {
+    "name": "עובדיה",
+    "symbol": 1814,
+    "houses": 12
+  },
+  {
+    "name": "עודד",
+    "symbol": 1803,
+    "houses": 13
+  },
+  {
+    "name": "עוזיאל",
+    "symbol": 1401,
+    "houses": 155
+  },
+  {
+    "name": "עולי הגרדום",
+    "symbol": 1615,
+    "houses": 23
+  },
+  {
+    "name": "עזריאל",
+    "symbol": 1709,
+    "houses": 25
+  },
+  {
+    "name": "עטרות",
+    "symbol": 1302,
+    "houses": 35
+  },
+  {
+    "name": "עידו",
+    "symbol": 1822,
+    "houses": 14
+  },
+  {
+    "name": "עין יהב",
+    "symbol": 1674,
+    "houses": 6
+  },
+  {
+    "name": "עיר גנים",
+    "symbol": 505,
+    "houses": 11
+  },
+  {
+    "name": "עלומים",
+    "symbol": 1504,
+    "houses": 39
+  },
+  {
+    "name": "עליה ראשונה",
+    "symbol": 1624,
+    "houses": 18
+  },
+  {
+    "name": "עליה שלישית",
+    "symbol": 1623,
+    "houses": 11
+  },
+  {
+    "name": "עליה שניה",
+    "symbol": 1625,
+    "houses": 13
+  },
+  {
+    "name": "עלית הנוער",
+    "symbol": 1637,
+    "houses": 0
+  },
+  {
+    "name": "עמוס",
+    "symbol": 1827,
+    "houses": 23
+  },
+  {
+    "name": "עמינדב",
+    "symbol": 1524,
+    "houses": 11
+  },
+  {
+    "name": "עמיקם",
+    "symbol": 1209,
+    "houses": 9
+  },
+  {
+    "name": "עמק דותן",
+    "symbol": 1739,
+    "houses": 23
+  },
+  {
+    "name": "עמק האלה",
+    "symbol": 1738,
+    "houses": 55
+  },
+  {
+    "name": "עמק הארזים",
+    "symbol": 1740,
+    "houses": 0
+  },
+  {
+    "name": "עמק החולה",
+    "symbol": 1633,
+    "houses": 0
+  },
+  {
+    "name": "עציון",
+    "symbol": 1212,
+    "houses": 26
+  },
+  {
+    "name": "פבריגט",
+    "symbol": 1407,
+    "houses": 34
+  },
+  {
+    "name": "פומבדיתא",
+    "symbol": 1670,
+    "houses": 13
+  },
+  {
+    "name": "פלי\"ם כפר אז\"ר",
+    "symbol": 3311,
+    "houses": 0
+  },
+  {
+    "name": "פנחס",
+    "symbol": 1502,
+    "houses": 87
+  },
+  {
+    "name": "פני הגבעה",
+    "symbol": 308,
+    "houses": 30
+  },
+  {
+    "name": "פנקס",
+    "symbol": 1602,
+    "houses": 23
+  },
+  {
+    "name": "פרוג שמעון",
+    "symbol": 604,
+    "houses": 12
+  },
+  {
+    "name": "פרופס",
+    "symbol": 1548,
+    "houses": 11
+  },
+  {
+    "name": "פתייה",
+    "symbol": 1540,
+    "houses": 10
+  },
+  {
+    "name": "צאלים",
+    "symbol": 121,
+    "houses": 15
+  },
+  {
+    "name": "צאלים רמת אפעל",
+    "symbol": 3114,
+    "houses": 0
+  },
+  {
+    "name": "צבי",
+    "symbol": 402,
+    "houses": 15
+  },
+  {
+    "name": "צה\"ל כפר אז\"ר",
+    "symbol": 3305,
+    "houses": 0
+  },
+  {
+    "name": "צומת לבבי",
+    "symbol": 716,
+    "houses": 6
+  },
+  {
+    "name": "צופר רמת אפעל",
+    "symbol": 3127,
+    "houses": 0
+  },
+  {
+    "name": "צור רמת אפעל",
+    "symbol": 3153,
+    "houses": 0
+  },
+  {
+    "name": "צוריאל",
+    "symbol": 312,
+    "houses": 6
+  },
+  {
+    "name": "צל הגבעה",
+    "symbol": 1207,
+    "houses": 29
+  },
+  {
+    "name": "צפניה",
+    "symbol": 1818,
+    "houses": 17
+  },
+  {
+    "name": "קארו יוסף",
+    "symbol": 1650,
+    "houses": 10
+  },
+  {
+    "name": "קדמה",
+    "symbol": 1119,
+    "houses": 9
+  },
+  {
+    "name": "קדרון",
+    "symbol": 1620,
+    "houses": 2
+  },
+  {
+    "name": "קוממיות",
+    "symbol": 1222,
+    "houses": 10
+  },
+  {
+    "name": "קיש",
+    "symbol": 1419,
+    "houses": 31
+  },
+  {
+    "name": "קלאוזנר",
+    "symbol": 714,
+    "houses": 15
+  },
+  {
+    "name": "קליר אברהם ונעימה",
+    "symbol": 1213,
+    "houses": 0
+  },
+  {
+    "name": "קניון אילון",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "קפלן",
+    "symbol": 1412,
+    "houses": 14
+  },
+  {
+    "name": "קציעה רמת אפעל",
+    "symbol": 3133,
+    "houses": 0
+  },
+  {
+    "name": "קציר",
+    "symbol": 1731,
+    "houses": 35
+  },
+  {
+    "name": "קרייתי",
+    "symbol": 1835,
+    "houses": 29
+  },
+  {
+    "name": "קריניצי",
+    "symbol": 719,
+    "houses": 114
+  },
+  {
+    "name": "קרית גן",
+    "symbol": 6557,
+    "houses": 0
+  },
+  {
+    "name": "קרית סגל נווה אפעל",
+    "symbol": 6631,
+    "houses": 0
+  },
+  {
+    "name": "קרית קריניצי",
+    "symbol": 6571,
+    "houses": 0
+  },
+  {
+    "name": "קרסקי",
+    "symbol": 1220,
+    "houses": 18
+  },
+  {
+    "name": "רא\"ל משה לוי",
+    "symbol": 1830,
+    "houses": 0
+  },
+  {
+    "name": "ראש פנה",
+    "symbol": 1649,
+    "houses": 37
+  },
+  {
+    "name": "רבדים",
+    "symbol": 1636,
+    "houses": 0
+  },
+  {
+    "name": "רבי",
+    "symbol": 1022,
+    "houses": 0
+  },
+  {
+    "name": "רד\"ק",
+    "symbol": 1017,
+    "houses": 15
+  },
+  {
+    "name": "רודין",
+    "symbol": 1660,
+    "houses": 8
+  },
+  {
+    "name": "רוזן",
+    "symbol": 1832,
+    "houses": 34
+  },
+  {
+    "name": "רוחמה",
+    "symbol": 1315,
+    "houses": 52
+  },
+  {
+    "name": "רועי קליין",
+    "symbol": 1751,
+    "houses": 0
+  },
+  {
+    "name": "רוקח",
+    "symbol": 307,
+    "houses": 105
+  },
+  {
+    "name": "רות",
+    "symbol": 107,
+    "houses": 17
+  },
+  {
+    "name": "רותם",
+    "symbol": 1761,
+    "houses": 11
+  },
+  {
+    "name": "רזיאל",
+    "symbol": 1806,
+    "houses": 44
+  },
+  {
+    "name": "רחובות הנהר",
+    "symbol": 105,
+    "houses": 22
+  },
+  {
+    "name": "רייק חביבה",
+    "symbol": 142,
+    "houses": 17
+  },
+  {
+    "name": "רימון רמת אפעל",
+    "symbol": 3144,
+    "houses": 0
+  },
+  {
+    "name": "רימלט אלימלך",
+    "symbol": 1121,
+    "houses": 14
+  },
+  {
+    "name": "רמבה",
+    "symbol": 134,
+    "houses": 23
+  },
+  {
+    "name": "רמז",
+    "symbol": 1411,
+    "houses": 13
+  },
+  {
+    "name": "רמת אפעל",
+    "symbol": 6610,
+    "houses": 0
+  },
+  {
+    "name": "רמת חן",
+    "symbol": 6572,
+    "houses": 46
+  },
+  {
+    "name": "רמת עמידר",
+    "symbol": 6547,
+    "houses": 0
+  },
+  {
+    "name": "רמת שיקמה",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "רננים",
+    "symbol": 128,
+    "houses": 15
+  },
+  {
+    "name": "רפאל איתן כפר אז\"ר",
+    "symbol": 3315,
+    "houses": 0
+  },
+  {
+    "name": "רקפת",
+    "symbol": 131,
+    "houses": 13
+  },
+  {
+    "name": "רש\"י",
+    "symbol": 208,
+    "houses": 37
+  },
+  {
+    "name": "ש אחיות",
+    "symbol": 6574,
+    "houses": 0
+  },
+  {
+    "name": "ש אקדמאים",
+    "symbol": 6575,
+    "houses": 0
+  },
+  {
+    "name": "ש גרין",
+    "symbol": 6566,
+    "houses": 0
+  },
+  {
+    "name": "ש הבולגרים",
+    "symbol": 6543,
+    "houses": 0
+  },
+  {
+    "name": "ש הפומז",
+    "symbol": 6558,
+    "houses": 0
+  },
+  {
+    "name": "ש חרות",
+    "symbol": 6559,
+    "houses": 0
+  },
+  {
+    "name": "ש מזרחי",
+    "symbol": 6545,
+    "houses": 0
+  },
+  {
+    "name": "ש מפדה אזרחי",
+    "symbol": 6546,
+    "houses": 0
+  },
+  {
+    "name": "ש משכנות",
+    "symbol": 6560,
+    "houses": 0
+  },
+  {
+    "name": "ש סלמה",
+    "symbol": 6576,
+    "houses": 0
+  },
+  {
+    "name": "ש סלמה מזריץ",
+    "symbol": 6561,
+    "houses": 0
+  },
+  {
+    "name": "ש סלע",
+    "symbol": 6578,
+    "houses": 0
+  },
+  {
+    "name": "ש עירוני",
+    "symbol": 6562,
+    "houses": 0
+  },
+  {
+    "name": "ש עממי רסקו",
+    "symbol": 6579,
+    "houses": 0
+  },
+  {
+    "name": "ש עמק דותן",
+    "symbol": 6580,
+    "houses": 0
+  },
+  {
+    "name": "ש פרדס אברלה",
+    "symbol": 6548,
+    "houses": 0
+  },
+  {
+    "name": "ש פרוגרסיבים",
+    "symbol": 6563,
+    "houses": 0
+  },
+  {
+    "name": "ש צבא קבע",
+    "symbol": 6581,
+    "houses": 0
+  },
+  {
+    "name": "ש צנחנים",
+    "symbol": 6582,
+    "houses": 0
+  },
+  {
+    "name": "ש רמת יצחק",
+    "symbol": 6556,
+    "houses": 0
+  },
+  {
+    "name": "ש רסקו",
+    "symbol": 6583,
+    "houses": 0
+  },
+  {
+    "name": "ש\"י עגנון",
+    "symbol": 1743,
+    "houses": 0
+  },
+  {
+    "name": "שאנן",
+    "symbol": 713,
+    "houses": 23
+  },
+  {
+    "name": "שאר ישוב",
+    "symbol": 1672,
+    "houses": 14
+  },
+  {
+    "name": "שד אברהם",
+    "symbol": 807,
+    "houses": 15
+  },
+  {
+    "name": "שד בן צבי",
+    "symbol": 1701,
+    "houses": 61
+  },
+  {
+    "name": "שד האורנים רמת אפעל",
+    "symbol": 3109,
+    "houses": 0
+  },
+  {
+    "name": "שד הארזים רמת אפעל",
+    "symbol": 3112,
+    "houses": 0
+  },
+  {
+    "name": "שד הברושים רמת אפעל",
+    "symbol": 3108,
+    "houses": 0
+  },
+  {
+    "name": "שד הגבורים",
+    "symbol": 814,
+    "houses": 9
+  },
+  {
+    "name": "שד הטייס",
+    "symbol": 721,
+    "houses": 8
+  },
+  {
+    "name": "שד הילד",
+    "symbol": 706,
+    "houses": 25
+  },
+  {
+    "name": "שד הכלניות",
+    "symbol": 129,
+    "houses": 5
+  },
+  {
+    "name": "שד הנרקיסים",
+    "symbol": 118,
+    "houses": 51
+  },
+  {
+    "name": "שד העם הצרפתי",
+    "symbol": 112,
+    "houses": 58
+  },
+  {
+    "name": "שד הצנחנים",
+    "symbol": 1519,
+    "houses": 37
+  },
+  {
+    "name": "שד הקונגרס",
+    "symbol": 1508,
+    "houses": 34
+  },
+  {
+    "name": "שד השחרור",
+    "symbol": 1408,
+    "houses": 20
+  },
+  {
+    "name": "שד התמרים",
+    "symbol": 901,
+    "houses": 17
+  },
+  {
+    "name": "שד טובים",
+    "symbol": 113,
+    "houses": 5
+  },
+  {
+    "name": "שד יהדות פילדלפיה",
+    "symbol": 1718,
+    "houses": 0
+  },
+  {
+    "name": "שד ירושלים",
+    "symbol": 1202,
+    "houses": 106
+  },
+  {
+    "name": "שד למדן",
+    "symbol": 712,
+    "houses": 8
+  },
+  {
+    "name": "שד נחמה",
+    "symbol": 613,
+    "houses": 4
+  },
+  {
+    "name": "שד ק\"ם",
+    "symbol": 1675,
+    "houses": 17
+  },
+  {
+    "name": "שדרות הצבי",
+    "symbol": 1703,
+    "houses": 0
+  },
+  {
+    "name": "שדרות ויצ\"ו",
+    "symbol": 1690,
+    "houses": 0
+  },
+  {
+    "name": "שדרת גידי",
+    "symbol": 133,
+    "houses": 8
+  },
+  {
+    "name": "שוהם",
+    "symbol": 417,
+    "houses": 6
+  },
+  {
+    "name": "שועלי שמשון",
+    "symbol": 1206,
+    "houses": 12
+  },
+  {
+    "name": "שושנים",
+    "symbol": 117,
+    "houses": 15
+  },
+  {
+    "name": "שז\"ר",
+    "symbol": 1846,
+    "houses": 72
+  },
+  {
+    "name": "שחם רמת אפעל",
+    "symbol": 3157,
+    "houses": 0
+  },
+  {
+    "name": "שיאון",
+    "symbol": 821,
+    "houses": 10
+  },
+  {
+    "name": "שיכון בנים כפר אז\"ר",
+    "symbol": 6621,
+    "houses": 0
+  },
+  {
+    "name": "שיכון ותיקים",
+    "symbol": 6506,
+    "houses": 0
+  },
+  {
+    "name": "שיכון עלית",
+    "symbol": 6512,
+    "houses": 0
+  },
+  {
+    "name": "שילה",
+    "symbol": 715,
+    "houses": 26
+  },
+  {
+    "name": "שכ בר אילן",
+    "symbol": 6530,
+    "houses": 0
+  },
+  {
+    "name": "שכ גב גאולה",
+    "symbol": 6584,
+    "houses": 0
+  },
+  {
+    "name": "שכ גפן",
+    "symbol": 6507,
+    "houses": 26
+  },
+  {
+    "name": "שכ הלל",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "שכ חרוזים",
+    "symbol": 6587,
+    "houses": 0
+  },
+  {
+    "name": "שכ מרום נווה",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "שכ נחלת גנים",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "שכ ק בורוכוב",
+    "symbol": 6564,
+    "houses": 0
+  },
+  {
+    "name": "שכ ראשונים",
+    "symbol": 6588,
+    "houses": 0
+  },
+  {
+    "name": "שכ שפירא",
+    "symbol": 6516,
+    "houses": 0
+  },
+  {
+    "name": "שכ תל גנים",
+    "symbol": 6565,
+    "houses": 0
+  },
+  {
+    "name": "שכ תל יהודה",
+    "symbol": 6508,
+    "houses": 0
+  },
+  {
+    "name": "שכטרמן רמת אפעל",
+    "symbol": 3135,
+    "houses": 0
+  },
+  {
+    "name": "שלום עליכם",
+    "symbol": 1722,
+    "houses": 30
+  },
+  {
+    "name": "שלום שבזי",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "שלומציון",
+    "symbol": 1527,
+    "houses": 22
+  },
+  {
+    "name": "שלם",
+    "symbol": 1714,
+    "houses": 36
+  },
+  {
+    "name": "שמואלי",
+    "symbol": 120,
+    "houses": 5
+  },
+  {
+    "name": "שמחה",
+    "symbol": 507,
+    "houses": 10
+  },
+  {
+    "name": "שמעוני",
+    "symbol": 1710,
+    "houses": 12
+  },
+  {
+    "name": "שמרלינג",
+    "symbol": 413,
+    "houses": 5
+  },
+  {
+    "name": "שניאור זלמן",
+    "symbol": 1652,
+    "houses": 12
+  },
+  {
+    "name": "שפירא",
+    "symbol": 506,
+    "houses": 21
+  },
+  {
+    "name": "שקדיה",
+    "symbol": 306,
+    "houses": 13
+  },
+  {
+    "name": "שרירא גאון",
+    "symbol": 1662,
+    "houses": 6
+  },
+  {
+    "name": "שרת משה",
+    "symbol": 806,
+    "houses": 54
+  },
+  {
+    "name": "שתיל",
+    "symbol": 711,
+    "houses": 8
+  },
+  {
+    "name": "תדהר",
+    "symbol": 1843,
+    "houses": 35
+  },
+  {
+    "name": "תדהר רמת אפעל",
+    "symbol": 3122,
+    "houses": 0
+  },
+  {
+    "name": "תובל",
+    "symbol": 404,
+    "houses": 36
+  },
+  {
+    "name": "תל בנימין",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "תל השומר",
+    "symbol": 6585,
+    "houses": 0
+  },
+  {
+    "name": "תל חי",
+    "symbol": 1512,
+    "houses": 64
+  },
+  {
+    "name": "תל חי כפר אז\"ר",
+    "symbol": 3306,
+    "houses": 0
+  },
+  {
+    "name": "תלפיות",
+    "symbol": 311,
+    "houses": 37
+  },
+  {
+    "name": "תמרי נחמיה",
+    "symbol": 1104,
+    "houses": 19
+  },
+  {
+    "name": "תנועת המרי",
+    "symbol": 1410,
+    "houses": 18
+  },
+  {
+    "name": "תע\"ש",
+    "symbol": 522,
+    "houses": 7
+  },
+  {
+    "name": "תפארת ישראל",
+    "symbol": 1606,
+    "houses": 14
+  },
+  {
+    "name": "תפארת צבי רמת אפעל",
+    "symbol": 6601,
+    "houses": 0
+  },
+  {
+    "name": "תרס\"ח",
+    "symbol": 1645,
+    "houses": 0
+  },
+  {
+    "name": "תרע\"ד",
+    "symbol": 502,
+    "houses": 30
+  },
+  {
+    "name": "תרפ\"ב",
+    "symbol": 521,
+    "houses": 20
+  },
+  {
+    "name": "תרצה",
+    "symbol": 1109,
+    "houses": 27
+  },
+  {
+    "name": "תש\"י",
+    "symbol": 501,
+    "houses": 18
+  }
+]

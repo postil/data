@@ -1,0 +1,237 @@
+[
+  {
+    "name": "אזור תעשייה",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "האיכר",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "האירוס",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "הארזים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "האשד",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "הבלוע",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "הגולן",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "הגורן",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הגפן",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "הדובדבן",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "הזית",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "החורשה",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "החצבים",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "החקורה",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "החרמון",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הטחנה",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "הכלנית",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "הלבנון",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "המורג",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "המעיין",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "המפל",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "הנדיב",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "הנורית",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "הנרקיס",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "הסביון",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "הסחלב",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "הערבה",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "הצבעונים",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "הר הצפייה",
+    "symbol": 6509,
+    "houses": 0
+  },
+  {
+    "name": "הראשונים",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הרחבה חדשה",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "הרימון",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "הרקפת",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "השמורה",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "התאנה",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "התנור",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "מעלה ארז",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "מעלה דדו",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "מעלה הצפיה",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "מצפה החולה",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "מצפה נפתלי",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "סמ הבוסתן",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "עיון",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "ש דרום",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "ש עמידר",
+    "symbol": 6506,
+    "houses": 0
+  },
+  {
+    "name": "שכ הזיתים",
+    "symbol": 6508,
+    "houses": 0
+  },
+  {
+    "name": "שכ הרחבה ג",
+    "symbol": 6501,
+    "houses": 0
+  }
+]

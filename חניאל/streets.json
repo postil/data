@@ -1,0 +1,42 @@
+[
+  {
+    "name": "האורן",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "הגבעה",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הגיא",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "החרוב",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "הראשונים",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "ככר אורנים",
+    "symbol": 6001,
+    "houses": 0
+  },
+  {
+    "name": "סמ הבאר",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "סמ הפרדס",
+    "symbol": 106,
+    "houses": 0
+  }
+]

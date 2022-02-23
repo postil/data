@@ -1,0 +1,122 @@
+[
+  {
+    "name": "הבאר",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הבנים",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "הגן",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "ההרחבה",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הזורעים",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "המחלבה",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "המחרשה",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "המייסדים",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "הממשיכים",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "העליה",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "סמ האפרסמון",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "סמ האפרסק",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "סמ הגפן",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "סמ הדגן",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "סמ הזית",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "סמ החיטה",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "סמ החרוב",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "סמ הרימון",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "סמ השיבולת",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "סמ השעורה",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "סמ התאנה",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "סמ התבואה",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "סמ התפוח",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "שכ קרוונים",
+    "symbol": 101,
+    "houses": 0
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "name": "אודם",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "אזור תעשייה",
+    "symbol": 6507,
+    "houses": 0
+  },
+  {
+    "name": "ברקת",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "גבעת הלבונה",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "דרך י\"ד באלול",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "דרך עמיחי",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "האגוז",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "האורן",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "האלה",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "האלון",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הארז",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "הדובדבן",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "הדולב",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "ההרדוף",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "הורד",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "החבצלת",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "החורש",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "החצב",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "החרוב",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "היסמין",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "היערה",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "היקינטון",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "הירדן",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "הכינור",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "הכלנית",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "הכרכום",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "הלילך",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "המוריה",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "המרגנית",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "הנבל",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "הנורית",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "הנרקיס",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "הסביון",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "הסייפן",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "העשור",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "הפעמון",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "הפרג",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "הצבעוני",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "הצפצפה",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "הר ציון",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "הרותם",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "הרקפת",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "השקד",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "השקמה",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "יהלום",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "לוע הארי",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "לשם",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "מבצע הראל",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "מבצע נחשון",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "נאות אילן",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "נאות חן",
+    "symbol": 6501,
+    "houses": 0
+  },
+  {
+    "name": "נוה שהם",
+    "symbol": 6503,
+    "houses": 0
+  },
+  {
+    "name": "נוה שיר",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "נוף הרים",
+    "symbol": 6504,
+    "houses": 0
+  },
+  {
+    "name": "ספיר",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "פטדה",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "שד עלי הכהן",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "שהם",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "שכ היובל",
+    "symbol": 6508,
+    "houses": 0
+  },
+  {
+    "name": "שכ ט",
+    "symbol": 6506,
+    "houses": 0
+  },
+  {
+    "name": "שכ פלגי מים",
+    "symbol": 6509,
+    "houses": 0
+  },
+  {
+    "name": "שכ שונה",
+    "symbol": 6505,
+    "houses": 0
+  },
+  {
+    "name": "שניר",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "תרשיש",
+    "symbol": 151,
+    "houses": 0
+  }
+]

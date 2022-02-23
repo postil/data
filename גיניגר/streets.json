@@ -1,0 +1,142 @@
+[
+  {
+    "name": "אל היער",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "בית ראשון במולדת",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "דרך הגבעות",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "דרך הדשאים",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "דרך החשמל",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "דרך הכרמים",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "דרך המפעל",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "דרך הראשונים",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "דרך הרפת",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "האשכולית",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "החינוך המשותף",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "הטבעונים",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "היער המכושף",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "המקומרים",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "הפומלית",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "הפסגה",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "הצעירים",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "השכונה הדרומית",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "התפוז",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "חלוצי דגניה ג'",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "לינה כפרית",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "משמר הוולגה",
+    "symbol": 119,
+    "houses": 0
+  },
+  {
+    "name": "עלי גבעה",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "שביל האולפן",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "שדרת הדקלים",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "שדרת הזיתים",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "שיכון ל",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "שכונת הדר",
+    "symbol": 121,
+    "houses": 0
+  }
+]

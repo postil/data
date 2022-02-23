@@ -1,0 +1,42 @@
+[
+  {
+    "name": "האורן",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "האתרוג",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "ההדרים",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "הפרדס",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "התפוז",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "סמטת האשכולית",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "סמטת הלימון",
+    "symbol": 106,
+    "houses": 0
+  },
+  {
+    "name": "סמטת הפומלית",
+    "symbol": 107,
+    "houses": 0
+  }
+]

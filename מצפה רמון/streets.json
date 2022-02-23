@@ -1,0 +1,377 @@
+[
+  {
+    "name": "אזור התעשיה",
+    "symbol": 150,
+    "houses": 0
+  },
+  {
+    "name": "בי\"ס שדה הר הנגב",
+    "symbol": 7004,
+    "houses": 0
+  },
+  {
+    "name": "גנדי (רחבעם זאבי)",
+    "symbol": 127,
+    "houses": 0
+  },
+  {
+    "name": "דרך בראשית",
+    "symbol": 130,
+    "houses": 0
+  },
+  {
+    "name": "דרך מצפה הכוכבים",
+    "symbol": 149,
+    "houses": 0
+  },
+  {
+    "name": "דרך צלילי מדבר",
+    "symbol": 131,
+    "houses": 0
+  },
+  {
+    "name": "דרך רמון",
+    "symbol": 103,
+    "houses": 0
+  },
+  {
+    "name": "דרך שפת המדבר",
+    "symbol": 132,
+    "houses": 0
+  },
+  {
+    "name": "האירוס",
+    "symbol": 171,
+    "houses": 0
+  },
+  {
+    "name": "החצב",
+    "symbol": 170,
+    "houses": 0
+  },
+  {
+    "name": "הצבעוני",
+    "symbol": 172,
+    "houses": 0
+  },
+  {
+    "name": "הר אלדד",
+    "symbol": 124,
+    "houses": 0
+  },
+  {
+    "name": "הר ארדון",
+    "symbol": 118,
+    "houses": 0
+  },
+  {
+    "name": "הר בוקר",
+    "symbol": 146,
+    "houses": 0
+  },
+  {
+    "name": "הר חמת",
+    "symbol": 122,
+    "houses": 0
+  },
+  {
+    "name": "הר נפחא",
+    "symbol": 123,
+    "houses": 0
+  },
+  {
+    "name": "הר עודד",
+    "symbol": 117,
+    "houses": 0
+  },
+  {
+    "name": "הר עריף",
+    "symbol": 105,
+    "houses": 0
+  },
+  {
+    "name": "הר צין",
+    "symbol": 134,
+    "houses": 0
+  },
+  {
+    "name": "הר קטום",
+    "symbol": 121,
+    "houses": 0
+  },
+  {
+    "name": "הר קירטון",
+    "symbol": 116,
+    "houses": 0
+  },
+  {
+    "name": "הר שגיא",
+    "symbol": 115,
+    "houses": 0
+  },
+  {
+    "name": "השיטה",
+    "symbol": 128,
+    "houses": 0
+  },
+  {
+    "name": "חוות האלפקות",
+    "symbol": 7003,
+    "houses": 0
+  },
+  {
+    "name": "טיילת אלברט כץ",
+    "symbol": 144,
+    "houses": 0
+  },
+  {
+    "name": "כלא נפחא",
+    "symbol": 7002,
+    "houses": 0
+  },
+  {
+    "name": "מושבת האומנויות",
+    "symbol": 133,
+    "houses": 0
+  },
+  {
+    "name": "מחנה טלי",
+    "symbol": 7001,
+    "houses": 0
+  },
+  {
+    "name": "מעלה בן תור",
+    "symbol": 129,
+    "houses": 0
+  },
+  {
+    "name": "מעלה הדקל",
+    "symbol": 137,
+    "houses": 0
+  },
+  {
+    "name": "מעלה מחמל",
+    "symbol": 114,
+    "houses": 0
+  },
+  {
+    "name": "נחל אילות",
+    "symbol": 166,
+    "houses": 0
+  },
+  {
+    "name": "נחל ברק",
+    "symbol": 153,
+    "houses": 0
+  },
+  {
+    "name": "נחל גוונים",
+    "symbol": 154,
+    "houses": 0
+  },
+  {
+    "name": "נחל גרופית",
+    "symbol": 101,
+    "houses": 0
+  },
+  {
+    "name": "נחל האלה",
+    "symbol": 108,
+    "houses": 0
+  },
+  {
+    "name": "נחל ורדית",
+    "symbol": 164,
+    "houses": 0
+  },
+  {
+    "name": "נחל חוה",
+    "symbol": 113,
+    "houses": 0
+  },
+  {
+    "name": "נחל חולית",
+    "symbol": 159,
+    "houses": 0
+  },
+  {
+    "name": "נחל חמדה",
+    "symbol": 162,
+    "houses": 0
+  },
+  {
+    "name": "נחל טרשים",
+    "symbol": 167,
+    "houses": 0
+  },
+  {
+    "name": "נחל כרכום",
+    "symbol": 151,
+    "houses": 0
+  },
+  {
+    "name": "נחל מישר",
+    "symbol": 102,
+    "houses": 0
+  },
+  {
+    "name": "נחל מנוחה",
+    "symbol": 160,
+    "houses": 0
+  },
+  {
+    "name": "נחל ניצנה",
+    "symbol": 168,
+    "houses": 0
+  },
+  {
+    "name": "נחל נקרות",
+    "symbol": 111,
+    "houses": 0
+  },
+  {
+    "name": "נחל סירה",
+    "symbol": 163,
+    "houses": 0
+  },
+  {
+    "name": "נחל סלעית",
+    "symbol": 147,
+    "houses": 0
+  },
+  {
+    "name": "נחל סרפד",
+    "symbol": 145,
+    "houses": 0
+  },
+  {
+    "name": "נחל ערבה",
+    "symbol": 109,
+    "houses": 0
+  },
+  {
+    "name": "נחל ערוד",
+    "symbol": 112,
+    "houses": 0
+  },
+  {
+    "name": "נחל פארן",
+    "symbol": 155,
+    "houses": 0
+  },
+  {
+    "name": "נחל ציה",
+    "symbol": 120,
+    "houses": 0
+  },
+  {
+    "name": "נחל ציחור",
+    "symbol": 107,
+    "houses": 0
+  },
+  {
+    "name": "נחל צניפים",
+    "symbol": 169,
+    "houses": 0
+  },
+  {
+    "name": "נחל רעים",
+    "symbol": 161,
+    "houses": 0
+  },
+  {
+    "name": "נחל רעף",
+    "symbol": 125,
+    "houses": 0
+  },
+  {
+    "name": "סוכה במדבר",
+    "symbol": 7005,
+    "houses": 0
+  },
+  {
+    "name": "סמטת קרני רמון",
+    "symbol": 173,
+    "houses": 0
+  },
+  {
+    "name": "עין המערה",
+    "symbol": 142,
+    "houses": 0
+  },
+  {
+    "name": "עין זיק",
+    "symbol": 136,
+    "houses": 0
+  },
+  {
+    "name": "עין מור",
+    "symbol": 139,
+    "houses": 0
+  },
+  {
+    "name": "עין משק",
+    "symbol": 141,
+    "houses": 0
+  },
+  {
+    "name": "עין סהרונים",
+    "symbol": 138,
+    "houses": 0
+  },
+  {
+    "name": "עין עבדת",
+    "symbol": 104,
+    "houses": 0
+  },
+  {
+    "name": "עין עופרים",
+    "symbol": 135,
+    "houses": 0
+  },
+  {
+    "name": "עין עקב",
+    "symbol": 140,
+    "houses": 0
+  },
+  {
+    "name": "עין שביב",
+    "symbol": 152,
+    "houses": 0
+  },
+  {
+    "name": "עין שחק",
+    "symbol": 148,
+    "houses": 0
+  },
+  {
+    "name": "רמת ספיר",
+    "symbol": 6502,
+    "houses": 0
+  },
+  {
+    "name": "ש צבא קבע",
+    "symbol": 6500,
+    "houses": 0
+  },
+  {
+    "name": "שד בן גוריון",
+    "symbol": 110,
+    "houses": 0
+  },
+  {
+    "name": "שד הר הגמל",
+    "symbol": 126,
+    "houses": 0
+  },
+  {
+    "name": "שדרות קק\"ל",
+    "symbol": 143,
+    "houses": 0
+  },
+  {
+    "name": "שכון ד",
+    "symbol": 6501,
+    "houses": 0
+  }
+]
