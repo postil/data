@@ -492,7 +492,7 @@
   {
     "name": "הר ארבל",
     "symbol": 365,
-    "houses": 0
+    "houses": 37
   },
   {
     "name": "הר ארגמן",
@@ -547,7 +547,7 @@
   {
     "name": "הר חרמון",
     "symbol": 363,
-    "houses": 0
+    "houses": 17
   },
   {
     "name": "הר יהל",
@@ -557,7 +557,7 @@
   {
     "name": "הר כנען",
     "symbol": 367,
-    "houses": 0
+    "houses": 13
   },
   {
     "name": "הר כפיר",
@@ -567,12 +567,12 @@
   {
     "name": "הר כרכום",
     "symbol": 369,
-    "houses": 0
+    "houses": 2
   },
   {
     "name": "הר כרמל",
     "symbol": 368,
-    "houses": 0
+    "houses": 20
   },
   {
     "name": "הר מוריה",
@@ -582,7 +582,7 @@
   {
     "name": "הר מירון",
     "symbol": 366,
-    "houses": 0
+    "houses": 12
   },
   {
     "name": "הר נבו",
@@ -612,17 +612,17 @@
   {
     "name": "הר שגיא",
     "symbol": 381,
-    "houses": 0
+    "houses": 11
   },
   {
     "name": "הר שניר",
     "symbol": 380,
-    "houses": 0
+    "houses": 12
   },
   {
     "name": "הר תבור",
     "symbol": 364,
-    "houses": 0
+    "houses": 10
   },
   {
     "name": "הרב אבוחצירה",
